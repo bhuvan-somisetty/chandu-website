@@ -2,9 +2,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { ChevronRight } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { useHeartNavigation } from '../context/NavigationContext';
 
 export default function Home() {
-  const navigate = useNavigate();
+  const { navigateWithHeart } = useHeartNavigation();
 
   return (
     <motion.div
@@ -25,7 +26,7 @@ export default function Home() {
         className="z-10 mt-10 md:mt-0"
       >
         <h1 className="text-5xl md:text-8xl font-black mb-6 tracking-tight text-transparent bg-clip-text bg-gradient-to-br from-purple-400 via-pink-300 to-blue-400 drop-shadow-[0_0_20px_rgba(236,72,153,0.3)] filter">
-          Happy Birthday <br /> Chandu ✨
+          Happy Birthday <br /> Love 💖
         </h1>
         
         <motion.p 
@@ -44,7 +45,7 @@ export default function Home() {
         transition={{ delay: 2, duration: 1 }}
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
-        onClick={() => navigate('/journey')}
+        onClick={() => navigateWithHeart('/journey')}
         className="z-10 group relative px-8 py-4 bg-white/5 backdrop-blur-md rounded-full border border-white/20 text-white font-medium tracking-widest text-lg shadow-[0_0_30px_rgba(192,38,211,0.3)] hover:shadow-[0_0_50px_rgba(236,72,153,0.5)] transition-all flex items-center gap-3 overflow-hidden"
       >
         <span className="relative z-10">Open Journey</span>

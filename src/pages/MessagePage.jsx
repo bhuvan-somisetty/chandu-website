@@ -66,14 +66,14 @@ export default function MessagePage() {
           
           <div className="pt-8 mt-8 border-t border-white/10">
             <h3 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-pink-300 to-purple-300 mb-6 drop-shadow-md">
-              Happy Birthday once again, Chandu 🎂✨
+              Once again Happy Birthday Bangari ❤️
             </h3>
             <p className="text-[1.1rem]">Wishing you a lifetime of happiness, endless success, and a friendship that only grows stronger. Here's to making many more memories!</p>
           </div>
 
           <div className="pt-10 flex flex-col items-center">
             <p className="text-2xl font-medium text-pink-300 mb-8 italic">
-              With lots of love, <br/> Tejaswini ❤️
+              With lots of love, <br/> your Andhra Pilla
             </p>
             <div className="flex items-center gap-2 text-xs text-gray-400 uppercase tracking-[0.3em]">
               <span>Made with</span>

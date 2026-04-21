@@ -17,7 +17,7 @@ export default function Hero() {
         className="z-10"
       >
         <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 drop-shadow-lg p-2">
-          Happy Birthday Chandu ✨
+          Happy Birthday Love 💖
         </h1>
         
         <motion.p 

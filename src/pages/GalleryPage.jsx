@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
+import { useHeartNavigation } from '../context/NavigationContext';
 
 const duoPhotos = [
   { id: 1, src: '/images/1.jpeg', alt: 'Memory 1', tag: 'Us ❤️' },
@@ -17,6 +18,7 @@ const soloPhotos = [
 
 export default function GalleryPage() {
   const [selectedImg, setSelectedImg] = useState(null);
+  const { navigateWithHeart } = useHeartNavigation();
 
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -105,6 +107,23 @@ export default function GalleryPage() {
               </div>
             </motion.div>
           ))}
+        </motion.div>
+        
+        {/* Next Page Button */}
+        <motion.div
+          initial={{ opacity: 0, y: 50 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="mt-20 flex justify-center w-full"
+        >
+          <button
+            onClick={() => navigateWithHeart('/message')}
+            className="group relative px-8 py-4 bg-white/5 backdrop-blur-md rounded-full border border-white/20 text-white font-medium tracking-widest text-lg shadow-[0_0_30px_rgba(192,38,211,0.3)] hover:shadow-[0_0_50px_rgba(236,72,153,0.5)] transition-all flex items-center gap-3 overflow-hidden"
+          >
+            <span className="relative z-10 transition-transform group-hover:-translate-x-1">Next: Message</span>
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="relative z-10 group-hover:translate-x-1 transition-transform"><path d="m9 18 6-6-6-6"/></svg>
+            <div className="absolute inset-0 bg-gradient-to-r from-purple-500/20 to-pink-500/20 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+          </button>
         </motion.div>
       </div>
 

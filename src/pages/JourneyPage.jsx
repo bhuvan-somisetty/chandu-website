@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
+import { useHeartNavigation } from '../context/NavigationContext';
 
 const milestones = [
   { year: "Year 1", title: "The Beautiful Beginning", text: "Two strangers crossing paths, little did we know it was the start of something forever." },
@@ -11,7 +12,7 @@ const milestones = [
 ];
 
 export default function JourneyPage() {
-  const navigate = useNavigate();
+  const { navigateWithHeart } = useHeartNavigation();
   return (
     <motion.div
       initial={{ opacity: 0, x: 100 }}
@@ -63,7 +64,7 @@ export default function JourneyPage() {
           className="mt-20 flex justify-center w-full"
         >
           <button
-            onClick={() => navigate('/gallery')}
+            onClick={() => navigateWithHeart('/gallery')}
             className="group relative px-8 py-4 bg-white/5 backdrop-blur-md rounded-full border border-white/20 text-white font-medium tracking-widest text-lg shadow-[0_0_30px_rgba(192,38,211,0.3)] hover:shadow-[0_0_50px_rgba(236,72,153,0.5)] transition-all flex items-center gap-3 overflow-hidden"
           >
             <span className="relative z-10 transition-transform group-hover:-translate-x-1">Next: Gallery</span>

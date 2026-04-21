@@ -31,16 +31,12 @@ export default function WelcomeScreen({ onContinue }) {
             className="flex flex-col items-center text-center max-w-md relative z-10"
           >
             <div className="bg-red-600/10 p-6 rounded-full mb-8 shadow-[0_0_50px_rgba(220,38,38,0.3)]">
-              <Headphones className="w-20 h-20 text-red-500 animate-pulse" />
+              <span className="text-6xl animate-pulse">🔊</span>
             </div>
             
-            <h1 className="text-3xl sm:text-4xl font-bold text-orange-400 mb-6 drop-shadow-md tracking-wide">
-              Headphones Recommended
+            <h1 className="text-3xl sm:text-4xl font-bold text-orange-400 mb-12 drop-shadow-md tracking-wide">
+              Raise the volume for a better experience
             </h1>
-            
-            <p className="text-orange-200/80 text-lg mb-12 font-light leading-relaxed">
-              For the best experience, please keep your volume high or use your headset.
-            </p>
             
             <motion.button
               whileHover={{ scale: 1.05 }}

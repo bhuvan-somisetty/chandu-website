@@ -17,7 +17,7 @@ export default function Footer() {
         className="max-w-2xl z-10"
       >
         <h2 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 mb-6 drop-shadow-md">
-          Happy Birthday once again, Chandu 🎂✨
+          Once again Happy Birthday Bangari ❤️
         </h2>
         
         <p className="text-xl text-gray-300 font-light mb-8">
@@ -25,8 +25,8 @@ export default function Footer() {
         </p>
 
         <p className="text-2xl font-medium text-pink-300 mb-16 italic">
-          With lots of love,
-          <br className="md:hidden" /> Tejaswini ❤️
+          With lots of love, 
+          <br className="md:hidden" /> your Andhra Pilla
         </p>
       </motion.div>
 
