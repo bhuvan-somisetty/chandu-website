@@ -13,7 +13,8 @@ const FORTUNES = [
   "You are deeply appreciated for being such an authentic, incredible friend! 💖",
   "A spontaneous road trip or dream vacation will happen sooner than you think! ✈️",
   "Your creativity and wisdom will inspire everyone around you this year. 💡",
-  "Good fortunes, hearty laughter, and sweet desserts await you daily! 🍰"
+  "Good fortunes, hearty laughter, and sweet desserts await you daily! 🍰",
+  "Your infectious enthusiasm will turn everyday dreams into reality! 🌟"
 ];
 
 export default function FortuneCookie() {
