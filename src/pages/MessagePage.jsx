@@ -48,7 +48,7 @@ export default function MessagePage() {
             onClick={handleWish}
             className="px-6 py-2.5 rounded-full bg-gradient-to-r from-pink-500 to-amber-400 font-bold text-slate-950 hover:brightness-110 shadow-lg flex items-center gap-2"
           >
-            <Flame className="w-4 h-4 text-slate-950" /> Send Birthday Cheer!
+            <Flame className="w-4 h-4 text-slate-950" /> Send Warm Birthday Cheer! ✨
           </button>
         </div>
       </motion.div>
