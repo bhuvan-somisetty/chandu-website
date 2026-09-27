@@ -43,3 +43,10 @@ Pure client-side Web Audio API synthesis supporting:
 - Polyphonic chords & celebration fanfares
 - Interactive 15-key virtual chime piano
 - Programmatic Happy Birthday melody player
+
+### 🎮 Mini-Games Guide
+- **Balloon Popper**: Fast-paced 25-second arcade with golden multiplier balloons.
+- **Cake Baker**: Customize flavor, frosting, sprinkles, and blow out interactive candles.
+- **Trivia Quiz**: Test friendship knowledge with insightful celebration notes.
+- **Fortune Cookie**: Crack daily fortunes with lucky birthday numbers.
+- **Gift Unboxer**: Unwrap digital gift passes and friendship badges.
