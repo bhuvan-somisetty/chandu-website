@@ -77,7 +77,7 @@ export default function BalloonPopper() {
           <div className="px-3 py-1 bg-amber-400/20 border border-amber-400/40 rounded-xl text-amber-300 font-bold text-sm">
             ⏳ {timeLeft}s
           </div>
-          <div className="px-3 py-1 bg-purple-400/20 border border-purple-400/40 rounded-xl text-purple-200 font-bold text-sm">
+          <div className="px-3 py-1 bg-purple-400/20 border border-purple-400/40 rounded-xl text-purple-200 font-extrabold shadow-sm text-sm">
             🏆 {score} pts
           </div>
         </div>
