@@ -27,7 +27,7 @@ export default function PolaroidWall() {
           return (
             <motion.div
               key={p.id}
-              whileHover={{ scale: 1.06, rotate: 0 }}
+              whileHover={{ scale: 1.08, rotate: 0 }}
               onClick={playPop}
               className={`bg-white p-3 pb-6 rounded-xl shadow-2xl transform ${p.rotation} transition-transform cursor-pointer`}
             >
