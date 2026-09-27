@@ -40,7 +40,7 @@ export const THEMES = {
   },
   emerald: {
     id: 'emerald',
-    name: 'Emerald Fest',
+    name: 'Emerald Blossom',
     icon: '🌿',
     bgGradient: 'from-emerald-950 via-teal-950 to-slate-950',
     accentColor: '#10b981',
