@@ -26,7 +26,7 @@ export default function SpecialPoints() {
             <motion.div
               key={idx}
               whileHover={{ y: -6, scale: 1.02 }}
-              className="p-6 rounded-3xl bg-white/5 backdrop-blur-md border border-white/10 hover:border-white/30 transition-all shadow-xl text-white"
+              className="p-6 rounded-3xl bg-white/5 backdrop-blur-lg border border-white/10 hover:border-white/30 transition-all shadow-xl text-white"
             >
               <div className={`w-12 h-12 rounded-2xl bg-gradient-to-br ${t.color} flex items-center justify-center mb-4 shadow-lg`}>
                 <Icon className="w-6 h-6 text-slate-950" />
