@@ -39,7 +39,7 @@ export default function ConstellationWish() {
         Click each star in the night sky to ignite your birthday wishes constellation:
       </p>
 
-      <div className="relative h-72 w-full rounded-2xl bg-gradient-to-b from-slate-950 via-indigo-950 to-purple-950 border border-white/20 overflow-hidden">
+      <div className="relative h-80 w-full rounded-2xl bg-gradient-to-b from-slate-950 via-indigo-950 to-purple-950 border border-white/20 overflow-hidden">
         {STARS.map((s) => {
           const isLit = litStars.includes(s.id);
           return (
