@@ -17,7 +17,8 @@ const BINGO_TILES = [
 ];
 
 export default function FriendshipBingo() {
-  const [marked, setMarked] = useState([4]); // center free space
+  const [marked, setMarked] = useState([4]);
+  const handleReset = () => setMarked([4]); // center free space
   const { unlockAchievement } = useAchievements();
 
   const handleToggle = (idx) => {
