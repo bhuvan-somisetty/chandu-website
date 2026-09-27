@@ -42,7 +42,7 @@ export default function BalloonPopper() {
         color: COLORS[Math.floor(Math.random() * COLORS.length)],
         left: Math.random() * 80 + 5,
         isGolden: Math.random() > 0.8,
-        speed: Math.random() * 2 + 3
+        speed: Math.random() * 2 + 2.5
       };
       setBalloons(prev => [...prev.slice(-12), newBalloon]);
     }, 700);
