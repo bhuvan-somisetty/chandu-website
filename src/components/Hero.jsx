@@ -48,7 +48,7 @@ export default function Hero() {
       >
         <button
           onClick={handleCelebration}
-          className="px-8 py-3.5 rounded-full bg-gradient-to-r from-pink-500 via-rose-500 to-amber-400 font-extrabold text-slate-950 shadow-2xl hover:brightness-110 transform hover:scale-105 active:scale-95 transition-all flex items-center gap-2"
+          className="px-8 py-3.5 rounded-full bg-gradient-to-r from-pink-500 via-rose-500 to-amber-400 font-extrabold text-slate-950 shadow-2xl ring-4 ring-pink-400/30 hover:brightness-110 transform hover:scale-105 active:scale-95 transition-all flex items-center gap-2"
         >
           <Sparkles className="w-5 h-5 text-slate-950" /> Celebrate with Confetti!
         </button>
