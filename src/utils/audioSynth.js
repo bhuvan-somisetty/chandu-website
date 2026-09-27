@@ -88,3 +88,50 @@ export function playFanfare() {
     delay += item.d * 1000 + 40;
   });
 }
+
+export function playBirthdayTune() {
+  // Happy Birthday to You notes
+  const notes = [
+    { f: 261.63, d: 250 }, { f: 261.63, d: 250 }, { f: 293.66, d: 500 }, { f: 261.63, d: 500 },
+    { f: 349.23, d: 500 }, { f: 329.63, d: 1000 },
+    { f: 261.63, d: 250 }, { f: 261.63, d: 250 }, { f: 293.66, d: 500 }, { f: 261.63, d: 500 },
+    { f: 392.00, d: 500 }, { f: 349.23, d: 1000 },
+    { f: 261.63, d: 250 }, { f: 261.63, d: 250 }, { f: 523.25, d: 500 }, { f: 440.00, d: 500 },
+    { f: 349.23, d: 500 }, { f: 329.63, d: 500 }, { f: 293.66, d: 750 },
+    { f: 466.16, d: 250 }, { f: 466.16, d: 250 }, { f: 440.00, d: 500 }, { f: 349.23, d: 500 },
+    { f: 392.00, d: 500 }, { f: 349.23, d: 1000 }
+  ];
+
+  let currentDelay = 0;
+  notes.forEach((note) => {
+    setTimeout(() => {
+      playTone(note.f, 'triangle', note.d / 1000 * 0.9, 0.18);
+    }, currentDelay);
+    currentDelay += note.d + 50;
+  });
+}
+
+export const PIANO_KEYS = {
+  'C4': 261.63,
+  'C#4': 277.18,
+  'D4': 293.66,
+  'D#4': 311.13,
+  'E4': 329.63,
+  'F4': 349.23,
+  'F#4': 369.99,
+  'G4': 392.00,
+  'G#4': 415.30,
+  'A4': 440.00,
+  'A#4': 466.16,
+  'B4': 493.88,
+  'C5': 523.25,
+  'D5': 587.33,
+  'E5': 659.25
+};
+
+export function playPianoKey(keyNote) {
+  const freq = PIANO_KEYS[keyNote];
+  if (freq) {
+    playTone(freq, 'triangle', 0.4, 0.2);
+  }
+}
