@@ -9,7 +9,8 @@ const GIFTS = [
   { title: 'Infinite Good Vibes Pass', desc: 'Valid forever across all universes!', icon: '🌟' },
   { title: 'Virtual Hug & High Five', desc: 'Instant mood boost guaranteed anytime.', icon: '🤗' },
   { title: 'Unlimited Coffee & Snack Coupon', desc: 'Redeemable on our next hangout!', icon: '☕' },
-  { title: 'Golden Friendship Badge', desc: 'Awarded for being an extraordinarily wonderful human.', icon: '🏅' }
+  { title: 'Golden Friendship Badge', desc: 'Awarded for being an extraordinarily wonderful human.', icon: '🏅' },
+  { title: 'Spontaneous Road Trip Pass', desc: 'Pack your bags for the next big adventure!', icon: '🚗' }
 ];
 
 export default function GiftBoxUnboxer() {
