@@ -1,53 +1,90 @@
-import React from 'react';
-import { NavLink, useLocation } from 'react-router-dom';
-import { Sparkles, Image, Compass, PartyPopper } from 'lucide-react';
-import { motion } from 'framer-motion';
+import React, { useState } from 'react';
+import { Link, useLocation } from 'react-router-dom';
+import { Sparkles, Gift, Camera, MessageCircleHeart, Trophy, Menu, X } from 'lucide-react';
+import SoundboardToggle from './SoundboardToggle';
 
 export default function Navbar() {
+  const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
 
   const links = [
-    { to: '/', label: 'Home', icon: <Sparkles className="w-4 h-4 sm:w-5 sm:h-5 relative z-10" /> },
-    { to: '/journey', label: 'Journey', icon: <Compass className="w-4 h-4 sm:w-5 sm:h-5 relative z-10" /> },
-    { to: '/gallery', label: 'Gallery', icon: <Image className="w-4 h-4 sm:w-5 sm:h-5 relative z-10" /> },
-    { to: '/message', label: 'Wishes', icon: <PartyPopper className="w-4 h-4 sm:w-5 sm:h-5 relative z-10" /> },
+    { to: '/', label: 'Home', icon: Sparkles },
+    { to: '/games', label: 'Games', icon: Gift },
+    { to: '/activities', label: 'Activities', icon: Camera },
+    { to: '/gallery', label: 'Memories', icon: Camera },
+    { to: '/message', label: 'Wishes', icon: MessageCircleHeart },
+    { to: '/achievements', label: 'Trophies', icon: Trophy }
   ];
 
   return (
-    <motion.nav 
-      initial={{ y: -50, opacity: 0 }}
-      animate={{ y: 0, opacity: 1 }}
-      transition={{ duration: 0.8 }}
-      className="fixed top-3 sm:top-5 left-1/2 -translate-x-1/2 z-50 w-[94%] max-w-md"
-    >
-      <div className="flex items-center justify-between bg-black/60 backdrop-blur-2xl rounded-full p-1.5 sm:p-2 border border-white/20 shadow-[0_4px_30px_rgba(0,0,0,0.5)]">
-        {links.map((link) => {
-          const isActive = location.pathname === link.to;
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-black/30 backdrop-blur-xl border-b border-white/10">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+        <Link to="/" className="flex items-center gap-2 font-extrabold text-lg text-white">
+          <span className="text-2xl">🎂</span>
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-300 via-rose-300 to-purple-300 font-sans">
+            Birthday Fest
+          </span>
+        </Link>
 
-          return (
-            <NavLink
-              key={link.to}
-              to={link.to}
-              className={`relative flex flex-col sm:flex-row items-center justify-center gap-1 sm:gap-2 py-2 px-2 sm:px-3.5 rounded-full transition-colors duration-300 flex-1 ${
-                isActive ? 'text-white' : 'text-gray-400 hover:text-pink-300'
-              }`}
-            >
-              {isActive && (
-                <motion.div
-                  layoutId="nav-indicator"
-                  className="absolute inset-0 bg-gradient-to-r from-pink-500/70 via-purple-600/70 to-indigo-600/70 rounded-full shadow-[0_0_20px_rgba(236,72,153,0.4)] border border-pink-400/40 z-0"
-                  initial={false}
-                  transition={{ type: "spring", stiffness: 380, damping: 30 }}
-                />
-              )}
-              {link.icon}
-              <span className="text-[10px] sm:text-xs font-semibold tracking-wider relative z-10">
-                {link.label}
-              </span>
-            </NavLink>
-          );
-        })}
+        {/* Desktop Links */}
+        <div className="hidden md:flex items-center gap-1">
+          {links.map((item) => {
+            const Icon = item.icon;
+            const active = location.pathname === item.to;
+            return (
+              <Link
+                key={item.to}
+                to={item.to}
+                className={`px-3.5 py-1.5 rounded-full text-xs font-semibold flex items-center gap-1.5 transition-all ${
+                  active ? 'bg-white/20 text-amber-300 shadow-sm' : 'text-white/80 hover:text-white hover:bg-white/10'
+                }`}
+              >
+                <Icon className="w-3.5 h-3.5" />
+                {item.label}
+              </Link>
+            );
+          })}
+        </div>
+
+        {/* Audio controller */}
+        <div className="hidden md:flex items-center">
+          <SoundboardToggle />
+        </div>
+
+        {/* Mobile menu button */}
+        <div className="flex md:hidden items-center gap-2">
+          <SoundboardToggle />
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="p-2 rounded-xl bg-white/10 text-white"
+          >
+            {isOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+          </button>
+        </div>
       </div>
-    </motion.nav>
+
+      {/* Mobile Drawer */}
+      {isOpen && (
+        <div className="md:hidden bg-slate-950/95 border-b border-white/10 px-4 py-4 space-y-2">
+          {links.map((item) => {
+            const Icon = item.icon;
+            const active = location.pathname === item.to;
+            return (
+              <Link
+                key={item.to}
+                to={item.to}
+                onClick={() => setIsOpen(false)}
+                className={`w-full px-4 py-2.5 rounded-xl text-sm font-semibold flex items-center gap-2.5 ${
+                  active ? 'bg-white/20 text-amber-300' : 'text-white/80 hover:bg-white/10'
+                }`}
+              >
+                <Icon className="w-4 h-4" />
+                {item.label}
+              </Link>
+            );
+          })}
+        </div>
+      )}
+    </nav>
   );
 }
