@@ -122,3 +122,5 @@
 /* Polish step #50: feat(theme): sync document meta theme-color with active color scheme */
 
 /* Polish step #51: style(toast): add dismiss button for manual notification closing */
+
+/* Polish step #52: refactor(games): decouple balloon generator timer from render loop */
