@@ -93,7 +93,7 @@ export default function BirthdayQuiz() {
 
               if (selectedOpt !== null) {
                 if (isCorrect) {
-                  btnStyle = 'bg-emerald-500/30 border-emerald-400 text-emerald-200';
+                  btnStyle = 'bg-emerald-500/40 shadow-lg border-emerald-400 text-emerald-200';
                 } else if (isSelected) {
                   btnStyle = 'bg-rose-500/30 border-rose-400 text-rose-200';
                 }
