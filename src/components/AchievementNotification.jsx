@@ -14,7 +14,7 @@ export default function AchievementNotification() {
           animate={{ opacity: 1, y: 0, scale: 1 }}
           exit={{ opacity: 0, y: 20, scale: 0.9 }}
           transition={{ type: 'spring', damping: 20, stiffness: 300 }}
-          className="fixed bottom-24 right-6 z-50 max-w-sm p-4 rounded-2xl bg-gradient-to-r from-amber-500/90 via-pink-500/90 to-purple-600/90 backdrop-blur-xl border border-white/30 shadow-2xl text-white flex items-center gap-3"
+          className="fixed bottom-24 right-6 z-50 max-w-sm p-4 rounded-2xl bg-gradient-to-r from-amber-500/90 via-pink-500/90 to-purple-600/90 backdrop-blur-xl border border-white/30 shadow-2xl shadow-pink-500/20 text-white flex items-center gap-3"
         >
           <div className="w-12 h-12 rounded-xl bg-white/20 flex items-center justify-center text-2xl shadow-inner flex-shrink-0">
             {recentUnlock.icon || '🏆'}
