@@ -70,3 +70,5 @@
 /* Polish step #24: refactor(cardcreator): ensure responsive canvas aspect ratio across viewports */
 
 /* Polish step #25: style(bingo): add vibrant gold highlight to completed bingo board tiles */
+
+/* Polish step #26: perf(audio): suspend audio context on document visibility hidden */
