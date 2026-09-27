@@ -135,3 +135,5 @@ export function playPianoKey(keyNote) {
     playTone(freq, 'triangle', 0.4, 0.2);
   }
 }
+
+export function playChord(frequencies, duration = 0.4) { frequencies.forEach(f => playTone(f, 'sine', duration, 0.1)); }
