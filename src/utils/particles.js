@@ -83,3 +83,5 @@ export function triggerStarShower() {
     }
   })();
 }
+
+export function triggerThemedConfetti(colors = ['#ff4081', '#ffd700']) { triggerConfetti({ colors }); }
