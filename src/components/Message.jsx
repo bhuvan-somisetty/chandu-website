@@ -12,11 +12,11 @@ export default function Message() {
         className="backdrop-blur-xl bg-white/5 p-6 sm:p-10 md:p-12 rounded-3xl shadow-[0_0_40px_rgba(192,38,211,0.15)] border border-white/10"
       >
         <h2 className="text-2xl sm:text-4xl font-extrabold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200">
-          To an Incredible Best Friend,
+          To Manvitha ✨
         </h2>
         <div className="space-y-5 text-base sm:text-lg text-gray-200 leading-relaxed font-light">
           <p>
-            Happy Birthday! Today is all about celebrating you—your vibrant smile, your kindness, and the unmatched energy you bring everywhere.
+            Happy Birthday Manvitha! Today is all about celebrating you—your vibrant smile, your kindness, and the unmatched energy you bring everywhere.
           </p>
           <p>
             From random late-night chats and laughing till our stomachs hurt to always being there as a supportive and genuine friend, having you in my corner is truly wonderful.
@@ -25,7 +25,7 @@ export default function Message() {
             Wishing you a year ahead filled with happiness, great health, and huge success in everything you do!
           </p>
           <p className="text-xl sm:text-2xl font-bold text-pink-300 mt-4">
-            Happy Birthday Bestie! 🎂✨
+            Happy Birthday Manvitha! 🎂✨
           </p>
         </div>
       </motion.div>

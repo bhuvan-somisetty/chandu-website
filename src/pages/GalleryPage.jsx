@@ -43,6 +43,22 @@ const photos = [
     category: 'traditional',
     tag: 'Festive Joy 💫',
     caption: 'A festive, glowing smile amidst vibrant floral celebrations.'
+  },
+  {
+    id: 6,
+    src: '/images/photo6.png',
+    title: 'Evening Charm',
+    category: 'candid',
+    tag: 'Golden Hour 🌅',
+    caption: 'Posing under the twilight sky with charm, warmth, and a glowing smile.'
+  },
+  {
+    id: 7,
+    src: '/images/photo7.jpg',
+    title: 'Royal Aura',
+    category: 'traditional',
+    tag: 'Pure Royalty 👑',
+    caption: 'Stunning in royal purple and gold lehenga with unmatched grace.'
   }
 ];
 
@@ -102,9 +118,9 @@ export default function GalleryPage() {
           {/* Filter Pills */}
           <div className="flex items-center justify-center gap-2 mt-6 flex-wrap">
             {[
-              { key: 'all', label: 'All Photos (5)' },
-              { key: 'traditional', label: 'Traditional (3)' },
-              { key: 'candid', label: 'Candid & Swag (2)' }
+              { key: 'all', label: 'All Photos (7)' },
+              { key: 'traditional', label: 'Traditional (4)' },
+              { key: 'candid', label: 'Candid & Casual (3)' }
             ].map(tab => (
               <button
                 key={tab.key}

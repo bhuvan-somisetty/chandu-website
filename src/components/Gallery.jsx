@@ -7,7 +7,9 @@ const photos = [
   { id: 2, src: '/images/photo2.png', alt: 'Cool Vibes', tag: 'Retro Swag 😎' },
   { id: 3, src: '/images/photo3.jpg', alt: 'Pure Elegance', tag: 'Festive Grace 🌸' },
   { id: 4, src: '/images/photo4.jpg', alt: 'Natural & Candid', tag: 'Fresh Vibes 🌿' },
-  { id: 5, src: '/images/photo5.jpg', alt: 'Celebration Queen', tag: 'Festive Joy 💫' },
+  { id: 5, src: '/images/photo5.jpg', alt: 'Celebration Glow', tag: 'Festive Joy 💫' },
+  { id: 6, src: '/images/photo6.png', alt: 'Evening Charm', tag: 'Golden Hour 🌅' },
+  { id: 7, src: '/images/photo7.jpg', alt: 'Royal Aura', tag: 'Pure Royalty 👑' },
 ];
 
 export default function Gallery() {
@@ -17,7 +19,7 @@ export default function Gallery() {
     hidden: { opacity: 0 },
     show: {
       opacity: 1,
-      transition: { staggerChildren: 0.15 }
+      transition: { staggerChildren: 0.12 }
     }
   };
 
@@ -41,7 +43,7 @@ export default function Gallery() {
             <span>Memories & Moments</span>
           </div>
           <h2 className="text-3xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 mb-3">
-            Birthday Queen's Gallery ✨
+            Manvitha's Gallery ✨
           </h2>
           <p className="text-gray-300 text-sm md:text-base font-light">Celebrating all your smiles, grace, and fun vibes!</p>
         </motion.div>

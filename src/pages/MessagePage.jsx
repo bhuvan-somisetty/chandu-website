@@ -73,12 +73,12 @@ export default function MessagePage() {
         </div>
 
         <h2 className="text-2xl sm:text-4xl md:text-5xl font-extrabold mb-6 sm:mb-8 bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-200 to-indigo-200 relative z-10 tracking-tight leading-tight">
-          To an Incredible Best Friend,
+          To Manvitha ✨
         </h2>
         
         <div className="space-y-5 text-sm sm:text-base md:text-lg text-gray-200 leading-relaxed font-light relative z-10 text-left sm:text-center">
           <p>
-            Happy Birthday! Today is all about celebrating you—your vibrant personality, your infectious smile, and the genuine energy you bring wherever you go.
+            Happy Birthday Manvitha! Today is all about celebrating you—your vibrant personality, your infectious smile, and the genuine energy you bring wherever you go.
           </p>
           <p>
             Having you as a close friend has been one of the biggest blessings. From endless random talks and shared jokes to always being a strong, dependable pillar whenever it matters—thank you for being such an authentic and wonderful friend.
@@ -90,7 +90,7 @@ export default function MessagePage() {
           {/* Highlight Banner */}
           <div className="pt-6 mt-6 border-t border-white/10 text-center">
             <h3 className="text-2xl sm:text-3xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-cyan-300 mb-3 drop-shadow-md">
-              Wishing You The Happiest Birthday! 🎂🎉
+              Wishing You The Happiest Birthday, Manvitha! 🎂🎉
             </h3>
             <p className="text-xs sm:text-base text-gray-300">
               May every day of your year ahead be as bright and cheerful as you are.
@@ -118,7 +118,7 @@ export default function MessagePage() {
           <div className="pt-8 flex flex-col items-center text-center">
             <p className="text-lg sm:text-xl font-medium text-pink-300 mb-6 italic">
               Warmest wishes always, <br />
-              <span className="font-semibold text-white">Your Best Friend ✨</span>
+              <span className="font-semibold text-white">Your Friend ✨</span>
             </p>
             
             <div className="flex flex-wrap items-center justify-center gap-4 text-xs text-gray-400">

@@ -5,10 +5,10 @@ import confetti from 'canvas-confetti';
 import { useHeartNavigation } from '../context/NavigationContext';
 
 const previewPhotos = [
-  { src: '/images/photo2.png', tag: 'Cool Vibes 😎', alt: 'Fun memory' },
-  { src: '/images/photo1.jpg', tag: 'Radiant Smile ✨', alt: 'Bright smile' },
-  { src: '/images/photo5.jpg', tag: 'Pure Grace 🌸', alt: 'Traditional beauty' },
-  { src: '/images/photo4.jpg', tag: 'Candid Energy 🌿', alt: 'Casual joy' },
+  { src: '/images/photo7.jpg', tag: 'Royal Aura 👑', alt: 'Manvitha in royal purple lehenga' },
+  { src: '/images/photo6.png', tag: 'Golden Hour 🌅', alt: 'Manvitha in yellow saree evening' },
+  { src: '/images/photo2.png', tag: 'Retro Swag 😎', alt: 'Manvitha with cool shades' },
+  { src: '/images/photo1.jpg', tag: 'Radiant Smile ✨', alt: 'Manvitha bright smile' },
 ];
 
 export default function Home() {
@@ -46,7 +46,7 @@ export default function Home() {
           className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-pink-500/30 text-pink-200 text-xs sm:text-sm font-semibold tracking-wider uppercase mb-6 shadow-[0_0_20px_rgba(236,72,153,0.2)]"
         >
           <Sparkles className="w-4 h-4 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
-          <span>Special Birthday Edition</span>
+          <span>Happy Birthday Manvitha!</span>
           <Sparkles className="w-4 h-4 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
         </motion.div>
 
@@ -57,7 +57,7 @@ export default function Home() {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 drop-shadow-[0_0_35px_rgba(236,72,153,0.35)] mb-4 leading-tight">
-            Happy Birthday, <br /> Bestie! 🎂✨
+            Happy Birthday, <br /> Manvitha! 🎂✨
           </h1>
           
           <p className="text-base sm:text-xl md:text-2xl text-gray-200 font-light max-w-2xl mx-auto mb-8 leading-relaxed">
@@ -135,7 +135,7 @@ export default function Home() {
             className="hover:text-pink-300 transition-colors flex items-center gap-1.5"
           >
             <ImageIcon className="w-4 h-4 text-purple-400" />
-            <span>Photo Gallery (5 Snaps)</span>
+            <span>Photo Gallery (7 Snaps)</span>
           </button>
           <span>•</span>
           <button 
