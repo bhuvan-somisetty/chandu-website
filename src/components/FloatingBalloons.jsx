@@ -44,7 +44,7 @@ export default function FloatingBalloons() {
             animate={{
               y: '-20vh',
               opacity: [0, 0.85, 0.85, 0],
-              x: [0, 20, -20, 0]
+              x: [0, 25, -25, 10, 0]
             }}
             transition={{
               duration: b.speed,
