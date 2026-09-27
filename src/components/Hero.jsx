@@ -26,7 +26,7 @@ export default function Hero() {
         initial={{ scale: 0.9, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.5 }}
-        className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight mb-4 text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-rose-300 to-purple-300"
+        className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight mb-4 leading-tight text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-rose-300 to-purple-300"
       >
         Happy Birthday! 🎂✨
       </motion.h1>
