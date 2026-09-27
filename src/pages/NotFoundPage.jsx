@@ -5,7 +5,7 @@ import { Sparkles, Home } from 'lucide-react';
 export default function NotFoundPage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center text-center px-4 text-white">
-      <div className="text-6xl mb-4">🎈</div>
+      <div className="text-6xl mb-4 animate-bounce">🎈</div>
       <h1 className="text-4xl font-extrabold mb-2">404 - Party Spot Not Found</h1>
       <p className="text-sm text-white/70 mb-6">Looks like this party room moved! Let's head back to the main celebration.</p>
       <Link
