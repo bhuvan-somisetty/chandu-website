@@ -35,7 +35,7 @@ export default function GalleryPage() {
           <button
             key={cat}
             onClick={() => { setActiveCategory(cat); playPop(); }}
-            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+            className={`px-4 py-1.5 rounded-full text-xs font-bold tracking-wide transition-all ${
               activeCategory === cat ? 'bg-amber-400 text-slate-950 shadow-md' : 'bg-white/10 text-white/80 hover:bg-white/20'
             }`}
           >
