@@ -19,3 +19,20 @@ An interactive, responsive, and aesthetic birthday celebration web application b
 - **Canvas Confetti**
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
+
+### 🏆 Achievements List
+- **Party Starter** (10 pts)
+- **Confetti Rainmaker** (25 pts)
+- **Pop Master** (30 pts)
+- **Trivia Genius** (50 pts)
+- **Master Baker** (40 pts)
+- **Wish Maker** (35 pts)
+- **Destiny Seeker** (20 pts)
+- **Mystery Unboxer** (25 pts)
+- **Chime Virtuoso** (30 pts)
+- **Heartfelt Friend** (30 pts)
+- **Pyrotechnic Star** (35 pts)
+- **Chameleon Stylist** (20 pts)
+- **Friendship Legend** (45 pts)
+- **Card Artisan** (50 pts)
+- **Secret Party VIP** (50 pts)
