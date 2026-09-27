@@ -60,7 +60,7 @@ export default function WishJar() {
         </button>
       </form>
 
-      <div className="space-y-3 max-h-80 overflow-y-auto pr-1">
+      <div className="space-y-3 max-h-96 overflow-y-auto pr-1">
         <AnimatePresence>
           {wishes.map((w) => (
             <motion.div
