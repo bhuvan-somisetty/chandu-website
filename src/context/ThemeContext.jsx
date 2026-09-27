@@ -28,7 +28,7 @@ export const THEMES = {
   },
   cyberpunk: {
     id: 'cyberpunk',
-    name: 'Neon Party',
+    name: 'Cyber Neon Fest',
     icon: '⚡',
     bgGradient: 'from-zinc-950 via-purple-950 to-fuchsia-950',
     accentColor: '#d946ef',
