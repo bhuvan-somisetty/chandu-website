@@ -3,6 +3,7 @@ import { KEYS, getStoredItem, setStoredItem } from '../utils/storage';
 import { playSparkle } from '../utils/audioSynth';
 
 export const ALL_ACHIEVEMENTS = [
+  { id: 'secret_party', title: 'Secret Party VIP 🕶️', desc: 'Discovered the hidden party sparkler!', icon: '✨', points: 50 },
   { id: 'first_visit', title: 'Party Starter 🎉', desc: 'Arrived at the birthday celebration!', icon: '✨', points: 10 },
   { id: 'confetti_master', title: 'Confetti Rainmaker 🎊', desc: 'Triggered 5 confetti celebrations', icon: '🌟', points: 25 },
   { id: 'balloon_popper', title: 'Pop Master 🎈', desc: 'Popped 10 floating balloons in the mini-game', icon: '🎯', points: 30 },
