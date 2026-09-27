@@ -93,7 +93,7 @@ export default function CakeBaker() {
           </div>
 
           {/* Cake Stand */}
-          <div className="w-64 h-3 bg-gradient-to-r from-amber-200 via-white to-amber-100 rounded-full shadow-md mt-1" />
+          <div className="w-64 h-3.5 shadow-xl bg-gradient-to-r from-amber-200 via-white to-amber-100 rounded-full shadow-md mt-1" />
         </div>
       </div>
 
