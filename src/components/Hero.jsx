@@ -1,55 +1,66 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ChevronDown, Sparkles } from 'lucide-react';
+import { Sparkles, Gift, Heart } from 'lucide-react';
+import { triggerPrideConfetti } from '../utils/particles';
+import { playFanfare } from '../utils/audioSynth';
+import CountdownTimer from './CountdownTimer';
+import { Link } from 'react-router-dom';
 
 export default function Hero() {
+  const handleCelebration = () => {
+    playFanfare();
+    triggerPrideConfetti();
+  };
+
   return (
-    <section className="relative h-screen flex flex-col items-center justify-center text-center px-4 overflow-hidden">
-      
-      {/* Decorative blurred blobs */}
-      <div className="absolute top-1/4 left-1/4 w-72 h-72 bg-purple-600 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse-glow"></div>
-      <div className="absolute bottom-1/4 right-1/4 w-72 h-72 bg-pink-600 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-pulse-glow" style={{ animationDelay: '1s' }}></div>
-
+    <div className="relative pt-24 pb-12 px-4 text-center overflow-hidden">
       <motion.div
-        initial={{ opacity: 0, y: -50 }}
+        initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 1.2, ease: "easeOut" }}
-        className="z-10"
+        className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-bold text-amber-300 mb-6"
       >
-        <div className="inline-flex items-center gap-2 px-4 py-1 rounded-full bg-white/10 border border-pink-500/30 text-pink-300 text-xs font-semibold uppercase tracking-wider mb-4">
-          <Sparkles className="w-3.5 h-3.5 text-yellow-300" />
-          <span>Birthday Celebration</span>
-        </div>
-
-        <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 drop-shadow-lg p-2">
-          Happy Birthday! ✨🎂
-        </h1>
-        
-        <motion.p 
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.5, duration: 1.2 }}
-          className="text-lg md:text-2xl text-gray-200 font-light tracking-wide mb-12 max-w-xl mx-auto"
-        >
-          Celebrating a wonderful friend and an extraordinary person today!
-        </motion.p>
+        <Sparkles className="w-4 h-4 animate-spin" /> Special Birthday Celebration Edition
       </motion.div>
 
-      <motion.div
+      <motion.h1
+        initial={{ scale: 0.9, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ duration: 0.5 }}
+        className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight mb-4 text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-rose-300 to-purple-300"
+      >
+        Happy Birthday! 🎂✨
+      </motion.h1>
+
+      <motion.p
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        transition={{ delay: 1, duration: 1 }}
-        className="absolute bottom-10 z-10 flex flex-col items-center cursor-pointer"
-        onClick={() => window.scrollBy({ top: window.innerHeight, behavior: 'smooth' })}
+        transition={{ delay: 0.2 }}
+        className="text-base sm:text-xl text-white/80 max-w-2xl mx-auto mb-8 font-medium leading-relaxed"
       >
-        <span className="text-xs sm:text-sm uppercase tracking-widest text-purple-300 mb-2">Scroll To Explore</span>
-        <motion.div
-          animate={{ y: [0, 8, 0] }}
-          transition={{ repeat: Infinity, duration: 1.5 }}
+        To an extraordinary friend — wishing you boundless happiness, unforgettable memories, and a fantastic year ahead!
+      </motion.p>
+
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.3 }}
+        className="flex flex-wrap items-center justify-center gap-4 mb-8"
+      >
+        <button
+          onClick={handleCelebration}
+          className="px-8 py-3.5 rounded-full bg-gradient-to-r from-pink-500 via-rose-500 to-amber-400 font-extrabold text-slate-950 shadow-2xl hover:brightness-110 transform hover:scale-105 active:scale-95 transition-all flex items-center gap-2"
         >
-          <ChevronDown className="text-pink-400 w-7 h-7" />
-        </motion.div>
+          <Sparkles className="w-5 h-5 text-slate-950" /> Celebrate with Confetti!
+        </button>
+        <Link
+          to="/games"
+          className="px-8 py-3.5 rounded-full bg-white/10 hover:bg-white/20 backdrop-blur-md border border-white/20 font-bold text-white transition-all flex items-center gap-2"
+        >
+          <Gift className="w-5 h-5 text-amber-300" /> Play Party Games
+        </Link>
       </motion.div>
-    </section>
+
+      <CountdownTimer />
+    </div>
   );
 }
