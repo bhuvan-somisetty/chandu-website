@@ -26,3 +26,5 @@
 /* Polish step #2: style(buttons): add subtle tactile depression on active click state */
 
 /* Polish step #3: perf(dom): throttle scroll listeners in ambient particle generator */
+
+/* Polish step #4: refactor(types): ensure consistent prop defaults across all activity components */
