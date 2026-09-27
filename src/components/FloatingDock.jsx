@@ -21,7 +21,7 @@ export default function FloatingDock() {
     <motion.div
       initial={{ y: 50, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
-      className="fixed bottom-6 left-1/2 transform -translate-x-1/2 z-40 flex items-center gap-3 px-4 py-2.5 bg-black/40 backdrop-blur-xl border border-white/20 rounded-full shadow-2xl text-white"
+      className="fixed bottom-6 left-1/2 transform -translate-x-1/2 z-40 flex items-center gap-3.5 px-5 py-3 bg-black/40 backdrop-blur-xl border border-white/20 rounded-full shadow-2xl text-white"
     >
       <button
         onClick={handleConfettiBlast}
