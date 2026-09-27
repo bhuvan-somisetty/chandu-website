@@ -68,7 +68,7 @@ export default function AchievementsPage() {
             onClick={handleCelebrateAll}
             className="px-8 py-3 rounded-full bg-gradient-to-r from-amber-400 via-pink-500 to-purple-500 text-slate-950 font-extrabold shadow-xl hover:brightness-110 transform hover:scale-105 transition-all"
           >
-            Celebrate Trophies! 🎉
+            Celebrate All Trophies! 🎊✨
           </button>
         </div>
       )}
