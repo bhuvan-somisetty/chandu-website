@@ -23,7 +23,7 @@ export default function GamesPage() {
   const CurrentGame = tabs.find(t => t.id === activeTab)?.component || BalloonPopper;
 
   return (
-    <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
+    <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto px-4 sm:px-6">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
         <p className="text-sm text-white/70">Play interactive mini-games, earn points, and unlock achievements!</p>
