@@ -108,3 +108,5 @@
 /* Polish step #43: style(buttons): apply smooth color transitions on hover and focus states */
 
 /* Polish step #44: refactor(audio): add safe fallback when Web Audio API is unsupported */
+
+/* Polish step #45: style(modal): add responsive max-height and scrolling for compact screens */
