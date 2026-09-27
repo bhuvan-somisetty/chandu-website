@@ -97,7 +97,7 @@ export default function FireworksSandbox() {
         </h2>
         <span className="text-xs text-white/70">Click to launch bursts ✨</span>
       </div>
-      <div className="relative rounded-2xl overflow-hidden border border-white/20 bg-slate-950 shadow-inner cursor-crosshair">
+      <div className="relative rounded-2xl overflow-hidden border border-white/20 bg-slate-950/90 shadow-2xl shadow-inner cursor-crosshair">
         <canvas ref={canvasRef} className="w-full block" />
       </div>
     </div>
