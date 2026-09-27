@@ -84,7 +84,7 @@ export default function FortuneCookie() {
             <p className="text-base font-bold text-amber-100 mb-4 italic">
               "{fortune}"
             </p>
-            <div className="text-xs font-semibold px-3 py-1 rounded-full bg-white/10 inline-block text-white/80">
+            <div className="text-xs font-semibold px-3 py-1 rounded-full bg-amber-400/20 border border-amber-300/30 text-amber-200 inline-block text-white/80">
               Lucky Birthday Number: #{luckyNumber}
             </div>
           </motion.div>
