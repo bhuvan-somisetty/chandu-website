@@ -46,7 +46,7 @@ export default function ChimePiano() {
                 key={keyName}
                 onClick={() => handleKeyPress(keyName)}
                 className={`h-24 w-8 -mx-4 z-10 rounded-b-lg border border-slate-700 transition-all font-bold text-[10px] flex items-end justify-center pb-2 select-none ${
-                  isActive ? 'bg-amber-400 text-slate-950 scale-95' : 'bg-slate-900 text-white/80 hover:bg-slate-800'
+                  isActive ? 'bg-amber-400 text-slate-950 scale-95 ring-2 ring-amber-300' : 'bg-slate-900 text-white/80 hover:bg-slate-800'
                 }`}
               >
                 {keyName}
