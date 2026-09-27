@@ -33,7 +33,7 @@ export default function ComplimentGenerator() {
         onClick={handleNext}
         className="px-6 py-2.5 rounded-full bg-gradient-to-r from-pink-500 to-purple-500 font-bold text-xs hover:brightness-110 shadow-lg flex items-center gap-1.5 mx-auto transition-all"
       >
-        <RefreshCw className="w-4 h-4" /> Next Compliment
+        <RefreshCw className="w-4 h-4" /> Get Another Compliment ✨
       </button>
     </div>
   );
