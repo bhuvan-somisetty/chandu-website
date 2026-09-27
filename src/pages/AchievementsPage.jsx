@@ -34,7 +34,7 @@ export default function AchievementsPage() {
               whileHover={{ scale: isUnlocked ? 1.02 : 1 }}
               className={`p-5 rounded-2xl border transition-all flex items-start gap-3.5 ${
                 isUnlocked
-                  ? 'bg-white/10 backdrop-blur-md border-amber-400/40 text-white shadow-lg'
+                  ? 'bg-white/10 backdrop-blur-md border-amber-400/50 ring-1 ring-amber-400/20 text-white shadow-lg'
                   : 'bg-white/5 border-white/10 text-white/40'
               }`}
             >
