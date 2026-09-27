@@ -18,7 +18,7 @@ export const THEMES = {
     id: 'midnight',
     name: 'Midnight Starlight',
     icon: '🌌',
-    bgGradient: 'from-slate-950 via-indigo-950 to-blue-950',
+    bgGradient: 'from-slate-950 via-indigo-950 to-slate-900',
     accentColor: '#6366f1',
     secondaryColor: '#38bdf8',
     cardBg: 'rgba(255, 255, 255, 0.04)',
