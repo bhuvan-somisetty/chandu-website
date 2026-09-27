@@ -37,7 +37,7 @@ export function playTone(freq, type = 'sine', duration = 0.2, volume = 0.15) {
     osc.frequency.setValueAtTime(freq, ctx.currentTime);
 
     gain.gain.setValueAtTime(volume, ctx.currentTime);
-    gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
+    gain.gain.exponentialRampToValueAtTime(0.00001, ctx.currentTime + duration);
 
     osc.connect(gain);
     gain.connect(ctx.destination);
