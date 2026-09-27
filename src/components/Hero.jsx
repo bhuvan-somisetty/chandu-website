@@ -22,7 +22,7 @@ export default function Hero() {
         </div>
 
         <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 drop-shadow-lg p-2">
-          Happy Birthday Manvitha! ✨🎂
+          Happy Birthday! ✨🎂
         </h1>
         
         <motion.p 

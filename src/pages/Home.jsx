@@ -1,14 +1,42 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ChevronRight, Sparkles, PartyPopper, Heart, Compass, Image as ImageIcon } from 'lucide-react';
+import { ChevronRight, Sparkles, PartyPopper, Heart, Compass, Image as ImageIcon, Camera, Star, Smile, Flame } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { useHeartNavigation } from '../context/NavigationContext';
 
-const previewPhotos = [
-  { src: '/images/photo7.jpg', tag: 'Royal Aura 👑', alt: 'Manvitha in royal purple lehenga' },
-  { src: '/images/photo6.png', tag: 'Golden Hour 🌅', alt: 'Manvitha in yellow saree evening' },
-  { src: '/images/photo2.png', tag: 'Retro Swag 😎', alt: 'Manvitha with cool shades' },
-  { src: '/images/photo1.jpg', tag: 'Radiant Smile ✨', alt: 'Manvitha bright smile' },
+const previewSlots = [
+  {
+    icon: <Sparkles className="w-8 h-8 text-yellow-300" />,
+    gradient: 'from-purple-900/60 via-pink-900/40 to-indigo-900/60',
+    border: 'border-pink-500/30',
+    tag: 'Joy & Smiles ✨',
+    title: 'Bright Moments',
+    desc: 'Cherished memories & fun'
+  },
+  {
+    icon: <Smile className="w-8 h-8 text-cyan-300" />,
+    gradient: 'from-blue-900/60 via-indigo-900/40 to-purple-900/60',
+    border: 'border-blue-500/30',
+    tag: 'Good Vibes 😎',
+    title: 'Pure Laughter',
+    desc: 'Unfiltered banter & jokes'
+  },
+  {
+    icon: <Star className="w-8 h-8 text-amber-300" />,
+    gradient: 'from-amber-900/50 via-pink-900/40 to-purple-900/60',
+    border: 'border-amber-500/30',
+    tag: 'Celebrations 🌸',
+    title: 'Golden Milestones',
+    desc: 'Special days & victories'
+  },
+  {
+    icon: <Flame className="w-8 h-8 text-rose-300" />,
+    gradient: 'from-rose-900/60 via-purple-900/40 to-indigo-900/60',
+    border: 'border-rose-500/30',
+    tag: 'Adventures 🌿',
+    title: 'Best Memories',
+    desc: 'Every shared journey'
+  },
 ];
 
 export default function Home() {
@@ -46,7 +74,7 @@ export default function Home() {
           className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-pink-500/30 text-pink-200 text-xs sm:text-sm font-semibold tracking-wider uppercase mb-6 shadow-[0_0_20px_rgba(236,72,153,0.2)]"
         >
           <Sparkles className="w-4 h-4 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
-          <span>Happy Birthday Manvitha!</span>
+          <span>Happy Birthday Celebration</span>
           <Sparkles className="w-4 h-4 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
         </motion.div>
 
@@ -57,39 +85,45 @@ export default function Home() {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 drop-shadow-[0_0_35px_rgba(236,72,153,0.35)] mb-4 leading-tight">
-            Happy Birthday, <br /> Manvitha! 🎂✨
+            Happy Birthday! 🎂✨
           </h1>
           
           <p className="text-base sm:text-xl md:text-2xl text-gray-200 font-light max-w-2xl mx-auto mb-8 leading-relaxed">
-            Celebrating an extraordinary friend who brings genuine laughter, positive energy, and unforgettable memories into life.
+            Celebrating a wonderful friend who brings genuine laughter, positive energy, and unforgettable memories into life.
           </p>
         </motion.div>
 
-        {/* Floating Photo Preview Strip */}
+        {/* Memory Feature Cards Strip */}
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3, duration: 0.8 }}
           className="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 w-full max-w-3xl mb-10"
         >
-          {previewPhotos.map((item, idx) => (
+          {previewSlots.map((item, idx) => (
             <motion.div
               key={idx}
               whileHover={{ y: -6, scale: 1.03 }}
               transition={{ type: "spring", stiffness: 300, damping: 20 }}
               onClick={() => navigateWithHeart('/gallery')}
-              className="relative rounded-2xl overflow-hidden shadow-lg ring-1 ring-white/15 aspect-[3/4] bg-black/40 group cursor-pointer"
+              className={`relative rounded-2xl overflow-hidden shadow-lg border ${item.border} bg-gradient-to-b ${item.gradient} p-4 sm:p-5 flex flex-col items-center justify-between aspect-[3/4] group cursor-pointer backdrop-blur-xl hover:shadow-[0_0_25px_rgba(236,72,153,0.25)] transition-all`}
             >
-              <img 
-                src={item.src} 
-                alt={item.alt}
-                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500 ease-out" 
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent flex items-end justify-center p-2.5">
-                <span className="text-[11px] sm:text-xs font-semibold text-pink-200 tracking-wide bg-black/40 px-2 py-0.5 rounded-full backdrop-blur-sm border border-white/10">
-                  {item.tag}
-                </span>
+              <span className="text-[10px] sm:text-xs font-semibold text-pink-200 tracking-wide bg-black/40 px-2.5 py-0.5 rounded-full border border-white/10">
+                {item.tag}
+              </span>
+
+              <div className="my-auto flex flex-col items-center transform group-hover:scale-110 transition-transform duration-300">
+                <div className="p-3 rounded-2xl bg-white/10 border border-white/15 backdrop-blur-md mb-2 shadow-inner">
+                  {item.icon}
+                </div>
+                <h3 className="text-sm sm:text-base font-bold text-white leading-tight">
+                  {item.title}
+                </h3>
               </div>
+
+              <span className="text-[10px] sm:text-xs text-gray-300 font-light text-center leading-snug">
+                {item.desc}
+              </span>
             </motion.div>
           ))}
         </motion.div>
@@ -135,7 +169,7 @@ export default function Home() {
             className="hover:text-pink-300 transition-colors flex items-center gap-1.5"
           >
             <ImageIcon className="w-4 h-4 text-purple-400" />
-            <span>Photo Gallery (7 Snaps)</span>
+            <span>Memory Cards</span>
           </button>
           <span>•</span>
           <button 

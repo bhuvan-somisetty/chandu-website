@@ -17,7 +17,7 @@ export default function Footer() {
         className="max-w-2xl z-10"
       >
         <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 mb-4 drop-shadow-md">
-          Happy Birthday Manvitha! ✨🎂
+          Happy Birthday! ✨🎂
         </h2>
         
         <p className="text-base sm:text-lg text-gray-300 font-light mb-8">
