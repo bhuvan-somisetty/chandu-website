@@ -11,7 +11,7 @@ import { Sparkles, Gift, Camera, MessageCircleHeart } from 'lucide-react';
 
 export default function Home() {
   return (
-    <div className="space-y-16 pb-20">
+    <div className="space-y-20 pb-20">
       <Hero />
       <SpecialPoints />
       
