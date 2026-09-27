@@ -28,6 +28,7 @@ export default function FireworksSandbox() {
         const angle = (Math.PI * 2 * i) / 40;
         const speed = Math.random() * 4 + 2;
         particles.push({
+          trail: true,
           x,
           y,
           vx: Math.cos(angle) * speed,
