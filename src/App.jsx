@@ -1,75 +1,46 @@
-import React, { useState } from 'react';
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
-import { AnimatePresence } from 'framer-motion';
-
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import AudioPlayer from './components/AudioPlayer';
-import WelcomeScreen from './components/WelcomeScreen';
-import HeartBurst from './components/HeartBurst';
+import Footer from './components/Footer';
+import FloatingDock from './components/FloatingDock';
+import CursorTrail from './components/CursorTrail';
+import FloatingBalloons from './components/FloatingBalloons';
+import AchievementNotification from './components/AchievementNotification';
+import { ThemeProvider } from './context/ThemeContext';
+import { AchievementProvider } from './context/AchievementContext';
 
 import Home from './pages/Home';
-import JourneyPage from './pages/JourneyPage';
+import GamesPage from './pages/GamesPage';
+import ActivitiesPage from './pages/ActivitiesPage';
 import GalleryPage from './pages/GalleryPage';
 import MessagePage from './pages/MessagePage';
-import { NavigationProvider, useHeartNavigation } from './context/NavigationContext';
+import AchievementsPage from './pages/AchievementsPage';
+import NotFoundPage from './pages/NotFoundPage';
 
-function AnimatedContent() {
-  const location = useLocation();
-  
+export default function App() {
   return (
-    <AnimatePresence mode="wait">
-      <Routes location={location} key={location.pathname}>
-        <Route path="/" element={<Home />} />
-        <Route path="/journey" element={<JourneyPage />} />
-        <Route path="/gallery" element={<GalleryPage />} />
-        <Route path="/message" element={<MessagePage />} />
-      </Routes>
-    </AnimatePresence>
+    <ThemeProvider>
+      <AchievementProvider>
+        <CursorTrail />
+        <FloatingBalloons />
+        <AchievementNotification />
+        <Navbar />
+
+        <main className="min-h-screen">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/games" element={<GamesPage />} />
+            <Route path="/activities" element={<ActivitiesPage />} />
+            <Route path="/gallery" element={<GalleryPage />} />
+            <Route path="/message" element={<MessagePage />} />
+            <Route path="/achievements" element={<AchievementsPage />} />
+            <Route path="*" element={<NotFoundPage />} />
+          </Routes>
+        </main>
+
+        <FloatingDock />
+        <Footer />
+      </AchievementProvider>
+    </ThemeProvider>
   );
 }
-
-function AppContent() {
-  const { showHeartBurst, triggerBurst } = useHeartNavigation();
-  const [hasEntered, setHasEntered] = useState(false);
-
-  return (
-    <div className="relative font-sans antialiased text-white selection:bg-pink-500 selection:text-white min-h-[100dvh]">
-      <HeartBurst isVisible={showHeartBurst} />
-      {!hasEntered && (
-        <WelcomeScreen 
-          onContinue={() => {
-            triggerBurst();
-            setHasEntered(true);
-          }} 
-        />
-      )}
-
-      {/* Background Star Layer - Persistent across routes */}
-      <div className="stars-bg"></div>
-      
-      {/* Dynamic gradients floating in the background overall */}
-      <div className="fixed top-0 left-0 w-[500px] h-[500px] bg-purple-800/20 rounded-full mix-blend-screen filter blur-[100px] opacity-40 animate-float pointer-events-none z-0" style={{ animationDuration: '10s' }}></div>
-      <div className="fixed bottom-0 right-0 w-[600px] h-[600px] bg-pink-800/15 rounded-full mix-blend-screen filter blur-[120px] opacity-30 animate-float pointer-events-none z-0" style={{ animationDuration: '15s', animationDelay: '2s' }}></div>
-
-      <Navbar />
-      
-      <main className="relative z-10 w-full overflow-hidden">
-        <AnimatedContent />
-      </main>
-      
-      <AudioPlayer autoPlayTrigger={hasEntered} />
-    </div>
-  );
-}
-
-function App() {
-  return (
-    <BrowserRouter>
-      <NavigationProvider>
-        <AppContent />
-      </NavigationProvider>
-    </BrowserRouter>
-  );
-}
-
-export default App;
