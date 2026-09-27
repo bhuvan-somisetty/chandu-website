@@ -36,7 +36,7 @@ export default function Navbar() {
                 key={item.to}
                 to={item.to}
                 className={`px-3.5 py-1.5 rounded-full text-xs font-semibold flex items-center gap-1.5 transition-all ${
-                  active ? 'bg-white/20 text-amber-300 shadow-sm' : 'text-white/80 hover:text-white hover:bg-white/10'
+                  active ? 'bg-white/20 text-amber-300 ring-1 ring-amber-400/40 shadow-sm' : 'text-white/80 hover:text-white hover:bg-white/10'
                 }`}
               >
                 <Icon className="w-3.5 h-3.5" />
