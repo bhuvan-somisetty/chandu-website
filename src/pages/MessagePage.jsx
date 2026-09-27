@@ -21,7 +21,7 @@ export default function MessagePage() {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="p-8 sm:p-12 rounded-3xl bg-white/10 backdrop-blur-xl border border-white/20 shadow-2xl text-white relative overflow-hidden"
+        className="p-8 sm:p-12 rounded-3xl bg-white/10 backdrop-blur-xl border border-white/20 shadow-2xl shadow-purple-500/10 text-white relative overflow-hidden"
       >
         <div className="absolute top-0 left-0 w-32 h-32 bg-pink-500/20 rounded-full blur-3xl pointer-events-none" />
         <div className="text-3xl mb-4">🎂✨</div>
