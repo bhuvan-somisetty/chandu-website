@@ -35,7 +35,7 @@ export default function ActivitiesPage() {
           <button
             key={t.id}
             onClick={() => { setActiveTab(t.id); playPop(); }}
-            className={`px-4 py-2 rounded-2xl text-xs font-bold transition-all ${
+            className={`px-4 py-2 rounded-2xl text-xs font-bold tracking-wide transition-all ${
               activeTab === t.id
                 ? 'bg-gradient-to-r from-purple-500 to-pink-500 text-white shadow-lg scale-105'
                 : 'bg-white/10 text-white/80 hover:bg-white/20'
