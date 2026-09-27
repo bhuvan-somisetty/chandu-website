@@ -1,45 +1,45 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Heart } from 'lucide-react';
+import { Sparkles, Heart } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className="py-20 px-6 mt-10 border-t border-white/5 relative overflow-hidden flex flex-col items-center text-center">
+    <footer className="py-16 px-4 mt-10 border-t border-white/5 relative overflow-hidden flex flex-col items-center text-center">
       
       {/* Background glow for footer */}
       <div className="absolute bottom-0 w-full h-32 bg-gradient-to-t from-pink-900/20 to-transparent pointer-events-none"></div>
 
       <motion.div
-        initial={{ opacity: 0, y: 30 }}
+        initial={{ opacity: 0, y: 25 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
         viewport={{ once: true }}
         className="max-w-2xl z-10"
       >
-        <h2 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 mb-6 drop-shadow-md">
-          Once again Happy Birthday Bangari ❤️
+        <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-200 mb-4 drop-shadow-md">
+          Happy Birthday Bestie! ✨🎂
         </h2>
         
-        <p className="text-xl text-gray-300 font-light mb-8">
-          Wishing you a lifetime of happiness, endless success, and a friendship that only grows stronger. Here's to making many more memories!
+        <p className="text-base sm:text-lg text-gray-300 font-light mb-8">
+          Wishing you a lifetime of happiness, endless success, good health, and an amazing year ahead!
         </p>
 
-        <p className="text-2xl font-medium text-pink-300 mb-16 italic">
-          With lots of love, 
-          <br className="md:hidden" /> your Andhra Pilla
+        <p className="text-xl font-medium text-pink-300 mb-10 italic">
+          With best wishes, <br />
+          <span className="font-semibold text-white">Your Best Friend</span>
         </p>
       </motion.div>
 
       <motion.div 
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
-        transition={{ delay: 0.5, duration: 1 }}
+        transition={{ delay: 0.3, duration: 0.8 }}
         viewport={{ once: true }}
-        className="z-10 flex items-center gap-2 text-sm text-gray-500 tracking-wider uppercase"
+        className="z-10 flex items-center gap-2 text-xs text-gray-400 tracking-wider uppercase"
       >
-        <span>Made with</span>
-        <Heart className="w-4 h-4 text-pink-500 fill-pink-500 animate-pulse" />
-        <span>for Chandu</span>
+        <span>Celebrated with</span>
+        <Sparkles className="w-4 h-4 text-yellow-300 animate-spin" style={{ animationDuration: '4s' }} />
+        <span>for a wonderful friend</span>
       </motion.div>
 
     </footer>
