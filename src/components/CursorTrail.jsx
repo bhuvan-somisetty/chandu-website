@@ -31,7 +31,7 @@ export default function CursorTrail() {
     if (particles.length === 0) return;
     const timer = setTimeout(() => {
       setParticles(prev => prev.slice(1));
-    }, 600);
+    }, 500);
     return () => clearTimeout(timer);
   }, [particles]);
 
