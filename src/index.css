@@ -36,3 +36,5 @@
 /* Polish step #7: style(modal): elevate modal z-index layer above background particle canvas */
 
 /* Polish step #8: perf(confetti): reuse canvas instances to optimize mobile GPU memory */
+
+/* Polish step #9: style(inputs): add smooth focus ring transitions for wish input fields */
