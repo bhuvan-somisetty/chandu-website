@@ -36,3 +36,10 @@ Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
 - **Friendship Legend** (45 pts)
 - **Card Artisan** (50 pts)
 - **Secret Party VIP** (50 pts)
+
+### 🎵 Audio Synthesis Engine
+Pure client-side Web Audio API synthesis supporting:
+- Realistic balloon pops & confetti whooshes
+- Polyphonic chords & celebration fanfares
+- Interactive 15-key virtual chime piano
+- Programmatic Happy Birthday melody player
