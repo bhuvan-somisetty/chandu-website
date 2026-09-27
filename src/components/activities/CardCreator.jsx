@@ -51,7 +51,7 @@ export default function CardCreator() {
         ref={cardRef}
         className={`p-8 rounded-3xl bg-gradient-to-br ${bgStyle} text-white shadow-2xl border border-white/30 text-center my-6 relative overflow-hidden`}
       >
-        <div className="text-3xl mb-2">🎂✨</div>
+        <div className="text-3xl mb-2">🎂✨🎉🌟</div>
         <h3 className="text-2xl font-extrabold mb-2">Happy Birthday, {recipient}!</h3>
         <p className="text-sm font-medium text-white/95 max-w-md mx-auto mb-4 italic">
           "{message}"
