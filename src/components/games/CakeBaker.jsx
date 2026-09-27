@@ -78,7 +78,7 @@ export default function CakeBaker() {
         <div className="relative flex flex-col items-center">
           {/* Top Topping Layer */}
           <div className="text-2xl mb-[-8px] z-10 flex gap-2">
-            {topping.icon} {topping.icon} {topping.icon}
+            {topping.icon} ✨ {topping.icon} ✨ {topping.icon}
           </div>
 
           {/* Top Tier */}
