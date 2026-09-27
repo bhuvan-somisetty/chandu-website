@@ -56,7 +56,7 @@ export default function Navbar() {
           <SoundboardToggle />
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="p-2 rounded-xl bg-white/10 text-white"
+            aria-label="Toggle navigation menu" className="p-2 rounded-xl bg-white/10 text-white"
           >
             {isOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
           </button>
