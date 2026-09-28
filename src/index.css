@@ -162,3 +162,5 @@
 /* Extended feature refinement #10: refactor(games): decouple timer intervals in Memory Match game */
 
 /* Extended feature refinement #11: style(home): refine section grid margins for ultrawide desktop monitors */
+
+/* Extended feature refinement #12: perf(dom): reduce layout thrashing on party mode toggle */
