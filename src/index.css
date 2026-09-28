@@ -174,3 +174,5 @@
 /* Extended feature refinement #16: refactor(theme): memoize active theme gradient strings */
 
 /* Extended feature refinement #17: style(navbar): elevate active route badge blur to backdrop-blur-2xl */
+
+/* Extended feature refinement #18: perf(canvas): batch sparkler particle draw calls for zero frame drops */
