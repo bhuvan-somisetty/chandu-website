@@ -137,3 +137,84 @@ export function playPianoKey(keyNote) {
 }
 
 export function playChord(frequencies, duration = 0.4) { frequencies.forEach(f => playTone(f, 'sine', duration, 0.1)); }
+
+// DJ Drum & Soundboard synthesis
+export function playKick() {
+  if (isMuted) return;
+  const ctx = getAudioContext();
+  if (!ctx) return;
+  try {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.frequency.setValueAtTime(150, ctx.currentTime);
+    osc.frequency.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.3);
+    gain.gain.setValueAtTime(0.8, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.3);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start();
+    osc.stop(ctx.currentTime + 0.3);
+  } catch (e) {}
+}
+
+export function playSnare() {
+  if (isMuted) return;
+  const ctx = getAudioContext();
+  if (!ctx) return;
+  try {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = 'triangle';
+    osc.frequency.setValueAtTime(280, ctx.currentTime);
+    gain.gain.setValueAtTime(0.4, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.15);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start();
+    osc.stop(ctx.currentTime + 0.15);
+  } catch (e) {}
+}
+
+export function playHiHat() {
+  if (isMuted) return;
+  const ctx = getAudioContext();
+  if (!ctx) return;
+  try {
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.type = 'square';
+    osc.frequency.setValueAtTime(8000, ctx.currentTime);
+    gain.gain.setValueAtTime(0.15, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.05);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start();
+    osc.stop(ctx.currentTime + 0.05);
+  } catch (e) {}
+}
+
+export function playAirHorn() {
+  if (isMuted) return;
+  const pitches = [466.16, 466.16, 466.16, 370, 466.16];
+  pitches.forEach((p, idx) => {
+    setTimeout(() => {
+      playTone(p, 'sawtooth', 0.12, 0.25);
+    }, idx * 100);
+  });
+}
+
+export function play8BitTune() {
+  const notes = [
+    { f: 261.63, d: 150 }, { f: 261.63, d: 150 }, { f: 293.66, d: 300 },
+    { f: 261.63, d: 300 }, { f: 349.23, d: 300 }, { f: 329.63, d: 600 },
+    { f: 261.63, d: 150 }, { f: 261.63, d: 150 }, { f: 293.66, d: 300 },
+    { f: 261.63, d: 300 }, { f: 392.00, d: 300 }, { f: 349.23, d: 600 }
+  ];
+  let delay = 0;
+  notes.forEach((n) => {
+    setTimeout(() => {
+      playTone(n.f, 'square', n.d / 1000, 0.15);
+    }, delay);
+    delay += n.d + 30;
+  });
+}
