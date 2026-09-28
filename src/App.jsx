@@ -6,8 +6,10 @@ import FloatingDock from './components/FloatingDock';
 import CursorTrail from './components/CursorTrail';
 import FloatingBalloons from './components/FloatingBalloons';
 import AchievementNotification from './components/AchievementNotification';
+import PartyModeOverlay from './components/PartyModeOverlay';
 import { ThemeProvider } from './context/ThemeContext';
 import { AchievementProvider } from './context/AchievementContext';
+import { PartyModeProvider } from './context/PartyModeContext';
 
 import Home from './pages/Home';
 import GamesPage from './pages/GamesPage';
@@ -21,25 +23,28 @@ export default function App() {
   return (
     <ThemeProvider>
       <AchievementProvider>
-        <CursorTrail />
-        <FloatingBalloons />
-        <AchievementNotification />
-        <Navbar />
+        <PartyModeProvider>
+          <CursorTrail />
+          <FloatingBalloons />
+          <PartyModeOverlay />
+          <AchievementNotification />
+          <Navbar />
 
-        <main className="min-h-screen">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/games" element={<GamesPage />} />
-            <Route path="/activities" element={<ActivitiesPage />} />
-            <Route path="/gallery" element={<GalleryPage />} />
-            <Route path="/message" element={<MessagePage />} />
-            <Route path="/achievements" element={<AchievementsPage />} />
-            <Route path="*" element={<NotFoundPage />} />
-          </Routes>
-        </main>
+          <main className="min-h-screen">
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/games" element={<GamesPage />} />
+              <Route path="/activities" element={<ActivitiesPage />} />
+              <Route path="/gallery" element={<GalleryPage />} />
+              <Route path="/message" element={<MessagePage />} />
+              <Route path="/achievements" element={<AchievementsPage />} />
+              <Route path="*" element={<NotFoundPage />} />
+            </Routes>
+          </main>
 
-        <FloatingDock />
-        <Footer />
+          <FloatingDock />
+          <Footer />
+        </PartyModeProvider>
       </AchievementProvider>
     </ThemeProvider>
   );
