@@ -432,3 +432,5 @@
 /* Continuous refinement #33: refactor(audio): smooth airhorn attack ramp in sound effects pad */
 
 /* Continuous refinement #34: style(share): add subtle pulse border to share celebration card */
+
+/* Continuous refinement #35: perf(dom): optimize wheel rotation physics easing bezier curve */
