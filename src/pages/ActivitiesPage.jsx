@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import FireworksSandbox from '../components/activities/FireworksSandbox';
 import PhotoboothCamera from '../components/PhotoboothCamera';
+import SoundEffectsPad from '../components/SoundEffectsPad';
+import ShareableCard from '../components/ShareableCard';
 import FriendshipTimeMachine from '../components/FriendshipTimeMachine';
 import HoloCard3D from '../components/HoloCard3D';
 import WishCloud from '../components/WishCloud';
@@ -21,6 +23,8 @@ export default function ActivitiesPage() {
   const [activeTab, setActiveTab] = useState('photobooth');
 
   const tabs = [
+    { id: 'sfxpad', label: 'Sound FX 📢', comp: SoundEffectsPad },
+    { id: 'share', label: 'Share Card 🔗', comp: ShareableCard },
     { id: 'photobooth', label: 'Photobooth 📸', comp: PhotoboothCamera },
     { id: 'timemachine', label: 'Time Machine ⏳', comp: FriendshipTimeMachine },
     { id: 'holocard', label: 'Holo Card 👑', comp: HoloCard3D },
@@ -45,7 +49,7 @@ export default function ActivitiesPage() {
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Creative Studio & Activities ✨</h1>
-        <p className="text-sm text-white/70">Explore 16 interactive celebration activities, studios, and memory tools!</p>
+        <p className="text-sm text-white/70">Explore 18 interactive celebration activities, studios, and memory tools!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
