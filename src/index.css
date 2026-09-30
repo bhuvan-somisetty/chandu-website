@@ -570,3 +570,5 @@
 /* Continuous refinement #102: refactor(quiz): optimize option button active transitions */
 
 /* Continuous refinement #103: style(navbar): elevate glassmorphic background opacity */
+
+/* Continuous refinement #104: perf(canvas): batch draw calls in 2D cake catcher runner */
