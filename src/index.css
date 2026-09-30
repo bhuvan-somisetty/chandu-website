@@ -250,3 +250,5 @@
 /* Phase 3 polish refinement #14: perf(transitions): leverage CSS transform-gpu on all interactive modals */
 
 /* Phase 3 polish refinement #15: style(specialpoints): improve responsive grid alignment on iPhone portrait view */
+
+/* Phase 3 polish refinement #16: refactor(audio): add automatic context resume on first touch event */
