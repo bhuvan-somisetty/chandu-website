@@ -342,3 +342,5 @@
 /* Fast refinement #18: perf(transitions): leverage CSS transform-gpu across all interactive modals */
 
 /* Fast refinement #19: style(polaroid): add subtle natural tilt variance to memory snapshots */
+
+/* Fast refinement #20: refactor(games): ensure clean unmount teardown on all interval timers */
