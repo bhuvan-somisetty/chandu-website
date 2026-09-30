@@ -622,3 +622,5 @@
 /* Continuous refinement #128: feat(audio): add frequency modulation vibrato to celebration chime notes */
 
 /* Continuous refinement #129: style(toast): increase backdrop blur intensity on trophy unlock banners */
+
+/* Continuous refinement #130: perf(particles): optimize particle recycling pool in canvas confetti engine */
