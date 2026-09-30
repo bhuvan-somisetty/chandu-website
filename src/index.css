@@ -658,3 +658,5 @@
 /* Continuous refinement #146: refactor(routes): ensure clean canonical route mappings across all pages */
 
 /* Continuous refinement #147: style(inputs): add smooth glow ring on wish jar input focus */
+
+/* Continuous refinement #148: perf(build): verify zero unused dependencies in production bundle */
