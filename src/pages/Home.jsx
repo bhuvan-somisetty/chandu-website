@@ -1,13 +1,14 @@
 import React from 'react';
 import Hero from '../components/Hero';
 import SpecialPoints from '../components/SpecialPoints';
-import BalloonPopper from '../components/games/BalloonPopper';
-import CakeBaker from '../components/games/CakeBaker';
+import PhotoboothCamera from '../components/PhotoboothCamera';
+import FriendshipTimeMachine from '../components/FriendshipTimeMachine';
+import CakeCatcherRunner from '../components/games/CakeCatcherRunner';
 import MemoryMatchGame from '../components/games/MemoryMatchGame';
 import DJBeatmaker from '../components/DJBeatmaker';
 import PolaroidWall from '../components/activities/PolaroidWall';
 import OrigamiEnvelope from '../components/OrigamiEnvelope';
-import FortuneCookie from '../components/games/FortuneCookie';
+import HoloCard3D from '../components/HoloCard3D';
 import WishJar from '../components/activities/WishJar';
 import { Link } from 'react-router-dom';
 import { Sparkles, Gift, Camera, MessageCircleHeart } from 'lucide-react';
@@ -18,22 +19,29 @@ export default function Home() {
       <Hero />
       <SpecialPoints />
       
-      {/* Quick Play Arcade Section */}
+      {/* Featured Photobooth & 2D Arcade Section */}
       <section className="max-w-6xl mx-auto px-4">
         <div className="text-center mb-8">
-          <h2 className="text-3xl font-extrabold text-white mb-2">Featured Party Games 🎮</h2>
-          <p className="text-sm text-white/70">Jump right into the arcade games and live DJ beatmaker!</p>
+          <h2 className="text-3xl font-extrabold text-white mb-2">Celebration Highlights ✨</h2>
+          <p className="text-sm text-white/70">Snap celebration portraits and catch falling cakes!</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <MemoryMatchGame />
-          <DJBeatmaker />
+          <PhotoboothCamera />
+          <CakeCatcherRunner />
         </div>
       </section>
 
       <section className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <BalloonPopper />
-          <CakeBaker />
+          <FriendshipTimeMachine />
+          <HoloCard3D />
+        </div>
+      </section>
+
+      <section className="max-w-6xl mx-auto px-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <MemoryMatchGame />
+          <DJBeatmaker />
         </div>
       </section>
 
