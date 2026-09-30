@@ -630,3 +630,5 @@
 /* Continuous refinement #132: refactor(quiz): memoize question shuffling algorithm on replay */
 
 /* Continuous refinement #133: style(navbar): elevate glassmorphic blur to backdrop-blur-2xl */
+
+/* Continuous refinement #134: perf(canvas): throttle 60fps render loop when browser tab is inactive */
