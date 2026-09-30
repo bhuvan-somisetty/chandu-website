@@ -2,6 +2,8 @@ import React from 'react';
 import Hero from '../components/Hero';
 import SpecialPoints from '../components/SpecialPoints';
 import PhotoboothCamera from '../components/PhotoboothCamera';
+import SpinWheelGame from '../components/games/SpinWheelGame';
+import ShareableCard from '../components/ShareableCard';
 import FriendshipTimeMachine from '../components/FriendshipTimeMachine';
 import CakeCatcherRunner from '../components/games/CakeCatcherRunner';
 import MemoryMatchGame from '../components/games/MemoryMatchGame';
@@ -26,7 +28,7 @@ export default function Home() {
           <p className="text-sm text-white/70">Snap celebration portraits and catch falling cakes!</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <PhotoboothCamera />
+          <SpinWheelGame />
           <CakeCatcherRunner />
         </div>
       </section>
@@ -52,6 +54,7 @@ export default function Home() {
       <section className="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-8">
         <OrigamiEnvelope />
         <WishJar />
+        <ShareableCard />
       </section>
     </div>
   );
