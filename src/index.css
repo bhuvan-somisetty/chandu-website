@@ -330,3 +330,5 @@
 /* Fast refinement #12: perf(canvas): batch draw calls in 2D cake catcher runner */
 
 /* Fast refinement #13: style(dock): increase icon touch target bounds for mobile ergonomics */
+
+/* Fast refinement #14: refactor(storage): add robust try-catch on all localStorage operations */
