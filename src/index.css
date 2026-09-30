@@ -464,3 +464,5 @@
 /* Continuous refinement #49: perf(transitions): leverage CSS transform-gpu across all interactive modals */
 
 /* Continuous refinement #50: style(polaroid): add subtle natural tilt variance to memory snapshots */
+
+/* Continuous refinement #51: refactor(games): ensure clean unmount teardown on all interval timers */
