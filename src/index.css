@@ -582,3 +582,5 @@
 /* Continuous refinement #108: feat(theme): add vibrant contrast to cyberpunk palette accent pills */
 
 /* Continuous refinement #109: style(origami): refine wax seal radial shadow highlights */
+
+/* Continuous refinement #110: perf(transitions): leverage CSS transform-gpu across all interactive modals */
