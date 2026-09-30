@@ -1,41 +1,51 @@
 import React, { useState } from 'react';
 import FireworksSandbox from '../components/activities/FireworksSandbox';
-import ConstellationWish from '../components/activities/ConstellationWish';
-import WishJar from '../components/activities/WishJar';
-import PolaroidWall from '../components/activities/PolaroidWall';
-import CardCreator from '../components/activities/CardCreator';
-import FriendshipBingo from '../components/activities/FriendshipBingo';
-import ComplimentGenerator from '../components/activities/ComplimentGenerator';
+import PhotoboothCamera from '../components/PhotoboothCamera';
+import FriendshipTimeMachine from '../components/FriendshipTimeMachine';
+import HoloCard3D from '../components/HoloCard3D';
+import WishCloud from '../components/WishCloud';
+import LofiBeatSynthesizer from '../components/LofiBeatSynthesizer';
 import SparklerCanvas from '../components/SparklerCanvas';
 import OrigamiEnvelope from '../components/OrigamiEnvelope';
+import WishJar from '../components/activities/WishJar';
 import SpeechWishReader from '../components/SpeechWishReader';
+import ConstellationWish from '../components/activities/ConstellationWish';
+import PolaroidWall from '../components/activities/PolaroidWall';
+import CardCreator from '../components/activities/CardCreator';
 import ZodiacStarlight from '../components/ZodiacStarlight';
+import FriendshipBingo from '../components/activities/FriendshipBingo';
+import ComplimentGenerator from '../components/activities/ComplimentGenerator';
 import { playPop } from '../utils/audioSynth';
 
 export default function ActivitiesPage() {
-  const [activeTab, setActiveTab] = useState('fireworks');
+  const [activeTab, setActiveTab] = useState('photobooth');
 
   const tabs = [
-    { id: 'fireworks', label: 'Fireworks 🎆', comp: FireworksSandbox },
+    { id: 'photobooth', label: 'Photobooth 📸', comp: PhotoboothCamera },
+    { id: 'timemachine', label: 'Time Machine ⏳', comp: FriendshipTimeMachine },
+    { id: 'holocard', label: 'Holo Card 👑', comp: HoloCard3D },
     { id: 'sparkler', label: 'Sparklers ✨', comp: SparklerCanvas },
+    { id: 'fireworks', label: 'Fireworks 🎆', comp: FireworksSandbox },
     { id: 'envelope', label: 'Envelope 💌', comp: OrigamiEnvelope },
     { id: 'wishjar', label: 'Wish Jar 🏺', comp: WishJar },
+    { id: 'wishcloud', label: 'Wish Cloud 💭', comp: WishCloud },
+    { id: 'lofi', label: 'Lo-Fi Chill ☕', comp: LofiBeatSynthesizer },
     { id: 'speech', label: 'Voice Wish 🔊', comp: SpeechWishReader },
     { id: 'constellation', label: 'Stars 🌌', comp: ConstellationWish },
-    { id: 'polaroids', label: 'Polaroids 📸', comp: PolaroidWall },
-    { id: 'card', label: 'Card Studio 🖼️', comp: CardCreator },
+    { id: 'polaroids', label: 'Polaroids 🖼️', comp: PolaroidWall },
+    { id: 'card', label: 'Card Studio 🎨', comp: CardCreator },
     { id: 'zodiac', label: 'Aura 🔮', comp: ZodiacStarlight },
     { id: 'bingo', label: 'Bingo 🏆', comp: FriendshipBingo },
     { id: 'compliment', label: 'Vibes 💖', comp: ComplimentGenerator }
   ];
 
-  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || FireworksSandbox;
+  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || PhotoboothCamera;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Creative Studio & Activities ✨</h1>
-        <p className="text-sm text-white/70">Explore 11 interactive celebration activities, lightshows, and memory tools!</p>
+        <p className="text-sm text-white/70">Explore 16 interactive celebration activities, studios, and memory tools!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
