@@ -310,3 +310,5 @@
 /* Fast refinement #2: refactor(audio): smooth airhorn attack ramp in sound effects pad */
 
 /* Fast refinement #3: style(share): add subtle pulse border to share celebration card */
+
+/* Fast refinement #4: perf(dom): optimize wheel rotation physics easing bezier curve */
