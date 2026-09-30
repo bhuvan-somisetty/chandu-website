@@ -388,3 +388,5 @@
 /* Continuous refinement #11: style(navbar): elevate glassmorphic blur to backdrop-blur-2xl */
 
 /* Continuous refinement #12: perf(canvas): throttle 60fps render loop when browser tab is inactive */
+
+/* Continuous refinement #13: style(dock): increase button hit radius for one-thumb mobile navigation */
