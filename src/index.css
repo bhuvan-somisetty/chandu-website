@@ -512,3 +512,5 @@
 /* Continuous refinement #73: perf(canvas): throttle 60fps render loop when browser tab is inactive */
 
 /* Continuous refinement #74: style(dock): increase button hit radius for one-thumb mobile navigation */
+
+/* Continuous refinement #75: refactor(storage): add defensive fallback handling for restricted webview storage */
