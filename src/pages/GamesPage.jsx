@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import BalloonPopper from '../components/games/BalloonPopper';
+import CakeCatcherRunner from '../components/games/CakeCatcherRunner';
 import BirthdayQuiz from '../components/games/BirthdayQuiz';
 import CakeBaker from '../components/games/CakeBaker';
 import FortuneCookie from '../components/games/FortuneCookie';
@@ -8,13 +9,13 @@ import ChimePiano from '../components/games/ChimePiano';
 import MemoryMatchGame from '../components/games/MemoryMatchGame';
 import WhackACakeGame from '../components/games/WhackACakeGame';
 import DJBeatmaker from '../components/DJBeatmaker';
-import { Sparkles, Gift, Brain, Cake, Music, Gamepad2 } from 'lucide-react';
 import { playPop } from '../utils/audioSynth';
 
 export default function GamesPage() {
-  const [activeTab, setActiveTab] = useState('balloon');
+  const [activeTab, setActiveTab] = useState('catcher');
 
   const tabs = [
+    { id: 'catcher', label: 'Cake Catcher 2D 🧁', component: CakeCatcherRunner },
     { id: 'balloon', label: 'Balloon Popper 🎈', component: BalloonPopper },
     { id: 'whack', label: 'Whack-A-Cake 🎂', component: WhackACakeGame },
     { id: 'memory', label: 'Memory Match 🃏', component: MemoryMatchGame },
@@ -26,13 +27,13 @@ export default function GamesPage() {
     { id: 'piano', label: 'Chime Piano 🎹', component: ChimePiano }
   ];
 
-  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || BalloonPopper;
+  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || CakeCatcherRunner;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
-        <p className="text-sm text-white/70">Play 9 interactive mini-games, earn points, and unlock achievements!</p>
+        <p className="text-sm text-white/70">Play 10 interactive arcade mini-games, earn points, and unlock achievements!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
