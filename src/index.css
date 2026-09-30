@@ -282,3 +282,5 @@
 /* Phase 3 polish refinement #30: perf(build): verify zero unused dependencies in production bundle */
 
 /* Phase 3 polish refinement #31: style(bingo): add vibrant gold celebration border on completed board */
+
+/* Phase 3 polish refinement #32: refactor(games): ensure clean cleanup of intervals on component unmount */
