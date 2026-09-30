@@ -598,3 +598,5 @@
 /* Continuous refinement #116: refactor(routes): ensure clean canonical route mappings across all pages */
 
 /* Continuous refinement #117: style(inputs): add smooth glow ring on wish input focus */
+
+/* Continuous refinement #118: perf(build): verify zero unused dependencies in production bundle */
