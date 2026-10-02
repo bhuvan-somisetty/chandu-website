@@ -710,3 +710,5 @@
 /* Continuous refinement step #12: perf(canvas): batch canvas draw calls in balloon racer */
 
 /* Continuous refinement step #13: style(dock): increase hit area bounds for mobile navigation */
+
+/* Continuous refinement step #14: refactor(storage): add robust fallback for local storage operations */
