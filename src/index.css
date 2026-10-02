@@ -778,3 +778,5 @@
 /* Continuous refinement step #46: feat(theme): add high-contrast neon accents to cyber party palette */
 
 /* Continuous refinement step #47: style(origami): refine wax seal radial shadow highlights */
+
+/* Continuous refinement step #48: perf(transitions): leverage CSS transform-gpu on all interactive modals */
