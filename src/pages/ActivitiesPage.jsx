@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import FireworksSandbox from '../components/activities/FireworksSandbox';
 import PhotoboothCamera from '../components/PhotoboothCamera';
+import PixelArtStudio from '../components/PixelArtStudio';
+import CosmicStarfield from '../components/CosmicStarfield';
 import CrystalBallProphecy from '../components/CrystalBallProphecy';
 import PartyBeatSequencer from '../components/PartyBeatSequencer';
 import SoundEffectsPad from '../components/SoundEffectsPad';
@@ -25,6 +27,8 @@ export default function ActivitiesPage() {
   const [activeTab, setActiveTab] = useState('photobooth');
 
   const tabs = [
+    { id: 'pixelart', label: 'Pixel Art 🎨', comp: PixelArtStudio },
+    { id: 'starfield', label: 'Cosmic Stars 🌌', comp: CosmicStarfield },
     { id: 'crystal', label: 'Crystal Ball 🔮', comp: CrystalBallProphecy },
     { id: 'sequencer', label: 'Beat Sequencer 🎛️', comp: PartyBeatSequencer },
     { id: 'sfxpad', label: 'Sound FX 📢', comp: SoundEffectsPad },
@@ -53,7 +57,7 @@ export default function ActivitiesPage() {
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Creative Studio & Activities ✨</h1>
-        <p className="text-sm text-white/70">Explore 20 interactive celebration activities, studios, and memory tools!</p>
+        <p className="text-sm text-white/70">Explore 22 interactive celebration activities, studios, and memory tools!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
