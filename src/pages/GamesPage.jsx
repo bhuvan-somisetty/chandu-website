@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import BalloonPopper from '../components/games/BalloonPopper';
 import CakeCatcherRunner from '../components/games/CakeCatcherRunner';
 import SpinWheelGame from '../components/games/SpinWheelGame';
+import BalloonRacerGame from '../components/games/BalloonRacerGame';
 import BirthdayTileSlider from '../components/games/BirthdayTileSlider';
 import BirthdayQuiz from '../components/games/BirthdayQuiz';
 import CakeBaker from '../components/games/CakeBaker';
@@ -17,6 +18,7 @@ export default function GamesPage() {
   const [activeTab, setActiveTab] = useState('catcher');
 
   const tabs = [
+    { id: 'racer', label: 'Sky Racer 🏎️', component: BalloonRacerGame },
     { id: 'slider', label: 'Puzzle Slider 🧩', component: BirthdayTileSlider },
     { id: 'wheel', label: 'Wheel of Fortune 🎡', component: SpinWheelGame },
     { id: 'catcher', label: 'Cake Catcher 2D 🧁', component: CakeCatcherRunner },
@@ -37,7 +39,7 @@ export default function GamesPage() {
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
-        <p className="text-sm text-white/70">Play 12 interactive arcade mini-games, earn points, and unlock achievements!</p>
+        <p className="text-sm text-white/70">Play 13 interactive arcade mini-games, earn points, and unlock achievements!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
