@@ -702,3 +702,5 @@
 /* Continuous refinement step #8: perf(particles): tune confetti spread geometry and gravity falloff */
 
 /* Continuous refinement step #9: style(hero): enhance headline gradient saturation for HDR color displays */
+
+/* Continuous refinement step #10: refactor(quiz): memoize question order on quiz restart */
