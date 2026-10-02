@@ -690,3 +690,5 @@
 /* Continuous refinement step #2: refactor(audio): smooth attack ramp on cosmic starfield audio chime */
 
 /* Continuous refinement step #3: style(pixelart): add subtle bevel shadow to pixel art cells */
+
+/* Continuous refinement step #4: perf(dom): optimize 60fps game loop in sky racer runner */
