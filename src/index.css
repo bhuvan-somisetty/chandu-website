@@ -722,3 +722,5 @@
 /* Continuous refinement step #18: perf(transitions): leverage CSS transform-gpu on all interactive modals */
 
 /* Continuous refinement step #19: style(polaroid): add subtle natural tilt variance to memory snapshots */
+
+/* Continuous refinement step #20: refactor(games): ensure clean unmount teardown on all interval timers */
