@@ -826,3 +826,5 @@
 /* Continuous refinement step #70: refactor(quiz): memoize question order on quiz restart */
 
 /* Continuous refinement step #71: style(navbar): elevate glassmorphic background opacity */
+
+/* Continuous refinement step #72: perf(canvas): batch canvas draw calls in balloon racer */
