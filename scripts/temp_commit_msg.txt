@@ -1,5 +1,5 @@
-feat(compliments): add copy-to-clipboard toast notification
+style(timemachine): enhance warp transition particle speed
 
-Refactor and enhance compliments with performance, visual, and UX polish [step 28].
+Refactor and enhance timemachine with performance, visual, and UX polish [step 29].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
