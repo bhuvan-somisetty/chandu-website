@@ -668,3 +668,5 @@
 /* [Batch2 Step 142] chore(release): bump celebration release version milestone */
 
 /* [Extra Step 1] docs(readme): document new arcade mini-games and interactive canvas studios */
+
+/* [Extra Step 2] perf(canvas): enable willReadFrequently on 2D drawing contexts */
