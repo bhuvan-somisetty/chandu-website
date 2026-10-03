@@ -1,5 +1,5 @@
-style(pixelart): add pixel grid toggle switch
+perf(starfield): precalculate star projection geometry
 
-Refactor and enhance pixelart with performance, visual, and UX polish [batch 2 - step 110].
+Refactor and enhance starfield with performance, visual, and UX polish [batch 2 - step 111].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
