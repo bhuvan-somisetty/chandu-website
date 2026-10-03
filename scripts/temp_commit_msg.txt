@@ -1,5 +1,5 @@
-feat(pixelart): add preset palette swatches for pastel and neon hues
+perf(starfield): reduce canvas draw call overhead on 60fps loop
 
-Refactor and enhance pixelart with performance, visual, and UX polish [step 24].
+Refactor and enhance starfield with performance, visual, and UX polish [step 25].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

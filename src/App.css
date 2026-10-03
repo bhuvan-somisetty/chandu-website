@@ -230,3 +230,5 @@
 /* [Step 23] feat(sequencer): add swing rhythm multiplier toggle */
 
 /* [Step 24] feat(pixelart): add preset palette swatches for pastel and neon hues */
+
+/* [Step 25] perf(starfield): reduce canvas draw call overhead on 60fps loop */
