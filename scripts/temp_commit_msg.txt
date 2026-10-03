@@ -1,5 +1,5 @@
-style(constellation): glow connecting lines on star hover
+style(polaroids): add randomized tilt angles for organic wall display
 
-Refactor and enhance constellation with performance, visual, and UX polish [step 36].
+Refactor and enhance polaroids with performance, visual, and UX polish [step 37].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
