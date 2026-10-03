@@ -1,5 +1,5 @@
-style(whack): add funny party hats on pop-up cakes
+gameplay(whack): add golden candle target for extra time
 
-Refactor and enhance whack with performance, visual, and UX polish [batch 2 - step 79].
+Refactor and enhance whack with performance, visual, and UX polish [batch 2 - step 80].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
