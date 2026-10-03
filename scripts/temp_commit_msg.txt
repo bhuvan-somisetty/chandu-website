@@ -1,5 +1,5 @@
-style(compliments): add flip card reveal animation
+gameplay(racer): add rainbow speed boost runway ramps
 
-Refactor and enhance compliments with performance, visual, and UX polish [batch 2 - step 68].
+Refactor and enhance racer with performance, visual, and UX polish [batch 2 - step 69].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
