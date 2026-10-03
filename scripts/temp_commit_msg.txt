@@ -1,5 +1,5 @@
-style(candles): add realistic wick glow after flame blowout
+gameplay(quest): add randomized hidden treasure compass clue
 
-Refactor and enhance candles with performance, visual, and UX polish [batch 2 - step 96].
+Refactor and enhance quest with performance, visual, and UX polish [batch 2 - step 97].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
