@@ -1,5 +1,5 @@
-feat(games): build StarWishCatcher shooting star collection game
+feat(award): create BirthdayCertificateGenerator official celebration diploma tool
 
-Implement interactive night sky canvas where tapping shooting stars unseals cosmic birthday wishes.
+Build gold-bordered customizable friendship diploma with printable layout and seal.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
