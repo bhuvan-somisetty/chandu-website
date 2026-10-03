@@ -1,0 +1,5 @@
+feat(canvas): build NeonGlowSketcher luminous brush painting tool
+
+Implement canvas-based neon glow sketcher with rainbow brushes, adjustable glow intensity, and PNG export.
+
+Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

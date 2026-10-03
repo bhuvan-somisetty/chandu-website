@@ -14,12 +14,16 @@ import WhackACakeGame from '../components/games/WhackACakeGame';
 import DJBeatmaker from '../components/DJBeatmaker';
 import TreasureChestQuest from '../components/games/TreasureChestQuest';
 import SpaceBirthdayOdyssey from '../components/games/SpaceBirthdayOdyssey';
+import BirthdayBreakout from '../components/games/BirthdayBreakout';
+import StarWishCatcher from '../components/games/StarWishCatcher';
 import { playPop } from '../utils/audioSynth';
 
 export default function GamesPage() {
-  const [activeTab, setActiveTab] = useState('treasure');
+  const [activeTab, setActiveTab] = useState('breakout');
 
   const tabs = [
+    { id: 'breakout', label: 'Brick Breakout 🏓', component: BirthdayBreakout },
+    { id: 'starcatcher', label: 'Star Catcher 🌠', component: StarWishCatcher },
     { id: 'treasure', label: 'Treasure Quest 🗺️', component: TreasureChestQuest },
     { id: 'space', label: 'Space Rocket 🚀', component: SpaceBirthdayOdyssey },
     { id: 'racer', label: 'Sky Racer 🏎️', component: BalloonRacerGame },
@@ -37,13 +41,13 @@ export default function GamesPage() {
     { id: 'piano', label: 'Chime Piano 🎹', component: ChimePiano }
   ];
 
-  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || TreasureChestQuest;
+  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || BirthdayBreakout;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
-        <p className="text-sm text-white/70">Play 15 interactive arcade mini-games, earn points, and unlock achievements!</p>
+        <p className="text-sm text-white/70">Play 17 interactive arcade mini-games, earn points, and unlock achievements!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">

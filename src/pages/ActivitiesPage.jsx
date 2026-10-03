@@ -26,12 +26,22 @@ import ChimeHarp from '../components/ChimeHarp';
 import PopUpCard3D from '../components/PopUpCard3D';
 import LaserLightShow from '../components/LaserLightShow';
 import CelebrationLeaderboard from '../components/CelebrationLeaderboard';
+import NeonGlowSketcher from '../components/NeonGlowSketcher';
+import MemoryCapsuleVault from '../components/MemoryCapsuleVault';
+import InteractiveDrumKit from '../components/InteractiveDrumKit';
+import BirthdayCertificateGenerator from '../components/BirthdayCertificateGenerator';
+import SolarSystemOrbit from '../components/SolarSystemOrbit';
 import { playPop } from '../utils/audioSynth';
 
 export default function ActivitiesPage() {
-  const [activeTab, setActiveTab] = useState('candle');
+  const [activeTab, setActiveTab] = useState('neonglow');
 
   const tabs = [
+    { id: 'neonglow', label: 'Neon Sketch 🎨', comp: NeonGlowSketcher },
+    { id: 'drumkit', label: 'Party Drums 🥁', comp: InteractiveDrumKit },
+    { id: 'vault', label: 'Memory Vault ⏳', comp: MemoryCapsuleVault },
+    { id: 'certificate', label: 'Award Diploma 📜', comp: BirthdayCertificateGenerator },
+    { id: 'orbit', label: 'Cosmic Orbit 🌌', comp: SolarSystemOrbit },
     { id: 'candle', label: 'Blow Candles 🎂', comp: MicrophoneCandleBlower },
     { id: 'harp', label: 'Chime Harp 🎵', comp: ChimeHarp },
     { id: 'popupcard', label: '3D Pop-Up Card 💌', comp: PopUpCard3D },
@@ -61,13 +71,13 @@ export default function ActivitiesPage() {
     { id: 'compliment', label: 'Vibes 💖', comp: ComplimentGenerator }
   ];
 
-  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || MicrophoneCandleBlower;
+  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || NeonGlowSketcher;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Creative Studio & Activities ✨</h1>
-        <p className="text-sm text-white/70">Explore 27 interactive celebration activities, studios, and memory tools!</p>
+        <p className="text-sm text-white/70">Explore 32 interactive celebration activities, studios, and memory tools!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
