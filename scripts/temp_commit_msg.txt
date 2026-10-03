@@ -1,5 +1,5 @@
-feat(bingo): add customizable bingo card item builder
+feat(compliments): add category filter (sweet, funny, inspiring)
 
-Refactor and enhance bingo with performance, visual, and UX polish [step 85].
+Refactor and enhance compliments with performance, visual, and UX polish [step 86].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
