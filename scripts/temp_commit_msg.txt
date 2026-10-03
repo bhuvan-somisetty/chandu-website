@@ -1,5 +1,5 @@
-style(giftbox): add satin ribbon texture on gift wraps
+feat(giftbox): add mystery golden chest with royal treasures
 
-Refactor and enhance giftbox with performance, visual, and UX polish [batch 2 - step 91].
+Refactor and enhance giftbox with performance, visual, and UX polish [batch 2 - step 92].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
