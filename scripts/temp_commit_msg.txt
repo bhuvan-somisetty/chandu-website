@@ -1,5 +1,5 @@
-style(timemachine): add retro neon CRT scanline effect
+feat(timemachine): add decade slider (90s, 00s, 10s, 20s memories)
 
-Refactor and enhance time-machine with performance, visual, and UX polish [batch 2 - step 45].
+Refactor and enhance time-machine with performance, visual, and UX polish [batch 2 - step 46].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
