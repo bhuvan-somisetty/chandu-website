@@ -1,5 +1,5 @@
-style(starcatcher): add twinkling star background dust
+style(certificate): add vintage parchment border ornament
 
-Refactor and enhance starcatcher with performance, visual, and UX polish [batch 2 - step 10].
+Refactor and enhance certificate with performance, visual, and UX polish [batch 2 - step 11].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
