@@ -1,5 +1,5 @@
-chore(release): bump celebration release version milestone
+docs(readme): document new arcade mini-games and interactive canvas studios
 
-Refactor and enhance core with performance, visual, and UX polish [batch 2 - step 142].
+Enhance docs for production deployment.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
