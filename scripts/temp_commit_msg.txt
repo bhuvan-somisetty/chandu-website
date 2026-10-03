@@ -1,5 +1,5 @@
-feat(bingo): add party bingo shuffle board generator
+feat(compliments): add heart reaction counter on compliments
 
-Refactor and enhance bingo with performance, visual, and UX polish [batch 2 - step 66].
+Refactor and enhance compliments with performance, visual, and UX polish [batch 2 - step 67].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
