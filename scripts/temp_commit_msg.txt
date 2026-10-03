@@ -1,5 +1,5 @@
-perf(lasers): optimize canvas clear loop with alpha decay
+style(card3d): enhance wax seal metallic sheen highlight
 
-Refactor and enhance lasers with performance, visual, and UX polish [step 7].
+Refactor and enhance card3d with performance, visual, and UX polish [step 8].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
