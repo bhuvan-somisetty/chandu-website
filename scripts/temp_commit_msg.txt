@@ -1,5 +1,5 @@
-feat(quest): add randomized riddle generator to island exploration
+style(harp): smoothen string oscillation dampening curves
 
-Refactor and enhance games with performance, visual, and UX polish [step 5].
+Refactor and enhance harp with performance, visual, and UX polish [step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
