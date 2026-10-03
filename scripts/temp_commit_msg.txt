@@ -1,5 +1,5 @@
-feat(space): build SolarSystemOrbit cosmic planetary revolution calculator
+feat(games): incorporate Birthday Breakout and Star Catcher into GamesPage
 
-Implement orbital calculator showing planetary revolutions on Mercury, Venus, Mars, and Jupiter since birth.
+Expand arcade tab switcher to 17 interactive celebration mini-games.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
