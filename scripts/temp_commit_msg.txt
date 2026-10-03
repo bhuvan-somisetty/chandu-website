@@ -1,5 +1,5 @@
-feat(achievements): add breakout_master and star_collector badges
+style(achievements): add metallic gold shimmer border on earned badges
 
-Refactor and enhance achievements with performance, visual, and UX polish [batch 2 - step 33].
+Refactor and enhance achievements with performance, visual, and UX polish [batch 2 - step 34].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
