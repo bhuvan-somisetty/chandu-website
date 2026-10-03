@@ -1,5 +1,5 @@
-feat(capsule): implement MemoryCapsuleVault digital time-locked souvenir storage
+feat(games): create BirthdayBreakout 2D arcade brick smashing minigame
 
-Add interactive time capsule creator with future year unlocks and encrypted messages.
+Build retro brick breakout game with paddle deflection angles, present tiles, and live particle effects.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
