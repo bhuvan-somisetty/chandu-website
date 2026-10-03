@@ -1,5 +1,5 @@
-style(css): define pulse glow keyframe animations
+audio(synth): add low-frequency drone for atmospheric backdrop
 
-Refactor and enhance css with performance, visual, and UX polish [batch 2 - step 130].
+Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 131].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
