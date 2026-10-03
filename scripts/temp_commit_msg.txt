@@ -1,5 +1,5 @@
-style(balloons): add soft light reflection on balloon latex skin
+style(cursor): add colorful sparkle trail option behind cursor
 
-Refactor and enhance balloons with performance, visual, and UX polish [batch 2 - step 26].
+Refactor and enhance cursor with performance, visual, and UX polish [batch 2 - step 27].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
