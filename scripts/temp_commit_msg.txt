@@ -1,5 +1,5 @@
-feat(leaderboard): add clear local high scores reset option
+feat(pixelart): add custom color hex code input
 
-Refactor and enhance leaderboard with performance, visual, and UX polish [batch 2 - step 108].
+Refactor and enhance pixelart with performance, visual, and UX polish [batch 2 - step 109].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
