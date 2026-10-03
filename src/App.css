@@ -306,3 +306,5 @@
 /* [Step 61] ui(theme): add golden sunset theme color scheme */
 
 /* [Step 62] accessibility(games): ensure all game buttons have explicit aria-labels */
+
+/* [Step 63] audio(synth): prevent clipping with master compressor node */

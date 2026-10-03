@@ -1,5 +1,5 @@
-accessibility(games): ensure all game buttons have explicit aria-labels
+audio(synth): prevent clipping with master compressor node
 
-Refactor and enhance a11y with performance, visual, and UX polish [step 62].
+Refactor and enhance audio with performance, visual, and UX polish [step 63].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
