@@ -1,5 +1,5 @@
-style(popper): add randomized balloon shapes (hearts, stars)
+gameplay(popper): add fever mode with 2x score for 10 seconds
 
-Refactor and enhance popper with performance, visual, and UX polish [batch 2 - step 77].
+Refactor and enhance popper with performance, visual, and UX polish [batch 2 - step 78].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
