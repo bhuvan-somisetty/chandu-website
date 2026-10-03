@@ -1,5 +1,5 @@
-style(cookie): add golden sparkles radiating from opened cookie
+feat(cookie): add wisdom fortune sharing card export
 
-Refactor and enhance cookie with performance, visual, and UX polish [batch 2 - step 89].
+Refactor and enhance cookie with performance, visual, and UX polish [batch 2 - step 90].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
