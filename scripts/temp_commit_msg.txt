@@ -1,5 +1,5 @@
-gameplay(quest): add randomized hidden treasure compass clue
+style(quest): add antique parchment texture to island grid
 
-Refactor and enhance quest with performance, visual, and UX polish [batch 2 - step 97].
+Refactor and enhance quest with performance, visual, and UX polish [batch 2 - step 98].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
