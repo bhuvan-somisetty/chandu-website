@@ -1,5 +1,5 @@
-ui(theme): add candy pastel unicorn color scheme
+a11y(sketcher): provide keyboard controls for brush palette selection
 
-Refactor and enhance theme with performance, visual, and UX polish [batch 2 - step 16].
+Refactor and enhance a11y with performance, visual, and UX polish [batch 2 - step 17].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
