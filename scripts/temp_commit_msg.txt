@@ -1,5 +1,5 @@
-feat(visuals): add real-time HTML5 Canvas Laser Light Show with audio pulses
+feat(games): create SpaceBirthdayOdyssey 2D rocket dodging arcade game
 
-Build geometric multi-beam laser visualizer with presets and procedural laser sounds.
+Implement keyboard and touch-controlled space rocket game with cupcake items, meteors, and lives.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
