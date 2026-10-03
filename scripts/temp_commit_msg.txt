@@ -1,5 +1,5 @@
-style(racer): add motion blur lines during top speed
+gameplay(slider): add move counter and optimal score rating
 
-Refactor and enhance racer with performance, visual, and UX polish [batch 2 - step 70].
+Refactor and enhance slider with performance, visual, and UX polish [batch 2 - step 71].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
