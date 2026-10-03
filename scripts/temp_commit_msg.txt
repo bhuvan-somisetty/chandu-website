@@ -1,5 +1,5 @@
-feat(games): create SpaceBirthdayOdyssey 2D rocket dodging arcade game
+feat(leaderboard): build CelebrationLeaderboard Hall of Fame records showcase
 
-Implement keyboard and touch-controlled space rocket game with cupcake items, meteors, and lives.
+Add stylish party leaderboard showcasing top arcade achievements and rankings.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
