@@ -1,5 +1,5 @@
-style(wishcloud): introduce dreamy pastel sunset cloud colors
+feat(wishcloud): add rain of confetti drop from clouds
 
-Refactor and enhance wishcloud with performance, visual, and UX polish [batch 2 - step 53].
+Refactor and enhance wishcloud with performance, visual, and UX polish [batch 2 - step 54].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
