@@ -1,5 +1,5 @@
-audio(dj): add resonant low-pass filter frequency sweep
+style(dj): add glowing VU meters bouncing to master audio
 
-Refactor and enhance dj with performance, visual, and UX polish [batch 2 - step 83].
+Refactor and enhance dj with performance, visual, and UX polish [batch 2 - step 84].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
