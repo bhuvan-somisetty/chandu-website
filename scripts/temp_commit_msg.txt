@@ -1,5 +1,5 @@
-style(timemachine): enhance warp transition particle speed
+style(holocard): calibrate gyroscope tilt responsiveness
 
-Refactor and enhance timemachine with performance, visual, and UX polish [step 29].
+Refactor and enhance holocard with performance, visual, and UX polish [step 30].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
