@@ -1,5 +1,5 @@
-feat(polaroids): add handwritten caption editing support
+feat(cardcreator): add custom stamp stickers palette
 
-Refactor and enhance polaroids with performance, visual, and UX polish [step 82].
+Refactor and enhance cardcreator with performance, visual, and UX polish [step 83].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
