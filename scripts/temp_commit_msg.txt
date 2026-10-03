@@ -1,5 +1,5 @@
-feat(lofi): add rain sound ambient layer generator
+feat(constellation): add zodiac constellation outlines
 
-Refactor and enhance lofi with performance, visual, and UX polish [step 80].
+Refactor and enhance constellation with performance, visual, and UX polish [step 81].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
