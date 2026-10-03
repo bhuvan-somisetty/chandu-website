@@ -1,5 +1,5 @@
-feat(card): build 3D animated PopUpCard keepsakes with wax seal toggles
+feat(visuals): add real-time HTML5 Canvas Laser Light Show with audio pulses
 
-Implement interactive 3D CSS perspective fold-out greeting card with particle triggers.
+Build geometric multi-beam laser visualizer with presets and procedural laser sounds.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
