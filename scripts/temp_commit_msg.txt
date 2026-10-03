@@ -1,5 +1,5 @@
-style(app): smoothen global scrollbar thumb color scheme
+style(css): add custom glassmorphic utility classes
 
-Refactor and enhance app with performance, visual, and UX polish [batch 2 - step 128].
+Refactor and enhance css with performance, visual, and UX polish [batch 2 - step 129].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
