@@ -1,5 +1,5 @@
-feat(cardcreator): add custom stamp stickers palette
+feat(zodiac): add daily cosmic birthday horoscope generator
 
-Refactor and enhance cardcreator with performance, visual, and UX polish [step 83].
+Refactor and enhance zodiac with performance, visual, and UX polish [step 84].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
