@@ -1,5 +1,5 @@
-style(achievements): add metallic gold shimmer border on earned badges
+style(party): add laser beam overlay in disco party mode
 
-Refactor and enhance achievements with performance, visual, and UX polish [batch 2 - step 34].
+Refactor and enhance party with performance, visual, and UX polish [batch 2 - step 35].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
