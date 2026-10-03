@@ -1,5 +1,5 @@
-refactor(sketcher): improve brush stroke interpolation on high-DPI screens
+style(sketcher): add rainbow hue cycle animation on gradient mode
 
-Refactor and enhance sketcher with performance, visual, and UX polish [batch 2 - step 1].
+Refactor and enhance sketcher with performance, visual, and UX polish [batch 2 - step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
