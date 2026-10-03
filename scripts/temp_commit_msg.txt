@@ -1,5 +1,5 @@
-perf(balloons): throttle floating balloon animation updates
+style(photobooth): add sparkle overlay option to captured snapshots
 
-Refactor and enhance balloons with performance, visual, and UX polish [step 14].
+Refactor and enhance photobooth with performance, visual, and UX polish [step 15].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
