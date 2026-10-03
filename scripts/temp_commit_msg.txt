@@ -1,5 +1,5 @@
-style(dock): apply subtle glow backdrop blur to bottom navigation dock
+feat(quest): add randomized riddle generator to island exploration
 
-Refactor and enhance ui with performance, visual, and UX polish [step 4].
+Refactor and enhance games with performance, visual, and UX polish [step 5].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
