@@ -1,5 +1,5 @@
-ui(wishjar): add glowing firefly particles inside glass jar
+style(wishcloud): introduce smooth floating cloud wind velocity
 
-Refactor and enhance wishjar with performance, visual, and UX polish [step 31].
+Refactor and enhance wishcloud with performance, visual, and UX polish [step 32].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
