@@ -1,5 +1,5 @@
-perf(canvas): enable willReadFrequently on 2D drawing contexts
+style(theme): enhance sapphire crystal theme gradient saturation
 
-Enhance performance for production deployment.
+Enhance theme for production deployment.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
