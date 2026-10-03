@@ -1,5 +1,5 @@
-feat(speech): support multiple celebratory language greetings
+style(constellation): add glowing pulsar stars at key coordinates
 
-Refactor and enhance speech with performance, visual, and UX polish [batch 2 - step 56].
+Refactor and enhance constellation with performance, visual, and UX polish [batch 2 - step 57].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
