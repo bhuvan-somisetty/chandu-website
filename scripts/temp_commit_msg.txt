@@ -1,5 +1,5 @@
-feat(giftbox): add mystery golden chest with royal treasures
+style(piano): add blue flame glow on pressed piano keys
 
-Refactor and enhance giftbox with performance, visual, and UX polish [batch 2 - step 92].
+Refactor and enhance piano with performance, visual, and UX polish [batch 2 - step 93].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
