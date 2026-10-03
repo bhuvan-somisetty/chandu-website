@@ -1,5 +1,5 @@
-perf(routing): prefetch heavy game chunks on link hover
+style(app): smoothen global scrollbar thumb color scheme
 
-Refactor and enhance app with performance, visual, and UX polish [batch 2 - step 127].
+Refactor and enhance app with performance, visual, and UX polish [batch 2 - step 128].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
