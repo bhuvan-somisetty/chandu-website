@@ -1,5 +1,5 @@
-style(message): add gold foil stamped signature calligraphy
+ui(message): add music playback toggle button on greeting card
 
-Refactor and enhance message with performance, visual, and UX polish [batch 2 - step 125].
+Refactor and enhance message with performance, visual, and UX polish [batch 2 - step 126].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
