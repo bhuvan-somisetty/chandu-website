@@ -1,5 +1,5 @@
-feat(games): incorporate Birthday Breakout and Star Catcher into GamesPage
+feat(activities): incorporate Neon Sketch, Drums, Vault, Certificate, and Orbit into ActivitiesPage
 
-Expand arcade tab switcher to 17 interactive celebration mini-games.
+Expand creative studio to 32 full-featured celebratory activities.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
