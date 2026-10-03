@@ -1,5 +1,5 @@
-style(polaroids): add randomized tilt angles for organic wall display
+feat(cardcreator): add instant PNG download via HTML5 canvas export
 
-Refactor and enhance polaroids with performance, visual, and UX polish [step 37].
+Refactor and enhance cardcreator with performance, visual, and UX polish [step 38].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
