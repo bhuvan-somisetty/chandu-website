@@ -1,5 +1,5 @@
-gameplay(memory): record fastest completion time stopwatch
+audio(dj): add high-pass filter cutoff control slider
 
-Refactor and enhance memory with performance, visual, and UX polish [step 46].
+Refactor and enhance dj with performance, visual, and UX polish [step 47].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
