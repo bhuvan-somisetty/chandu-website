@@ -1,5 +1,5 @@
-audio(soundpad): add pitch shift toggle (+/- 2 semitones)
+style(soundpad): add retro arcade rubber button styling
 
-Refactor and enhance soundpad with performance, visual, and UX polish [batch 2 - step 117].
+Refactor and enhance soundpad with performance, visual, and UX polish [batch 2 - step 118].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
