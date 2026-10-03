@@ -1,5 +1,5 @@
-style(candles): add flickering flame animation keyframes
+style(quest): add shimmering border around unlocked treasure chests
 
-Refactor and enhance candles with performance, visual, and UX polish [step 64].
+Refactor and enhance quest with performance, visual, and UX polish [step 65].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
