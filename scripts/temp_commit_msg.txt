@@ -1,5 +1,5 @@
-chore(seo): add OpenGraph celebration preview metadata tags
+chore(pwa): configure Web App Manifest for mobile fullscreen
 
-Refactor and enhance seo with performance, visual, and UX polish [batch 2 - step 135].
+Refactor and enhance manifest with performance, visual, and UX polish [batch 2 - step 136].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
