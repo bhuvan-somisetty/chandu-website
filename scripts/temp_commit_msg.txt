@@ -1,5 +1,5 @@
-feat(constellation): add zodiac constellation outlines
+feat(polaroids): add handwritten caption editing support
 
-Refactor and enhance constellation with performance, visual, and UX polish [step 81].
+Refactor and enhance polaroids with performance, visual, and UX polish [step 82].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
