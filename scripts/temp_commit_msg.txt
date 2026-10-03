@@ -1,5 +1,5 @@
-feat(activities): incorporate Candle Blower, Chime Harp, Pop-Up Card, Lasers, and Hall of Fame
+refactor(theme): enhance contrast levels on neon theme palette
 
-Expand activities gallery to 27 full-featured interactive celebration components.
+Refactor and enhance theme with performance, visual, and UX polish [step 1].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
