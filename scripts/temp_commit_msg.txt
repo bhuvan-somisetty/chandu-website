@@ -1,5 +1,5 @@
-style(quest): add antique parchment texture to island grid
+audio(harp): add reverb space acoustic simulation
 
-Refactor and enhance quest with performance, visual, and UX polish [batch 2 - step 98].
+Refactor and enhance harp with performance, visual, and UX polish [batch 2 - step 99].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
