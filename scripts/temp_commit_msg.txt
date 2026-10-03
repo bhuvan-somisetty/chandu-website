@@ -1,5 +1,5 @@
-style(harp): add chromatic rainbow glow along plucked strings
+feat(lasers): add multi-colored strobe laser fan preset
 
-Refactor and enhance harp with performance, visual, and UX polish [batch 2 - step 100].
+Refactor and enhance lasers with performance, visual, and UX polish [batch 2 - step 101].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
