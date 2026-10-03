@@ -1,5 +1,0 @@
-chore(release): finalize celebrate 2026 interactive feature suite
-
-Enhance release for production deployment.
-
-Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
