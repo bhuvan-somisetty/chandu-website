@@ -1,5 +1,5 @@
-ui(theme): add golden sunset theme color scheme
+accessibility(games): ensure all game buttons have explicit aria-labels
 
-Refactor and enhance theme with performance, visual, and UX polish [step 61].
+Refactor and enhance a11y with performance, visual, and UX polish [step 62].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
