@@ -1,5 +1,5 @@
-style(catcher): add celebratory basket upgrade on 200 pts
+style(popper): add randomized balloon shapes (hearts, stars)
 
-Refactor and enhance catcher with performance, visual, and UX polish [batch 2 - step 76].
+Refactor and enhance popper with performance, visual, and UX polish [batch 2 - step 77].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
