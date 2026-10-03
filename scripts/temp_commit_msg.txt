@@ -1,5 +1,5 @@
-feat(wishcloud): allow custom cloud color selection
+feat(lofi): add rain sound ambient layer generator
 
-Refactor and enhance wishcloud with performance, visual, and UX polish [step 79].
+Refactor and enhance lofi with performance, visual, and UX polish [step 80].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
