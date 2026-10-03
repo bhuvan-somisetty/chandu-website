@@ -194,3 +194,5 @@
 /* [Step 5] feat(quest): add randomized riddle generator to island exploration */
 
 /* [Step 6] style(harp): smoothen string oscillation dampening curves */
+
+/* [Step 7] perf(lasers): optimize canvas clear loop with alpha decay */

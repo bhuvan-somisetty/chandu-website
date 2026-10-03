@@ -1,5 +1,5 @@
-style(harp): smoothen string oscillation dampening curves
+perf(lasers): optimize canvas clear loop with alpha decay
 
-Refactor and enhance harp with performance, visual, and UX polish [step 6].
+Refactor and enhance lasers with performance, visual, and UX polish [step 7].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
