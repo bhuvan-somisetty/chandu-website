@@ -1,5 +1,5 @@
-perf(audio): cache AudioContext instance between user interactions
+style(dock): apply subtle glow backdrop blur to bottom navigation dock
 
-Refactor and enhance perf with performance, visual, and UX polish [step 3].
+Refactor and enhance ui with performance, visual, and UX polish [step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
