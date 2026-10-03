@@ -1,5 +1,5 @@
-gameplay(slider): add move counter and optimal score rating
+style(slider): add wood grain texture to sliding puzzle tiles
 
-Refactor and enhance slider with performance, visual, and UX polish [batch 2 - step 71].
+Refactor and enhance slider with performance, visual, and UX polish [batch 2 - step 72].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
