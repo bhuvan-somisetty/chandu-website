@@ -1,5 +1,5 @@
-ui(navbar): add subtle indicator dot for active page category
+style(dock): smoothen dock icon hover magnification curve
 
-Refactor and enhance navbar with performance, visual, and UX polish [batch 2 - step 22].
+Refactor and enhance dock with performance, visual, and UX polish [batch 2 - step 23].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
