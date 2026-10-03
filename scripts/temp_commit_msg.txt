@@ -1,5 +1,5 @@
-style(card3d): add realistic paper thickness and edge bevel
+ui(card3d): add customize sender name input field
 
-Refactor and enhance card3d with performance, visual, and UX polish [batch 2 - step 103].
+Refactor and enhance card3d with performance, visual, and UX polish [batch 2 - step 104].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
