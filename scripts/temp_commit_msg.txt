@@ -1,5 +1,5 @@
-audio(party): synchronize bass drops with screen flash bursts
+audio(lofi): add soothing fireplace crackle ambient track
 
-Refactor and enhance party with performance, visual, and UX polish [batch 2 - step 36].
+Refactor and enhance lofi with performance, visual, and UX polish [batch 2 - step 37].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
