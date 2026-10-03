@@ -1,5 +1,5 @@
-gameplay(quiz): add 50/50 lifeline button to remove two wrong answers
+feat(cookie): add lucky numbers generator on fortune slip
 
-Refactor and enhance quiz with performance, visual, and UX polish [step 96].
+Refactor and enhance cookie with performance, visual, and UX polish [step 97].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
