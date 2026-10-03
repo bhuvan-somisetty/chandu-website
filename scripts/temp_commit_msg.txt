@@ -1,5 +1,5 @@
-style(sequencer): highlight active playback column with neon tracer
+audio(soundpad): add pitch shift toggle (+/- 2 semitones)
 
-Refactor and enhance sequencer with performance, visual, and UX polish [batch 2 - step 116].
+Refactor and enhance soundpad with performance, visual, and UX polish [batch 2 - step 117].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
