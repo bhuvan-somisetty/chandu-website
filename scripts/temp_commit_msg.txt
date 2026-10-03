@@ -1,5 +1,5 @@
-audio(harp): add reverb space acoustic simulation
+style(harp): add chromatic rainbow glow along plucked strings
 
-Refactor and enhance harp with performance, visual, and UX polish [batch 2 - step 99].
+Refactor and enhance harp with performance, visual, and UX polish [batch 2 - step 100].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
