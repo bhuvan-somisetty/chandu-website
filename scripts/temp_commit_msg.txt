@@ -1,5 +1,5 @@
-gameplay(whack): add golden cake jackpot bonus (+100 pts)
+style(memory): add 3D card flip rotation on card click
 
-Refactor and enhance whack with performance, visual, and UX polish [step 92].
+Refactor and enhance memory with performance, visual, and UX polish [step 93].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
