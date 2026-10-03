@@ -1,5 +1,5 @@
-style(quest): add shimmering border around unlocked treasure chests
+audio(harp): fine-tune harmonic overtone balance
 
-Refactor and enhance quest with performance, visual, and UX polish [step 65].
+Refactor and enhance harp with performance, visual, and UX polish [step 66].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
