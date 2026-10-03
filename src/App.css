@@ -292,3 +292,5 @@
 /* [Step 54] perf(cursor): debounced pointer coordinates tracking */
 
 /* [Step 55] style(partymode): synchronize strobe pulses with audio beat tempo */
+
+/* [Step 56] perf(sparkler): pool particle objects to reduce garbage collection */

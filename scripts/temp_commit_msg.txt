@@ -1,5 +1,5 @@
-style(partymode): synchronize strobe pulses with audio beat tempo
+perf(sparkler): pool particle objects to reduce garbage collection
 
-Refactor and enhance partymode with performance, visual, and UX polish [step 55].
+Refactor and enhance sparkler with performance, visual, and UX polish [step 56].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
