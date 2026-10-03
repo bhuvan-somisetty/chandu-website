@@ -1,5 +1,5 @@
-feat(activities): incorporate Neon Sketch, Drums, Vault, Certificate, and Orbit into ActivitiesPage
+refactor(sketcher): improve brush stroke interpolation on high-DPI screens
 
-Expand creative studio to 32 full-featured celebratory activities.
+Refactor and enhance sketcher with performance, visual, and UX polish [batch 2 - step 1].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
