@@ -1,5 +1,5 @@
-style(zodiac): illuminate celestial constellation backdrop
+gameplay(racer): introduce turbo boost speed strips
 
-Refactor and enhance zodiac with performance, visual, and UX polish [step 39].
+Refactor and enhance racer with performance, visual, and UX polish [step 40].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
