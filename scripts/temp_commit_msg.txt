@@ -1,5 +1,5 @@
-audio(lofi): add soothing fireplace crackle ambient track
+style(lofi): add animated cozy coffee cup steam vector
 
-Refactor and enhance lofi with performance, visual, and UX polish [batch 2 - step 37].
+Refactor and enhance lofi with performance, visual, and UX polish [batch 2 - step 38].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
