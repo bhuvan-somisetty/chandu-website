@@ -1,5 +1,5 @@
-gameplay(breakout): add dynamic ball speed acceleration per brick hit
+style(breakout): add paddle deflection glow reflection
 
-Refactor and enhance breakout with performance, visual, and UX polish [batch 2 - step 5].
+Refactor and enhance breakout with performance, visual, and UX polish [batch 2 - step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
