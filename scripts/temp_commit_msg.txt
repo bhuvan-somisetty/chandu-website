@@ -1,5 +1,5 @@
-style(zodiac): add illuminated star chart wheel rotation
+feat(zodiac): add daily cosmic energy percentage meter
 
-Refactor and enhance zodiac with performance, visual, and UX polish [batch 2 - step 63].
+Refactor and enhance zodiac with performance, visual, and UX polish [batch 2 - step 64].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
