@@ -1,5 +1,5 @@
-feat(synth): add exponential decay to chime release envelope
+refactor(candles): normalize microphone input levels for quiet devices
 
-Refactor and enhance audio with performance, visual, and UX polish [step 11].
+Refactor and enhance candles with performance, visual, and UX polish [step 12].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
