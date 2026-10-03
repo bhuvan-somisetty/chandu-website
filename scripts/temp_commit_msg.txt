@@ -1,5 +1,5 @@
-style(bingo): add triumphant sound jingle upon winning line completion
+feat(compliments): add copy-to-clipboard toast notification
 
-Refactor and enhance bingo with performance, visual, and UX polish [step 27].
+Refactor and enhance compliments with performance, visual, and UX polish [step 28].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
