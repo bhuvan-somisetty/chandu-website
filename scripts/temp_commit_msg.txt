@@ -1,5 +1,5 @@
-a11y(sketcher): provide keyboard controls for brush palette selection
+a11y(breakout): add screen-reader announcement for game score updates
 
-Refactor and enhance a11y with performance, visual, and UX polish [batch 2 - step 17].
+Refactor and enhance a11y with performance, visual, and UX polish [batch 2 - step 18].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
