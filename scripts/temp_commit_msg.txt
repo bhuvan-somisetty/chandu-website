@@ -1,5 +1,5 @@
-feat(piano): add recording and playback loop capability
+chore(config): optimize Vite chunking strategy for modular bundle sizes
 
-Refactor and enhance piano with performance, visual, and UX polish [step 99].
+Refactor and enhance build with performance, visual, and UX polish [step 100].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
