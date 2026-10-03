@@ -1,5 +1,5 @@
-feat(fireworks): add multi-tiered peony fireworks explosion preset
+style(hero): modernize gradient text reflection on main headline
 
-Refactor and enhance fireworks with performance, visual, and UX polish [step 16].
+Refactor and enhance hero with performance, visual, and UX polish [step 17].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
