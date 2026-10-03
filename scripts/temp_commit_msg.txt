@@ -1,5 +1,5 @@
-feat(photobooth): add rainbow frame border snapshot style
+feat(fireworks): add heart-shaped fireworks explosion trajectory
 
-Refactor and enhance photobooth with performance, visual, and UX polish [batch 2 - step 40].
+Refactor and enhance fireworks with performance, visual, and UX polish [batch 2 - step 41].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
