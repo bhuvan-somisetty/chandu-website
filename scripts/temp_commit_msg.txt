@@ -1,5 +1,5 @@
-style(leaderboard): add gold, silver, and bronze badge medallions
+feat(synth): add exponential decay to chime release envelope
 
-Refactor and enhance leaderboard with performance, visual, and UX polish [step 10].
+Refactor and enhance audio with performance, visual, and UX polish [step 11].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
