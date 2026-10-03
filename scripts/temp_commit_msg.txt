@@ -1,5 +1,5 @@
-feat(pixelart): add custom color hex code input
+style(pixelart): add pixel grid toggle switch
 
-Refactor and enhance pixelart with performance, visual, and UX polish [batch 2 - step 109].
+Refactor and enhance pixelart with performance, visual, and UX polish [batch 2 - step 110].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
