@@ -1,5 +1,5 @@
-feat(fireworks): add heart-shaped fireworks explosion trajectory
+style(fireworks): add glowing smoke trails behind rising rockets
 
-Refactor and enhance fireworks with performance, visual, and UX polish [batch 2 - step 41].
+Refactor and enhance fireworks with performance, visual, and UX polish [batch 2 - step 42].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
