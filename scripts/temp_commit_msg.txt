@@ -1,5 +1,5 @@
-ui(home): add quick access birthday activity jump carousel
+style(gallery): add lightbox zoom modal on card click
 
-Refactor and enhance home with performance, visual, and UX polish [batch 2 - step 122].
+Refactor and enhance gallery with performance, visual, and UX polish [batch 2 - step 123].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
