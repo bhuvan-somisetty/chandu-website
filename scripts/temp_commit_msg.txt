@@ -1,5 +1,5 @@
-audio(dj): add high-pass filter cutoff control slider
+feat(baker): add rainbow frosting and confetti sprinkle toppings
 
-Refactor and enhance dj with performance, visual, and UX polish [step 47].
+Refactor and enhance baker with performance, visual, and UX polish [step 48].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
