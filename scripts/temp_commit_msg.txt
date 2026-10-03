@@ -1,5 +1,5 @@
-perf(cursor): use requestAnimationFrame for trailing particle sync
+style(hero): calibrate animated birthday crown floating oscillation
 
-Refactor and enhance cursor with performance, visual, and UX polish [batch 2 - step 28].
+Refactor and enhance hero with performance, visual, and UX polish [batch 2 - step 29].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
