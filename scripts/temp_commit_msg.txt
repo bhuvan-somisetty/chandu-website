@@ -1,5 +1,5 @@
-style(breakout): add paddle deflection glow reflection
+audio(drumkit): calibrate stereo panning on hi-hat and cymbal pads
 
-Refactor and enhance breakout with performance, visual, and UX polish [batch 2 - step 6].
+Refactor and enhance drumkit with performance, visual, and UX polish [batch 2 - step 7].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
