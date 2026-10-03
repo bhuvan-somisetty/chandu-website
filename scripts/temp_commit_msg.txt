@@ -1,5 +1,5 @@
-feat(lasers): add multi-colored strobe laser fan preset
+perf(lasers): batch canvas path operations in render loop
 
-Refactor and enhance lasers with performance, visual, and UX polish [batch 2 - step 101].
+Refactor and enhance lasers with performance, visual, and UX polish [batch 2 - step 102].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
