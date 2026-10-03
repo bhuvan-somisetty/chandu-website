@@ -1,5 +1,5 @@
-feat(baker): add custom birthday message icing piped on cake
+gameplay(quiz): add 50/50 lifeline button to remove two wrong answers
 
-Refactor and enhance baker with performance, visual, and UX polish [step 95].
+Refactor and enhance quiz with performance, visual, and UX polish [step 96].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
