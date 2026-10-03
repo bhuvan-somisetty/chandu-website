@@ -1,5 +1,5 @@
-style(space): add warp speed hyperdrive stars streak effect
+style(leaderboard): add animated rank progress indicator
 
-Refactor and enhance space with performance, visual, and UX polish [batch 2 - step 106].
+Refactor and enhance leaderboard with performance, visual, and UX polish [batch 2 - step 107].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
