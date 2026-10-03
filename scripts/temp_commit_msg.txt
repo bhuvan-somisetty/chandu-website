@@ -1,5 +1,5 @@
-style(starfield): add distant colorful spiral galaxy backdrop
+style(prophecy): add mystical purple mist inside crystal ball
 
-Refactor and enhance starfield with performance, visual, and UX polish [batch 2 - step 112].
+Refactor and enhance prophecy with performance, visual, and UX polish [batch 2 - step 113].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
