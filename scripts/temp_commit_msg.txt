@@ -1,5 +1,5 @@
-perf(orbit): memoize orbital calculation formula outputs
+ui(theme): add deep cosmic obsidian color scheme
 
-Refactor and enhance orbit with performance, visual, and UX polish [batch 2 - step 14].
+Refactor and enhance theme with performance, visual, and UX polish [batch 2 - step 15].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
