@@ -1,5 +1,5 @@
-style(share): add QR code preview for birthday link sharing
+style(home): add countdown pulse effect on zero seconds reach
 
-Refactor and enhance share with performance, visual, and UX polish [batch 2 - step 120].
+Refactor and enhance home with performance, visual, and UX polish [batch 2 - step 121].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
