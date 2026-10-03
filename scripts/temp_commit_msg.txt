@@ -1,5 +1,5 @@
-style(polaroids): add wooden clothesline and peg aesthetic
+feat(polaroids): add double-tap to zoom polaroid snapshot
 
-Refactor and enhance polaroids with performance, visual, and UX polish [batch 2 - step 59].
+Refactor and enhance polaroids with performance, visual, and UX polish [batch 2 - step 60].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
