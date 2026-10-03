@@ -1,5 +1,5 @@
-feat(candles): build interactive Microphone Candle Blower component
+feat(games): implement Treasure Chest Quest island exploration mini-game
 
-Implement Web Audio API microphone stream analyzer with volume threshold detection and candle flame physics.
+Add 3x3 interactive adventure grid with riddles, keys, animated score multipliers, and treasure vaults.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
