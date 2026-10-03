@@ -1,5 +1,5 @@
-ui(navbar): add pulsing live badge counter indicator
+feat(achievements): register candle_master, treasure_hunter, harp_virtuoso, space_pilot badges
 
-Refactor and enhance navbar with performance, visual, and UX polish [step 19].
+Refactor and enhance achievements with performance, visual, and UX polish [step 20].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
