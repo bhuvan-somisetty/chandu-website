@@ -1,5 +1,5 @@
-style(navbar): enhance floating glass pill shadow elevation
+ui(navbar): add subtle indicator dot for active page category
 
-Refactor and enhance navbar with performance, visual, and UX polish [batch 2 - step 21].
+Refactor and enhance navbar with performance, visual, and UX polish [batch 2 - step 22].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
