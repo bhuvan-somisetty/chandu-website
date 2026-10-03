@@ -1,5 +1,5 @@
-feat(speech): support browser speech synthesis pitch selection
+style(constellation): glow connecting lines on star hover
 
-Refactor and enhance speech with performance, visual, and UX polish [step 35].
+Refactor and enhance constellation with performance, visual, and UX polish [step 36].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
