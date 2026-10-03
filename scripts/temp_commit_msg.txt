@@ -1,5 +1,5 @@
-feat(baker): add 3D rotating cake stand preview mode
+style(baker): add realistic chocolate glaze dripping animation
 
-Refactor and enhance cake with performance, visual, and UX polish [batch 2 - step 85].
+Refactor and enhance cake with performance, visual, and UX polish [batch 2 - step 86].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
