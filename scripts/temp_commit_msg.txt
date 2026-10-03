@@ -1,5 +1,5 @@
-feat(music): build crystal Chime Harp with animated multi-harmonic arpeggiator
+feat(card): build 3D animated PopUpCard keepsakes with wax seal toggles
 
-Implement 10-string responsive crystal chime harp with customizable tempo arpeggiator engine.
+Implement interactive 3D CSS perspective fold-out greeting card with particle triggers.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
