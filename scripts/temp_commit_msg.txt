@@ -1,5 +1,5 @@
-feat(lasers): add strobe speed slider to laser controls
+style(card3d): add decorative golden foil inner border
 
-Refactor and enhance lasers with performance, visual, and UX polish [step 67].
+Refactor and enhance card3d with performance, visual, and UX polish [step 68].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
