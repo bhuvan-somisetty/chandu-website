@@ -1,5 +1,5 @@
-feat(sequencer): add clear all steps reset button
+feat(soundpad): add keyboard hotkeys (1-9) trigger mapping
 
-Refactor and enhance sequencer with performance, visual, and UX polish [step 76].
+Refactor and enhance soundpad with performance, visual, and UX polish [step 77].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
