@@ -1,5 +1,5 @@
-style(gallery): enhance photo frame hover depth perspective
+style(message): add romantic ambient gradient glow on letter card
 
-Refactor and enhance gallery with performance, visual, and UX polish [step 58].
+Refactor and enhance message with performance, visual, and UX polish [step 59].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
