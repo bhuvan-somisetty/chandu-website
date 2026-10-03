@@ -1,5 +1,5 @@
-style(dock): smoothen dock icon hover magnification curve
+perf(dock): passive event listeners for dock touch events
 
-Refactor and enhance dock with performance, visual, and UX polish [batch 2 - step 23].
+Refactor and enhance dock with performance, visual, and UX polish [batch 2 - step 24].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
