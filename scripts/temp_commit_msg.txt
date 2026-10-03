@@ -1,5 +1,5 @@
-style(message): add romantic ambient gradient glow on letter card
+ui(theme): add emerald aurora theme color scheme
 
-Refactor and enhance message with performance, visual, and UX polish [step 59].
+Refactor and enhance theme with performance, visual, and UX polish [step 60].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
