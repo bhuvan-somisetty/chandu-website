@@ -1,5 +1,5 @@
-feat(quest): trigger particle burst upon master vault discovery
+perf(balloons): throttle floating balloon animation updates
 
-Refactor and enhance quest with performance, visual, and UX polish [step 13].
+Refactor and enhance balloons with performance, visual, and UX polish [step 14].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

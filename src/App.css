@@ -208,3 +208,5 @@
 /* [Step 12] refactor(candles): normalize microphone input levels for quiet devices */
 
 /* [Step 13] feat(quest): trigger particle burst upon master vault discovery */
+
+/* [Step 14] perf(balloons): throttle floating balloon animation updates */
