@@ -1,5 +1,5 @@
-style(dj): add glowing VU meters bouncing to master audio
+feat(baker): add 3D rotating cake stand preview mode
 
-Refactor and enhance dj with performance, visual, and UX polish [batch 2 - step 84].
+Refactor and enhance cake with performance, visual, and UX polish [batch 2 - step 85].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
