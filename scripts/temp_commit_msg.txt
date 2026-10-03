@@ -1,5 +1,5 @@
-style(footer): center aligned social tribute badges
+style(footer): add heartbeat pulse animation on footer heart icon
 
-Refactor and enhance footer with performance, visual, and UX polish [batch 2 - step 31].
+Refactor and enhance footer with performance, visual, and UX polish [batch 2 - step 32].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
