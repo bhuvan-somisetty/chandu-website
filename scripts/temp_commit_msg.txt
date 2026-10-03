@@ -1,5 +1,5 @@
-perf(dock): passive event listeners for dock touch events
+perf(balloons): restrict offscreen balloon physics calculations
 
-Refactor and enhance dock with performance, visual, and UX polish [batch 2 - step 24].
+Refactor and enhance balloons with performance, visual, and UX polish [batch 2 - step 25].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
