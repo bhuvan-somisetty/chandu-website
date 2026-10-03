@@ -1,5 +1,5 @@
-ui(theme): add emerald aurora theme color scheme
+ui(theme): add golden sunset theme color scheme
 
-Refactor and enhance theme with performance, visual, and UX polish [step 60].
+Refactor and enhance theme with performance, visual, and UX polish [step 61].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
