@@ -1,5 +1,5 @@
-feat(leaderboard): build CelebrationLeaderboard Hall of Fame records showcase
+feat(games): integrate Treasure Quest and Space Rocket Odyssey into GamesPage
 
-Add stylish party leaderboard showcasing top arcade achievements and rankings.
+Add new games to tab bar with instant audio feedback and updated counter.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
