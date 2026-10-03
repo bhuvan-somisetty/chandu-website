@@ -1,5 +1,5 @@
-perf(synth): reuse single GainNode for rapid sound effect bursts
+audio(synth): smooth volume attack envelope to eliminate clicks
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 19].
+Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 20].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
