@@ -1,5 +1,5 @@
-feat(achievements): register candle_master, treasure_hunter, harp_virtuoso, space_pilot badges
+refactor(achievements): persist newly unlocked badge milestones to localStorage
 
-Refactor and enhance achievements with performance, visual, and UX polish [step 20].
+Refactor and enhance context with performance, visual, and UX polish [step 21].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
