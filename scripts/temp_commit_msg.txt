@@ -1,5 +1,5 @@
-feat(soundpad): add keyboard hotkeys (1-9) trigger mapping
+feat(wishjar): add floating wish message counter badge
 
-Refactor and enhance soundpad with performance, visual, and UX polish [step 77].
+Refactor and enhance wishjar with performance, visual, and UX polish [step 78].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
