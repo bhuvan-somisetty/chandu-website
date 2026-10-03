@@ -206,3 +206,5 @@
 /* [Step 11] feat(synth): add exponential decay to chime release envelope */
 
 /* [Step 12] refactor(candles): normalize microphone input levels for quiet devices */
+
+/* [Step 13] feat(quest): trigger particle burst upon master vault discovery */

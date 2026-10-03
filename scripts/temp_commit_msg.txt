@@ -1,5 +1,5 @@
-refactor(candles): normalize microphone input levels for quiet devices
+feat(quest): trigger particle burst upon master vault discovery
 
-Refactor and enhance candles with performance, visual, and UX polish [step 12].
+Refactor and enhance quest with performance, visual, and UX polish [step 13].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
