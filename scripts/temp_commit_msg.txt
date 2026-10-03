@@ -1,5 +1,5 @@
-feat(photobooth): add birthday tiara sticker overlay
+feat(photobooth): add rainbow frame border snapshot style
 
-Refactor and enhance photobooth with performance, visual, and UX polish [batch 2 - step 39].
+Refactor and enhance photobooth with performance, visual, and UX polish [batch 2 - step 40].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
