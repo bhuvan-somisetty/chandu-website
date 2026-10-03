@@ -1,5 +1,5 @@
-style(hero): calibrate animated birthday crown floating oscillation
+style(hero): enhance shimmering text drop shadow
 
-Refactor and enhance hero with performance, visual, and UX polish [batch 2 - step 29].
+Refactor and enhance hero with performance, visual, and UX polish [batch 2 - step 30].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
