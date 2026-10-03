@@ -1,5 +1,5 @@
-feat(starcatcher): add rare golden comet spawning chance (+50 pts)
+style(starcatcher): add twinkling star background dust
 
-Refactor and enhance starcatcher with performance, visual, and UX polish [batch 2 - step 9].
+Refactor and enhance starcatcher with performance, visual, and UX polish [batch 2 - step 10].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
