@@ -186,3 +186,5 @@
 /* [Step 1] refactor(theme): enhance contrast levels on neon theme palette */
 
 /* [Step 2] accessibility(candles): add ARIA live announcement for extinguished candles */
+
+/* [Step 3] perf(audio): cache AudioContext instance between user interactions */

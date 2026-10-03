@@ -1,5 +1,5 @@
-accessibility(candles): add ARIA live announcement for extinguished candles
+perf(audio): cache AudioContext instance between user interactions
 
-Refactor and enhance a11y with performance, visual, and UX polish [step 2].
+Refactor and enhance perf with performance, visual, and UX polish [step 3].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
