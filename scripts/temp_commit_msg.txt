@@ -1,5 +1,5 @@
-feat(wishcloud): add rain of confetti drop from clouds
+ui(speech): add animated audio visualizer waves during speech synthesis
 
-Refactor and enhance wishcloud with performance, visual, and UX polish [batch 2 - step 54].
+Refactor and enhance speech with performance, visual, and UX polish [batch 2 - step 55].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
