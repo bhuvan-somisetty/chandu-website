@@ -1,5 +1,5 @@
-perf(candles): optimize audio analyzer loop CPU efficiency
+style(candles): add realistic wick glow after flame blowout
 
-Refactor and enhance candles with performance, visual, and UX polish [batch 2 - step 95].
+Refactor and enhance candles with performance, visual, and UX polish [batch 2 - step 96].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
