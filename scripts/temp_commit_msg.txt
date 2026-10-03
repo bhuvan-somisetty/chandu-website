@@ -1,5 +1,5 @@
-style(gallery): add lightbox zoom modal on card click
+perf(gallery): optimize lazy-loaded placeholder images
 
-Refactor and enhance gallery with performance, visual, and UX polish [batch 2 - step 123].
+Refactor and enhance gallery with performance, visual, and UX polish [batch 2 - step 124].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
