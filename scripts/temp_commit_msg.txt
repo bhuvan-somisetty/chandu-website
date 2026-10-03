@@ -1,5 +1,5 @@
-gameplay(space): add shield bubble powerup item
+style(space): add warp speed hyperdrive stars streak effect
 
-Refactor and enhance space with performance, visual, and UX polish [batch 2 - step 105].
+Refactor and enhance space with performance, visual, and UX polish [batch 2 - step 106].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
