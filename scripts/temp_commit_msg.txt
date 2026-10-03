@@ -1,5 +1,5 @@
-feat(quiz): add timer countdown progress bar per question
+style(quiz): add celebratory crown medal on 100% quiz score
 
-Refactor and enhance quiz with performance, visual, and UX polish [batch 2 - step 87].
+Refactor and enhance quiz with performance, visual, and UX polish [batch 2 - step 88].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
