@@ -1,5 +1,5 @@
-feat(games): create BirthdayBreakout 2D arcade brick smashing minigame
+feat(audio): build InteractiveDrumKit percussion pad machine with hotkeys
 
-Build retro brick breakout game with paddle deflection angles, present tiles, and live particle effects.
+Add 8-piece visual drum set with bass kick, snare, toms, cymbals, airhorn, and keyboard trigger mapping.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
