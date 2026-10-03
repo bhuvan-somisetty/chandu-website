@@ -1,5 +1,5 @@
-audio(synth): prevent clipping with master compressor node
+style(candles): add flickering flame animation keyframes
 
-Refactor and enhance audio with performance, visual, and UX polish [step 63].
+Refactor and enhance candles with performance, visual, and UX polish [step 64].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
