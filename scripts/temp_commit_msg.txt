@@ -1,5 +1,5 @@
-feat(photobooth): add party hat sticker overlay
+feat(photobooth): add sunglasses sticker overlay
 
-Refactor and enhance photobooth with performance, visual, and UX polish [step 71].
+Refactor and enhance photobooth with performance, visual, and UX polish [step 72].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
