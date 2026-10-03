@@ -1,5 +1,5 @@
-style(fireworks): add gravity drag coefficient to sparks
+feat(pixelart): add bucket fill tool to pixel grid
 
-Refactor and enhance fireworks with performance, visual, and UX polish [step 73].
+Refactor and enhance pixelart with performance, visual, and UX polish [step 74].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
