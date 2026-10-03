@@ -1,5 +1,5 @@
-audio(synth): calibrate master limiter threshold (-1 dBFS)
+chore(build): calibrate asset inlining limits in Vite config
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 132].
+Refactor and enhance build with performance, visual, and UX polish [batch 2 - step 133].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
