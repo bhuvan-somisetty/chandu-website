@@ -1,5 +1,5 @@
-ui(leaderboard): add celebratory trophy icon watermark
+feat(photobooth): add party hat sticker overlay
 
-Refactor and enhance leaderboard with performance, visual, and UX polish [step 70].
+Refactor and enhance photobooth with performance, visual, and UX polish [step 71].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
