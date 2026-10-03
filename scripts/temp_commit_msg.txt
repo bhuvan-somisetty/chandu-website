@@ -1,5 +1,5 @@
-feat(piano): add Happy Birthday auto-play demo song
+perf(candles): optimize audio analyzer loop CPU efficiency
 
-Refactor and enhance piano with performance, visual, and UX polish [batch 2 - step 94].
+Refactor and enhance candles with performance, visual, and UX polish [batch 2 - step 95].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
