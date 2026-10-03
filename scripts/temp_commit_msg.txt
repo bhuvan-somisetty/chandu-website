@@ -1,5 +1,5 @@
-feat(games): implement Treasure Chest Quest island exploration mini-game
+feat(music): build crystal Chime Harp with animated multi-harmonic arpeggiator
 
-Add 3x3 interactive adventure grid with riddles, keys, animated score multipliers, and treasure vaults.
+Implement 10-string responsive crystal chime harp with customizable tempo arpeggiator engine.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
