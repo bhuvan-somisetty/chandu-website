@@ -1,5 +1,5 @@
-style(wheel): add flashing LED bulbs around outer wheel rim
+gameplay(wheel): add jackpot slice with instant 1000 pts
 
-Refactor and enhance wheel with performance, visual, and UX polish [batch 2 - step 73].
+Refactor and enhance wheel with performance, visual, and UX polish [batch 2 - step 74].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
