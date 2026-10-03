@@ -1,5 +1,5 @@
-style(hero): modernize gradient text reflection on main headline
+style(footer): enhance glassmorphic footer card border gradient
 
-Refactor and enhance hero with performance, visual, and UX polish [step 17].
+Refactor and enhance footer with performance, visual, and UX polish [step 18].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
