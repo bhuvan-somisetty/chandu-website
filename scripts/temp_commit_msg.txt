@@ -1,5 +1,5 @@
-gameplay(memory): add 4x4 and 6x6 difficulty mode toggle
+audio(dj): add resonant low-pass filter frequency sweep
 
-Refactor and enhance memory with performance, visual, and UX polish [batch 2 - step 82].
+Refactor and enhance dj with performance, visual, and UX polish [batch 2 - step 83].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
