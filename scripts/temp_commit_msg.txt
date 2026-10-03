@@ -1,5 +1,5 @@
-style(wishjar): add floating glowing paper origami cranes
+feat(wishjar): add search filter for saved wish notes
 
-Refactor and enhance wishjar with performance, visual, and UX polish [batch 2 - step 51].
+Refactor and enhance wishjar with performance, visual, and UX polish [batch 2 - step 52].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
