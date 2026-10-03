@@ -1,5 +1,5 @@
-feat(cookie): add lucky numbers generator on fortune slip
+feat(giftbox): add surprise confetti bomb inside mystery boxes
 
-Refactor and enhance cookie with performance, visual, and UX polish [step 97].
+Refactor and enhance giftbox with performance, visual, and UX polish [step 98].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
