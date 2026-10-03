@@ -1,5 +1,5 @@
-feat(dj): add scratch sound effect on turntable drag
+feat(baker): add custom birthday message icing piped on cake
 
-Refactor and enhance dj with performance, visual, and UX polish [step 94].
+Refactor and enhance baker with performance, visual, and UX polish [step 95].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
