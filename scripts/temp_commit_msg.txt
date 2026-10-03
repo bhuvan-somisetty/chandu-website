@@ -1,5 +1,5 @@
-style(holocard): add iridescent rainbow foil reflection layer
+ui(holocard): add toggle for holographic glitter density
 
-Refactor and enhance holocard with performance, visual, and UX polish [batch 2 - step 47].
+Refactor and enhance holocard with performance, visual, and UX polish [batch 2 - step 48].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
