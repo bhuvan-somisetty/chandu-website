@@ -1,5 +1,5 @@
-style(cookie): add realistic cookie fracture split animation
+style(giftbox): add unboxing ribbon untying physics
 
-Refactor and enhance cookie with performance, visual, and UX polish [step 50].
+Refactor and enhance giftbox with performance, visual, and UX polish [step 51].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
