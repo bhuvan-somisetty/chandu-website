@@ -1,5 +1,5 @@
-audio(lofi): add subtle vinyl record crackle layer
+feat(speech): support browser speech synthesis pitch selection
 
-Refactor and enhance lofi with performance, visual, and UX polish [step 34].
+Refactor and enhance speech with performance, visual, and UX polish [step 35].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
