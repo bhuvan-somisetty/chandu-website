@@ -1,5 +1,5 @@
-style(cursor): add colorful sparkle trail option behind cursor
+perf(cursor): use requestAnimationFrame for trailing particle sync
 
-Refactor and enhance cursor with performance, visual, and UX polish [batch 2 - step 27].
+Refactor and enhance cursor with performance, visual, and UX polish [batch 2 - step 28].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

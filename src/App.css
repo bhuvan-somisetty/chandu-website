@@ -436,3 +436,5 @@
 /* [Batch2 Step 26] style(balloons): add soft light reflection on balloon latex skin */
 
 /* [Batch2 Step 27] style(cursor): add colorful sparkle trail option behind cursor */
+
+/* [Batch2 Step 28] perf(cursor): use requestAnimationFrame for trailing particle sync */
