@@ -1,5 +1,5 @@
-gameplay(wheel): add jackpot slice with instant 1000 pts
+gameplay(catcher): add falling strawberry powerup (+30 pts)
 
-Refactor and enhance wheel with performance, visual, and UX polish [batch 2 - step 74].
+Refactor and enhance catcher with performance, visual, and UX polish [batch 2 - step 75].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
