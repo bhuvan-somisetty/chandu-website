@@ -1,5 +1,5 @@
-gameplay(popper): add combo score multiplier for rapid pops
+gameplay(whack): add golden cake jackpot bonus (+100 pts)
 
-Refactor and enhance popper with performance, visual, and UX polish [step 91].
+Refactor and enhance whack with performance, visual, and UX polish [step 92].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
