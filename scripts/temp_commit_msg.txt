@@ -1,5 +1,5 @@
-style(sparkler): increase ember glow dispersion radius
+style(timemachine): add retro neon CRT scanline effect
 
-Refactor and enhance sparkler with performance, visual, and UX polish [batch 2 - step 44].
+Refactor and enhance time-machine with performance, visual, and UX polish [batch 2 - step 45].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
