@@ -1,5 +1,5 @@
-feat(prophecy): add randomized lucky gemstone of the day
+feat(sequencer): add 8-bar loop length toggle option
 
-Refactor and enhance prophecy with performance, visual, and UX polish [batch 2 - step 114].
+Refactor and enhance sequencer with performance, visual, and UX polish [batch 2 - step 115].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
