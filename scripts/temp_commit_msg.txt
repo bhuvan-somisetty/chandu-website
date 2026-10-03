@@ -1,5 +1,5 @@
-feat(certificate): add customizable wax seal emblem selection
+ui(orbit): add Saturn ring tilt rendering
 
-Refactor and enhance certificate with performance, visual, and UX polish [batch 2 - step 12].
+Refactor and enhance orbit with performance, visual, and UX polish [batch 2 - step 13].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
