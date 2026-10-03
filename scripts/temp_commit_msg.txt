@@ -1,5 +1,5 @@
-style(party): add laser beam overlay in disco party mode
+audio(party): synchronize bass drops with screen flash bursts
 
-Refactor and enhance party with performance, visual, and UX polish [batch 2 - step 35].
+Refactor and enhance party with performance, visual, and UX polish [batch 2 - step 36].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
