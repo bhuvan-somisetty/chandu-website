@@ -1,5 +1,5 @@
-feat(giftbox): add surprise confetti bomb inside mystery boxes
+feat(piano): add recording and playback loop capability
 
-Refactor and enhance giftbox with performance, visual, and UX polish [step 98].
+Refactor and enhance piano with performance, visual, and UX polish [step 99].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
