@@ -1,5 +1,5 @@
-style(home): add countdown pulse effect on zero seconds reach
+ui(home): add quick access birthday activity jump carousel
 
-Refactor and enhance home with performance, visual, and UX polish [batch 2 - step 121].
+Refactor and enhance home with performance, visual, and UX polish [batch 2 - step 122].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
