@@ -1,5 +1,5 @@
-style(soundpad): add luminous active pad feedback on keydown
+feat(sequencer): add swing rhythm multiplier toggle
 
-Refactor and enhance soundpad with performance, visual, and UX polish [step 22].
+Refactor and enhance sequencer with performance, visual, and UX polish [step 23].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
