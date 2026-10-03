@@ -1,0 +1,5 @@
+feat(audio): extend Web Audio API synthesizer with candle blow, laser, and treasure audio
+
+Add procedural noise and multi-oscillator synthesizers for candles, lasers, and treasure vaults.
+
+Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

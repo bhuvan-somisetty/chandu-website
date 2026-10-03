@@ -21,12 +21,22 @@ import CardCreator from '../components/activities/CardCreator';
 import ZodiacStarlight from '../components/ZodiacStarlight';
 import FriendshipBingo from '../components/activities/FriendshipBingo';
 import ComplimentGenerator from '../components/activities/ComplimentGenerator';
+import MicrophoneCandleBlower from '../components/MicrophoneCandleBlower';
+import ChimeHarp from '../components/ChimeHarp';
+import PopUpCard3D from '../components/PopUpCard3D';
+import LaserLightShow from '../components/LaserLightShow';
+import CelebrationLeaderboard from '../components/CelebrationLeaderboard';
 import { playPop } from '../utils/audioSynth';
 
 export default function ActivitiesPage() {
-  const [activeTab, setActiveTab] = useState('photobooth');
+  const [activeTab, setActiveTab] = useState('candle');
 
   const tabs = [
+    { id: 'candle', label: 'Blow Candles 🎂', comp: MicrophoneCandleBlower },
+    { id: 'harp', label: 'Chime Harp 🎵', comp: ChimeHarp },
+    { id: 'popupcard', label: '3D Pop-Up Card 💌', comp: PopUpCard3D },
+    { id: 'lasers', label: 'Laser Show 🎆', comp: LaserLightShow },
+    { id: 'halloffame', label: 'Hall of Fame 🏆', comp: CelebrationLeaderboard },
     { id: 'pixelart', label: 'Pixel Art 🎨', comp: PixelArtStudio },
     { id: 'starfield', label: 'Cosmic Stars 🌌', comp: CosmicStarfield },
     { id: 'crystal', label: 'Crystal Ball 🔮', comp: CrystalBallProphecy },
@@ -51,13 +61,13 @@ export default function ActivitiesPage() {
     { id: 'compliment', label: 'Vibes 💖', comp: ComplimentGenerator }
   ];
 
-  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || PhotoboothCamera;
+  const CurrentComp = tabs.find(t => t.id === activeTab)?.comp || MicrophoneCandleBlower;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Creative Studio & Activities ✨</h1>
-        <p className="text-sm text-white/70">Explore 22 interactive celebration activities, studios, and memory tools!</p>
+        <p className="text-sm text-white/70">Explore 27 interactive celebration activities, studios, and memory tools!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
