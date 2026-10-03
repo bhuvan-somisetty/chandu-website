@@ -1,5 +1,5 @@
-feat(sequencer): add swing rhythm multiplier toggle
+feat(pixelart): add preset palette swatches for pastel and neon hues
 
-Refactor and enhance sequencer with performance, visual, and UX polish [step 23].
+Refactor and enhance pixelart with performance, visual, and UX polish [step 24].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
