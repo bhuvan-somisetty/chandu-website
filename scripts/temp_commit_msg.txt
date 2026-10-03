@@ -1,5 +1,5 @@
-style(home): add interactive preview cards for featured activities
+style(gallery): enhance photo frame hover depth perspective
 
-Refactor and enhance home with performance, visual, and UX polish [step 57].
+Refactor and enhance gallery with performance, visual, and UX polish [step 58].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
