@@ -1,5 +1,5 @@
-style(sketcher): add rainbow hue cycle animation on gradient mode
+ui(vault): add golden lock icon toggle on memory unsealing
 
-Refactor and enhance sketcher with performance, visual, and UX polish [batch 2 - step 2].
+Refactor and enhance vault with performance, visual, and UX polish [batch 2 - step 3].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
