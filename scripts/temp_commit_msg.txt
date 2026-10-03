@@ -1,5 +1,5 @@
-feat(constellation): add celestial myth tooltip cards
+style(polaroids): add wooden clothesline and peg aesthetic
 
-Refactor and enhance constellation with performance, visual, and UX polish [batch 2 - step 58].
+Refactor and enhance polaroids with performance, visual, and UX polish [batch 2 - step 59].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
