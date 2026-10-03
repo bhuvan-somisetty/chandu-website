@@ -1,5 +1,5 @@
-style(footer): add heartbeat pulse animation on footer heart icon
+feat(achievements): add breakout_master and star_collector badges
 
-Refactor and enhance footer with performance, visual, and UX polish [batch 2 - step 32].
+Refactor and enhance achievements with performance, visual, and UX polish [batch 2 - step 33].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
