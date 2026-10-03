@@ -1,5 +1,5 @@
-ui(vault): add golden lock icon toggle on memory unsealing
+feat(vault): add auto-sorting of memory capsules by target year
 
-Refactor and enhance vault with performance, visual, and UX polish [batch 2 - step 3].
+Refactor and enhance vault with performance, visual, and UX polish [batch 2 - step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
