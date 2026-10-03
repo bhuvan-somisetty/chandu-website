@@ -1,5 +1,5 @@
-gameplay(racer): add rainbow speed boost runway ramps
+style(racer): add motion blur lines during top speed
 
-Refactor and enhance racer with performance, visual, and UX polish [batch 2 - step 69].
+Refactor and enhance racer with performance, visual, and UX polish [batch 2 - step 70].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
