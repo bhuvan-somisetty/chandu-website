@@ -1,5 +1,5 @@
-feat(audio): build InteractiveDrumKit percussion pad machine with hotkeys
+feat(games): build StarWishCatcher shooting star collection game
 
-Add 8-piece visual drum set with bass kick, snare, toms, cymbals, airhorn, and keyboard trigger mapping.
+Implement interactive night sky canvas where tapping shooting stars unseals cosmic birthday wishes.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
