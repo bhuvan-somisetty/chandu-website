@@ -1,5 +1,5 @@
-feat(quiz): add explanation cards for correct answer reveals
+style(cookie): add realistic cookie fracture split animation
 
-Refactor and enhance quiz with performance, visual, and UX polish [step 49].
+Refactor and enhance cookie with performance, visual, and UX polish [step 50].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
