@@ -1,5 +1,5 @@
-feat(photobooth): add sunglasses sticker overlay
+style(fireworks): add gravity drag coefficient to sparks
 
-Refactor and enhance photobooth with performance, visual, and UX polish [step 72].
+Refactor and enhance fireworks with performance, visual, and UX polish [step 73].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
