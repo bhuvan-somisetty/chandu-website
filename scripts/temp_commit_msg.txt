@@ -1,5 +1,5 @@
-perf(lasers): batch canvas path operations in render loop
+style(card3d): add realistic paper thickness and edge bevel
 
-Refactor and enhance lasers with performance, visual, and UX polish [batch 2 - step 102].
+Refactor and enhance card3d with performance, visual, and UX polish [batch 2 - step 103].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
