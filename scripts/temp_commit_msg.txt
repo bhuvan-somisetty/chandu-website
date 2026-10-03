@@ -1,5 +1,5 @@
-style(footer): enhance glassmorphic footer card border gradient
+ui(navbar): add pulsing live badge counter indicator
 
-Refactor and enhance footer with performance, visual, and UX polish [step 18].
+Refactor and enhance navbar with performance, visual, and UX polish [step 19].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
