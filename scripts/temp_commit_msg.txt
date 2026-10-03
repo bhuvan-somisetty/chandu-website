@@ -1,5 +1,5 @@
-feat(award): create BirthdayCertificateGenerator official celebration diploma tool
+feat(space): build SolarSystemOrbit cosmic planetary revolution calculator
 
-Build gold-bordered customizable friendship diploma with printable layout and seal.
+Implement orbital calculator showing planetary revolutions on Mercury, Venus, Mars, and Jupiter since birth.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
