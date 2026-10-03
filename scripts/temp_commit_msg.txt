@@ -1,5 +1,5 @@
-audio(harp): fine-tune harmonic overtone balance
+feat(lasers): add strobe speed slider to laser controls
 
-Refactor and enhance harp with performance, visual, and UX polish [step 66].
+Refactor and enhance lasers with performance, visual, and UX polish [step 67].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
