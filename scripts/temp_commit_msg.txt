@@ -1,5 +1,5 @@
-style(quiz): add celebratory crown medal on 100% quiz score
+style(cookie): add golden sparkles radiating from opened cookie
 
-Refactor and enhance quiz with performance, visual, and UX polish [batch 2 - step 88].
+Refactor and enhance cookie with performance, visual, and UX polish [batch 2 - step 89].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
