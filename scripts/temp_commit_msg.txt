@@ -1,5 +1,5 @@
-style(certificate): add vintage parchment border ornament
+feat(certificate): add customizable wax seal emblem selection
 
-Refactor and enhance certificate with performance, visual, and UX polish [batch 2 - step 11].
+Refactor and enhance certificate with performance, visual, and UX polish [batch 2 - step 12].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
