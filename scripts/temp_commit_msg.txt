@@ -1,5 +1,5 @@
-style(drumkit): add shockwave ring animation on pad press
+feat(starcatcher): add rare golden comet spawning chance (+50 pts)
 
-Refactor and enhance drumkit with performance, visual, and UX polish [batch 2 - step 8].
+Refactor and enhance starcatcher with performance, visual, and UX polish [batch 2 - step 9].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
