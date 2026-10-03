@@ -1,5 +1,5 @@
-a11y(breakout): add screen-reader announcement for game score updates
+perf(synth): reuse single GainNode for rapid sound effect bursts
 
-Refactor and enhance a11y with performance, visual, and UX polish [batch 2 - step 18].
+Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 19].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

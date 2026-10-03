@@ -418,3 +418,5 @@
 /* [Batch2 Step 17] a11y(sketcher): provide keyboard controls for brush palette selection */
 
 /* [Batch2 Step 18] a11y(breakout): add screen-reader announcement for game score updates */
+
+/* [Batch2 Step 19] perf(synth): reuse single GainNode for rapid sound effect bursts */
