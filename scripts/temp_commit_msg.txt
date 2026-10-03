@@ -1,5 +1,5 @@
-audio(synth): add low-frequency drone for atmospheric backdrop
+audio(synth): calibrate master limiter threshold (-1 dBFS)
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 131].
+Refactor and enhance audio with performance, visual, and UX polish [batch 2 - step 132].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
