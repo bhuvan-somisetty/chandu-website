@@ -1,5 +1,5 @@
-refactor(theme): enhance contrast levels on neon theme palette
+accessibility(candles): add ARIA live announcement for extinguished candles
 
-Refactor and enhance theme with performance, visual, and UX polish [step 1].
+Refactor and enhance a11y with performance, visual, and UX polish [step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
