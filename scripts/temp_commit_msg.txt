@@ -1,5 +1,5 @@
-gameplay(racer): introduce turbo boost speed strips
+feat(slider): add hint toggle for next optimal tile slide
 
-Refactor and enhance racer with performance, visual, and UX polish [step 40].
+Refactor and enhance slider with performance, visual, and UX polish [step 41].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
