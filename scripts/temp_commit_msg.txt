@@ -1,5 +1,5 @@
-style(holocard): calibrate gyroscope tilt responsiveness
+ui(wishjar): add glowing firefly particles inside glass jar
 
-Refactor and enhance holocard with performance, visual, and UX polish [step 30].
+Refactor and enhance wishjar with performance, visual, and UX polish [step 31].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
