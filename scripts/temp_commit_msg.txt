@@ -1,5 +1,5 @@
-style(fonts): set graceful font fallbacks for serif headers
+style(responsive): calibrate viewport padding on mobile devices
 
-Refactor and enhance typography with performance, visual, and UX polish [batch 2 - step 138].
+Refactor and enhance viewport with performance, visual, and UX polish [batch 2 - step 139].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
