@@ -1,5 +1,5 @@
-style(lofi): add animated cozy coffee cup steam vector
+feat(photobooth): add birthday tiara sticker overlay
 
-Refactor and enhance lofi with performance, visual, and UX polish [batch 2 - step 38].
+Refactor and enhance photobooth with performance, visual, and UX polish [batch 2 - step 39].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
