@@ -1,5 +1,5 @@
-style(theme): enhance sapphire crystal theme gradient saturation
+a11y(focus): add visible focus ring outlines for keyboard navigation
 
-Enhance theme for production deployment.
+Enhance accessibility for production deployment.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
