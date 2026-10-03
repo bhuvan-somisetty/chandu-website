@@ -1,5 +1,5 @@
-style(constellation): add glowing pulsar stars at key coordinates
+feat(constellation): add celestial myth tooltip cards
 
-Refactor and enhance constellation with performance, visual, and UX polish [batch 2 - step 57].
+Refactor and enhance constellation with performance, visual, and UX polish [batch 2 - step 58].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
