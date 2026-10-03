@@ -1,5 +1,5 @@
-audio(drumkit): calibrate stereo panning on hi-hat and cymbal pads
+style(drumkit): add shockwave ring animation on pad press
 
-Refactor and enhance drumkit with performance, visual, and UX polish [batch 2 - step 7].
+Refactor and enhance drumkit with performance, visual, and UX polish [batch 2 - step 8].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
