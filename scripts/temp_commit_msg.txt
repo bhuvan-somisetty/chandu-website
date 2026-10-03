@@ -1,5 +1,5 @@
-feat(games): integrate Treasure Quest and Space Rocket Odyssey into GamesPage
+feat(activities): incorporate Candle Blower, Chime Harp, Pop-Up Card, Lasers, and Hall of Fame
 
-Add new games to tab bar with instant audio feedback and updated counter.
+Expand activities gallery to 27 full-featured interactive celebration components.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
