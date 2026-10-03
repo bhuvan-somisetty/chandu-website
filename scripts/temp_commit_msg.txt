@@ -1,5 +1,5 @@
-style(envelope): add realistic paper unfold sound effect
+style(envelope): add embossed silver leaf letterhead
 
-Refactor and enhance envelope with performance, visual, and UX polish [batch 2 - step 49].
+Refactor and enhance envelope with performance, visual, and UX polish [batch 2 - step 50].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
