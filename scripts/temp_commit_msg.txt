@@ -1,5 +1,5 @@
-perf(sparkler): pool particle objects to reduce garbage collection
+style(home): add interactive preview cards for featured activities
 
-Refactor and enhance sparkler with performance, visual, and UX polish [step 56].
+Refactor and enhance home with performance, visual, and UX polish [step 57].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
