@@ -1,5 +1,5 @@
-style(wheel): add ticker sound tick on each segment pass
+style(catcher): add rainbow trail behind player basket
 
-Refactor and enhance wheel with performance, visual, and UX polish [step 89].
+Refactor and enhance catcher with performance, visual, and UX polish [step 90].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
