@@ -1,5 +1,5 @@
-style(leaderboard): add animated rank progress indicator
+feat(leaderboard): add clear local high scores reset option
 
-Refactor and enhance leaderboard with performance, visual, and UX polish [batch 2 - step 107].
+Refactor and enhance leaderboard with performance, visual, and UX polish [batch 2 - step 108].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
