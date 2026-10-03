@@ -1,5 +1,5 @@
-style(hero): enhance shimmering text drop shadow
+style(footer): center aligned social tribute badges
 
-Refactor and enhance hero with performance, visual, and UX polish [batch 2 - step 30].
+Refactor and enhance footer with performance, visual, and UX polish [batch 2 - step 31].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
