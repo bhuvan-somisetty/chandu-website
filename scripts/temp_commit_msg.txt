@@ -1,5 +1,5 @@
-feat(starfield): add interactive warp speed on spacebar hold
+feat(sequencer): add clear all steps reset button
 
-Refactor and enhance starfield with performance, visual, and UX polish [step 75].
+Refactor and enhance sequencer with performance, visual, and UX polish [step 76].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
