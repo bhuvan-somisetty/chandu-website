@@ -1,5 +1,5 @@
-style(photobooth): add sparkle overlay option to captured snapshots
+feat(fireworks): add multi-tiered peony fireworks explosion preset
 
-Refactor and enhance photobooth with performance, visual, and UX polish [step 15].
+Refactor and enhance fireworks with performance, visual, and UX polish [step 16].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
