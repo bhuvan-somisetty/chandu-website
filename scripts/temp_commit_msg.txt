@@ -1,5 +1,5 @@
-chore(build): calibrate asset inlining limits in Vite config
+chore(build): enable terser compression on production output
 
-Refactor and enhance build with performance, visual, and UX polish [batch 2 - step 133].
+Refactor and enhance build with performance, visual, and UX polish [batch 2 - step 134].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

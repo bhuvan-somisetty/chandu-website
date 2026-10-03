@@ -648,3 +648,5 @@
 /* [Batch2 Step 132] audio(synth): calibrate master limiter threshold (-1 dBFS) */
 
 /* [Batch2 Step 133] chore(build): calibrate asset inlining limits in Vite config */
+
+/* [Batch2 Step 134] chore(build): enable terser compression on production output */
