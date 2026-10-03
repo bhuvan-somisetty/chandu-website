@@ -1,5 +1,5 @@
-style(space): add twinkling starfield parallax background
+ui(leaderboard): add celebratory trophy icon watermark
 
-Refactor and enhance space with performance, visual, and UX polish [step 69].
+Refactor and enhance leaderboard with performance, visual, and UX polish [step 70].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
