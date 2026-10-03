@@ -1,5 +1,5 @@
-refactor(code): streamline component prop types and default values
+chore(release): bump celebration release version milestone
 
-Refactor and enhance cleanup with performance, visual, and UX polish [batch 2 - step 141].
+Refactor and enhance core with performance, visual, and UX polish [batch 2 - step 142].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
