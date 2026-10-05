@@ -1,5 +1,5 @@
-style(wishcloud): introduce smooth floating cloud wind velocity
+feat(wishcloud): add customizable starlight cloud glitter
 
-Refactor and enhance wishcloud with performance, visual, and UX polish [batch 3 - step 53].
+Refactor and enhance wishcloud with performance, visual, and UX polish [batch 3 - step 54].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
