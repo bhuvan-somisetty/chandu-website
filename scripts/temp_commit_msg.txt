@@ -1,5 +1,5 @@
-feat(cardcreator): add instant PNG download via HTML5 canvas export
+style(cardcreator): add decorative party stickers palette
 
-Refactor and enhance cardcreator with performance, visual, and UX polish [batch 3 - step 61].
+Refactor and enhance cardcreator with performance, visual, and UX polish [batch 3 - step 62].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
