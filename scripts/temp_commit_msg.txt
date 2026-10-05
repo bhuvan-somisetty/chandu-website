@@ -1,5 +1,5 @@
-feat(constellation): add zodiac constellation mythology tooltips
+style(polaroids): add randomized tilt angles for organic wall display
 
-Refactor and enhance constellation with performance, visual, and UX polish [batch 3 - step 58].
+Refactor and enhance polaroids with performance, visual, and UX polish [batch 3 - step 59].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
