@@ -1,5 +1,5 @@
-style(navbar): calibrate backdrop blur filter saturation on scroll
+ui(navbar): add glowing badge pill for new games counter
 
-Refactor and enhance navbar with performance, visual, and UX polish [batch 3 - step 21].
+Refactor and enhance navbar with performance, visual, and UX polish [batch 3 - step 22].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
