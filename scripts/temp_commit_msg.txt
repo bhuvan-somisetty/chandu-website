@@ -1,5 +1,5 @@
-perf(candles): optimize audio analyzer loop CPU efficiency
+gameplay(quest): add randomized hidden treasure compass clue
 
-Refactor and enhance candles with performance, visual, and UX polish [batch 3 - step 82].
+Refactor and enhance quest with performance, visual, and UX polish [batch 3 - step 83].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
