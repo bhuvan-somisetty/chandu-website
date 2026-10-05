@@ -1,5 +1,5 @@
-perf(skymap): use pre-rendered star coordinate caches
+audio(synth): calibrate master output compressor threshold
 
-Enhance skymap with performance, visual, and UX polish [extra step 7].
+Enhance audio with performance, visual, and UX polish [extra step 8].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
