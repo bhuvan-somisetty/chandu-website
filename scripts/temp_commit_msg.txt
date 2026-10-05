@@ -1,5 +1,5 @@
-style(cursor): add starlight particle spark on click
+perf(cursor): debounced pointer coordinates tracking on mobile
 
-Refactor and enhance cursor with performance, visual, and UX polish [batch 3 - step 27].
+Refactor and enhance cursor with performance, visual, and UX polish [batch 3 - step 28].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
