@@ -1,5 +1,5 @@
-ui(icons): optimize SVG vector paths for crisp rendering
+style(fonts): set graceful font fallbacks for serif headers
 
-Refactor and enhance icons with performance, visual, and UX polish [batch 3 - step 105].
+Refactor and enhance typography with performance, visual, and UX polish [batch 3 - step 106].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
