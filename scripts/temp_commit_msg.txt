@@ -1,5 +1,5 @@
-feat(achievements): register pinata_breaker and cyber_speeder badges
+style(achievements): add celebratory particle burst on badge unlock
 
-Refactor and enhance achievements with performance, visual, and UX polish [batch 3 - step 33].
+Refactor and enhance achievements with performance, visual, and UX polish [batch 3 - step 34].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
