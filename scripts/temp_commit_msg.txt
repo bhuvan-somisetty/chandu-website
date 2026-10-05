@@ -1,5 +1,5 @@
-style(envelope): refine origami fold shadow gradient angles
+audio(envelope): add crisp parchment unfolding sound sample
 
-Refactor and enhance envelope with performance, visual, and UX polish [batch 3 - step 49].
+Refactor and enhance envelope with performance, visual, and UX polish [batch 3 - step 50].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
