@@ -1,5 +1,5 @@
-style(scroll): add gilded gold leaf border engravings
+ui(scroll): add smooth height transition when unrolling parchment
 
-Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 9].
+Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 10].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
