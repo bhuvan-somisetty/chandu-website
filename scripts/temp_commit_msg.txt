@@ -1,5 +1,5 @@
-feat(wishcloud): add customizable starlight cloud glitter
+feat(speech): support browser speech synthesis pitch selection
 
-Refactor and enhance wishcloud with performance, visual, and UX polish [batch 3 - step 54].
+Refactor and enhance speech with performance, visual, and UX polish [batch 3 - step 55].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
