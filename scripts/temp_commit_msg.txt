@@ -1,5 +1,5 @@
-chore(pwa): configure Web App Manifest for mobile fullscreen
+ui(icons): optimize SVG vector paths for crisp rendering
 
-Refactor and enhance manifest with performance, visual, and UX polish [batch 3 - step 104].
+Refactor and enhance icons with performance, visual, and UX polish [batch 3 - step 105].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
