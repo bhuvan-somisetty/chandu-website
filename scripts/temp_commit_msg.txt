@@ -1,5 +1,5 @@
-feat(skymap): add toggle for constellation connecting lines
+ui(theme): add velvet midnight sapphire color scheme
 
-Refactor and enhance skymap with performance, visual, and UX polish [batch 3 - step 14].
+Refactor and enhance theme with performance, visual, and UX polish [batch 3 - step 15].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
