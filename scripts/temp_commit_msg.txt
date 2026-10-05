@@ -1,5 +1,5 @@
-perf(balloons): throttle floating balloon CSS transforms
+style(balloons): add soft metallic luster gradient to gold balloons
 
-Refactor and enhance balloons with performance, visual, and UX polish [batch 3 - step 25].
+Refactor and enhance balloons with performance, visual, and UX polish [batch 3 - step 26].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
