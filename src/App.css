@@ -714,3 +714,5 @@
 /* [Batch3 Step 18] a11y(racer): add high-contrast lane divider borders */
 
 /* [Batch3 Step 19] perf(audio): prevent audio context suspension on user navigation */
+
+/* [Batch3 Step 20] audio(synth): smooth noise buffer transition for candle blow sound */

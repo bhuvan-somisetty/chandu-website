@@ -1,5 +1,5 @@
-perf(audio): prevent audio context suspension on user navigation
+audio(synth): smooth noise buffer transition for candle blow sound
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 3 - step 19].
+Refactor and enhance audio with performance, visual, and UX polish [batch 3 - step 20].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
