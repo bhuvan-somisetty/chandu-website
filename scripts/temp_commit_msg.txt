@@ -1,5 +1,5 @@
-feat(aura): add downloadable cosmic aura card export
+ui(jukebox): add equalizer visualizer bars on active playback
 
-Refactor and enhance aura with performance, visual, and UX polish [batch 3 - step 118].
+Refactor and enhance jukebox with performance, visual, and UX polish [batch 3 - step 119].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
