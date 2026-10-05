@@ -1,5 +1,5 @@
-style(scroll): add illuminated drop caps on initial parchment letters
+style(emoji): add spring bounce physics on floor collision
 
-Enhance scroll with performance, visual, and UX polish [extra step 5].
+Enhance emoji with performance, visual, and UX polish [extra step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
