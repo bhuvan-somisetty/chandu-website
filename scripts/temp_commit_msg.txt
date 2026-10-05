@@ -1,5 +1,5 @@
-gameplay(pinata): add bonus combo points for rapid swings
+ui(racer): add digital speedometer HUD readout
 
-Refactor and enhance pinata with performance, visual, and UX polish [batch 3 - step 116].
+Refactor and enhance racer with performance, visual, and UX polish [batch 3 - step 117].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
