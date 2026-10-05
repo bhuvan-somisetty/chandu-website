@@ -1,5 +1,5 @@
-gameplay(catcher): add golden cupcake bonus multipliers
+audio(popper): add randomized pitch variation to balloon pops
 
-Refactor and enhance catcher with performance, visual, and UX polish [batch 3 - step 72].
+Refactor and enhance popper with performance, visual, and UX polish [batch 3 - step 73].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
