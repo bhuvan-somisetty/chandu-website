@@ -1,5 +1,5 @@
-perf(aura): optimize particle vortex angle calculations in scan loop
+style(aura): add prismatic glow aura halo around scan sensor
 
-Refactor and enhance aura with performance, visual, and UX polish [batch 3 - step 5].
+Refactor and enhance aura with performance, visual, and UX polish [batch 3 - step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
