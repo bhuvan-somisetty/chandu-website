@@ -1,5 +1,5 @@
-ui(theme): add deep ocean bioluminescence theme
+a11y(aria): audit and add aria-describedby to modal dialogues
 
-Enhance theme with performance, visual, and UX polish [extra step 10].
+Enhance a11y with performance, visual, and UX polish [extra step 11].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
