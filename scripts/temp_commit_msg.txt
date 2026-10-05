@@ -1,5 +1,5 @@
-style(achievements): add celebratory particle burst on badge unlock
+style(party): add kaleidoscopic rainbow strobe filter in disco mode
 
-Refactor and enhance achievements with performance, visual, and UX polish [batch 3 - step 34].
+Refactor and enhance party with performance, visual, and UX polish [batch 3 - step 35].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
