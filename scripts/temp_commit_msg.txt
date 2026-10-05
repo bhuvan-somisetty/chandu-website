@@ -1,5 +1,5 @@
-ui(timemachine): add nostalgic photo collage flip transition
+style(holocard): calibrate gyroscope tilt responsiveness on tablets
 
-Refactor and enhance timemachine with performance, visual, and UX polish [batch 3 - step 46].
+Refactor and enhance holocard with performance, visual, and UX polish [batch 3 - step 47].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
