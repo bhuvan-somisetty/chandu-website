@@ -1,5 +1,5 @@
-feat(arcade): add global game over celebratory sound fanfare
+style(dock): add subtle active dot indicator on current view
 
-Enhance games with performance, visual, and UX polish [extra step 14].
+Enhance dock with performance, visual, and UX polish [extra step 15].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
