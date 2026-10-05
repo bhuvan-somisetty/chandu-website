@@ -1,5 +1,5 @@
-style(balloons): add soft metallic luster gradient to gold balloons
+style(cursor): add starlight particle spark on click
 
-Refactor and enhance balloons with performance, visual, and UX polish [batch 3 - step 26].
+Refactor and enhance cursor with performance, visual, and UX polish [batch 3 - step 27].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
