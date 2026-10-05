@@ -1,5 +1,5 @@
-audio(pinata): add crisp wooden bat impact audio synthesis
+style(racer): add asphalt texture reflections on road canvas
 
-Enhance pinata with performance, visual, and UX polish [extra step 1].
+Enhance racer with performance, visual, and UX polish [extra step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
