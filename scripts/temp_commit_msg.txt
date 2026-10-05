@@ -1,5 +1,5 @@
-style(hero): modernize gradient text reflection on main headline
+ui(hero): add quick launch CTA to latest arcade additions
 
-Refactor and enhance hero with performance, visual, and UX polish [batch 3 - step 29].
+Refactor and enhance hero with performance, visual, and UX polish [batch 3 - step 30].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
