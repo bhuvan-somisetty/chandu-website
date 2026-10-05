@@ -1,5 +1,5 @@
-feat(games): incorporate Pinata Bash and Cyber Highway Racer into GamesPage
+feat(activities): incorporate Aura Scanner, Golden Scroll, Emoji Matrix, Sky Map, and Jukebox into ActivitiesPage
 
-Expand arcade tab switcher to 19 interactive celebration mini-games.
+Expand creative studio to 37 full-featured celebratory activities.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
