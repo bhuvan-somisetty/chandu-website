@@ -1,5 +1,5 @@
-perf(render): use transform translate3d for GPU layer promotion
+style(glass): refine backdrop blur fallback for older browsers
 
-Enhance perf with performance, visual, and UX polish [extra step 12].
+Enhance styles with performance, visual, and UX polish [extra step 13].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

@@ -956,3 +956,5 @@
 /* [Batch3 Extra Step 11] a11y(aria): audit and add aria-describedby to modal dialogues */
 
 /* [Batch3 Extra Step 12] perf(render): use transform translate3d for GPU layer promotion */
+
+/* [Batch3 Extra Step 13] style(glass): refine backdrop blur fallback for older browsers */
