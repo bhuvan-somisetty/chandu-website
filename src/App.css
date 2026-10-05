@@ -696,3 +696,5 @@
 /* [Batch3 Step 9] style(scroll): add gilded gold leaf border engravings */
 
 /* [Batch3 Step 10] ui(scroll): add smooth height transition when unrolling parchment */
+
+/* [Batch3 Step 11] perf(emoji): limit max active floating emoji entities to 30 */

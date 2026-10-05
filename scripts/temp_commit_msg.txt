@@ -1,5 +1,5 @@
-ui(scroll): add smooth height transition when unrolling parchment
+perf(emoji): limit max active floating emoji entities to 30
 
-Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 10].
+Refactor and enhance emoji with performance, visual, and UX polish [batch 3 - step 11].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
