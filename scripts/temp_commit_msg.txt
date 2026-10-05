@@ -1,5 +1,5 @@
-ui(orbit): add Saturn ring tilt rendering
+style(home): add countdown pulse effect on zero seconds reach
 
-Refactor and enhance orbit with performance, visual, and UX polish [batch 3 - step 95].
+Refactor and enhance home with performance, visual, and UX polish [batch 3 - step 96].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
