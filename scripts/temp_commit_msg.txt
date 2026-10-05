@@ -1,5 +1,5 @@
-feat(emoji): add gravity fall physics on idle emojis
+ui(skymap): add constellation search filter by astrological sign
 
-Refactor and enhance emoji with performance, visual, and UX polish [batch 3 - step 121].
+Refactor and enhance skymap with performance, visual, and UX polish [batch 3 - step 122].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
