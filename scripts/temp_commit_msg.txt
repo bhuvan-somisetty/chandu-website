@@ -1,5 +1,5 @@
-chore(release): finalize celebrate 2026 interactive feature suite v3
+gameplay(pinata): add bonus combo points for rapid swings
 
-Refactor and enhance release with performance, visual, and UX polish [batch 3 - step 115].
+Refactor and enhance pinata with performance, visual, and UX polish [batch 3 - step 116].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
