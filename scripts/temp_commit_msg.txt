@@ -1,5 +1,5 @@
-style(jukebox): add retro cassette player tape reel animation
+style(scroll): add gilded gold leaf border engravings
 
-Refactor and enhance jukebox with performance, visual, and UX polish [batch 3 - step 8].
+Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 9].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
