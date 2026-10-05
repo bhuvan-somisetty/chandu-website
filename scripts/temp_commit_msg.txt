@@ -1,5 +1,5 @@
-audio(party): synchronize airhorn blast with disco ball drop
+audio(lofi): add subtle rainy cafe ambient backdrop track
 
-Refactor and enhance party with performance, visual, and UX polish [batch 3 - step 36].
+Refactor and enhance lofi with performance, visual, and UX polish [batch 3 - step 37].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
