@@ -1,5 +1,5 @@
-audio(synth): add low-pass resonance filter sweep for party synths
+style(effects): add golden confetti sparkle bursts on achievement unlock
 
-Refactor and enhance synth with performance, visual, and UX polish [batch 3 - step 123].
+Refactor and enhance effects with performance, visual, and UX polish [batch 3 - step 124].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
