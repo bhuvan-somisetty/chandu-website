@@ -898,3 +898,5 @@
 /* [Batch3 Step 110] chore(release): bump celebration release version milestone to 3.0 */
 
 /* [Batch3 Step 111] docs(readme): document new arcade mini-games and interactive canvas studios */
+
+/* [Batch3 Step 112] perf(canvas): enable willReadFrequently on 2D drawing contexts */
