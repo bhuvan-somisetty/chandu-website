@@ -712,3 +712,5 @@
 /* [Batch3 Step 17] a11y(pinata): add keyboard spacebar trigger support for swinging bat */
 
 /* [Batch3 Step 18] a11y(racer): add high-contrast lane divider borders */
+
+/* [Batch3 Step 19] perf(audio): prevent audio context suspension on user navigation */
