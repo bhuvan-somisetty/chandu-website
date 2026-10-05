@@ -716,3 +716,5 @@
 /* [Batch3 Step 19] perf(audio): prevent audio context suspension on user navigation */
 
 /* [Batch3 Step 20] audio(synth): smooth noise buffer transition for candle blow sound */
+
+/* [Batch3 Step 21] style(navbar): calibrate backdrop blur filter saturation on scroll */

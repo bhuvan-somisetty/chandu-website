@@ -1,5 +1,5 @@
-audio(synth): smooth noise buffer transition for candle blow sound
+style(navbar): calibrate backdrop blur filter saturation on scroll
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 3 - step 20].
+Refactor and enhance navbar with performance, visual, and UX polish [batch 3 - step 21].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
