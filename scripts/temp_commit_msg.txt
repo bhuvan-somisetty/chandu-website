@@ -1,5 +1,5 @@
-ui(aura): add interactive aura color palette previews
+feat(jukebox): add loop playback mode toggle
 
-Enhance aura with performance, visual, and UX polish [extra step 3].
+Enhance jukebox with performance, visual, and UX polish [extra step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
