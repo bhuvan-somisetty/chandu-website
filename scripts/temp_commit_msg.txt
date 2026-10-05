@@ -1,5 +1,5 @@
-ui(racer): add digital speedometer HUD readout
+feat(aura): add downloadable cosmic aura card export
 
-Refactor and enhance racer with performance, visual, and UX polish [batch 3 - step 117].
+Refactor and enhance aura with performance, visual, and UX polish [batch 3 - step 118].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
