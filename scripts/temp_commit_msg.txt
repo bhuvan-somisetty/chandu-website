@@ -1,5 +1,5 @@
-ui(theme): add rose gold metallic theme option
+ui(theme): add deep ocean bioluminescence theme
 
-Enhance theme with performance, visual, and UX polish [extra step 9].
+Enhance theme with performance, visual, and UX polish [extra step 10].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
