@@ -1,5 +1,5 @@
-perf(emoji): limit max active floating emoji entities to 30
+style(emoji): add playful squash and stretch animation on emoji click
 
-Refactor and enhance emoji with performance, visual, and UX polish [batch 3 - step 11].
+Refactor and enhance emoji with performance, visual, and UX polish [batch 3 - step 12].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
