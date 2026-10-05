@@ -1,5 +1,5 @@
-feat(activities): incorporate Aura Scanner, Golden Scroll, Emoji Matrix, Sky Map, and Jukebox into ActivitiesPage
+refactor(pinata): add elastic pendulum swing damping curve
 
-Expand creative studio to 37 full-featured celebratory activities.
+Refactor and enhance pinata with performance, visual, and UX polish [batch 3 - step 1].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
