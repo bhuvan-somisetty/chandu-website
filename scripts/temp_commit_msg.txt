@@ -1,5 +1,5 @@
-style(balloons): add soft natural breeze drift variations
+style(footer): enhance glass card border sheen gradient
 
-Enhance balloons with performance, visual, and UX polish [extra step 17].
+Enhance footer with performance, visual, and UX polish [extra step 18].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
