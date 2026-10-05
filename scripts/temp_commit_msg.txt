@@ -1,5 +1,5 @@
-feat(games): implement Birthday PinataBash swinging arcade minigame
+feat(games): build CyberHighwayRacer 2D highway gift collecting arcade game
 
-Add interactive swinging pinata with dynamic candy particles, crack thresholds, and confetti explosion.
+Implement top-down cyber highway racer with lane controls, obstacle avoidance, speed ramp physics, and gifts.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
