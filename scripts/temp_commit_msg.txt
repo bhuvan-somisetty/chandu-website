@@ -1,5 +1,5 @@
-a11y(aria): audit and add aria-describedby to modal dialogues
+perf(render): use transform translate3d for GPU layer promotion
 
-Enhance a11y with performance, visual, and UX polish [extra step 11].
+Enhance perf with performance, visual, and UX polish [extra step 12].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
