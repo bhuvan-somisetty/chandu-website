@@ -1,5 +1,5 @@
-style(home): add countdown pulse effect on zero seconds reach
+style(gallery): add lightbox zoom modal on card click
 
-Refactor and enhance home with performance, visual, and UX polish [batch 3 - step 96].
+Refactor and enhance gallery with performance, visual, and UX polish [batch 3 - step 97].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
