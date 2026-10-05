@@ -1,5 +1,5 @@
-gameplay(quest): add randomized hidden treasure compass clue
+audio(harp): add reverb space acoustic simulation
 
-Refactor and enhance quest with performance, visual, and UX polish [batch 3 - step 83].
+Refactor and enhance harp with performance, visual, and UX polish [batch 3 - step 84].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
