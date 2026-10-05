@@ -1,5 +1,5 @@
-style(effects): add golden confetti sparkle bursts on achievement unlock
+chore(security): sanitize all dynamic text inputs across mini-games
 
-Refactor and enhance effects with performance, visual, and UX polish [batch 3 - step 124].
+Refactor and enhance security with performance, visual, and UX polish [batch 3 - step 125].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
