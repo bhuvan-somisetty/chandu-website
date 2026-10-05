@@ -962,3 +962,5 @@
 /* [Batch3 Extra Step 14] feat(arcade): add global game over celebratory sound fanfare */
 
 /* [Batch3 Extra Step 15] style(dock): add subtle active dot indicator on current view */
+
+/* [Batch3 Extra Step 16] perf(navbar): optimize scroll listener debounce intervals */

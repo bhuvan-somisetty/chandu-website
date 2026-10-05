@@ -1,5 +1,5 @@
-style(dock): add subtle active dot indicator on current view
+perf(navbar): optimize scroll listener debounce intervals
 
-Enhance dock with performance, visual, and UX polish [extra step 15].
+Enhance navbar with performance, visual, and UX polish [extra step 16].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
