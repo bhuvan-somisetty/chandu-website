@@ -1,5 +1,5 @@
-ui(dock): add haptic vibration trigger on mobile dock taps
+perf(balloons): throttle floating balloon CSS transforms
 
-Refactor and enhance dock with performance, visual, and UX polish [batch 3 - step 24].
+Refactor and enhance balloons with performance, visual, and UX polish [batch 3 - step 25].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
