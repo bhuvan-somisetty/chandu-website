@@ -1,5 +1,5 @@
-feat(wishjar): add export wishes as printable keepsake text
+style(wishcloud): introduce smooth floating cloud wind velocity
 
-Refactor and enhance wishjar with performance, visual, and UX polish [batch 3 - step 52].
+Refactor and enhance wishcloud with performance, visual, and UX polish [batch 3 - step 53].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
