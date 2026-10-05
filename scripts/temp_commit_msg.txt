@@ -1,5 +1,5 @@
-style(footer): enhance glassmorphic footer card border gradient
+ui(footer): add copyright timestamp dynamically set to current year
 
-Refactor and enhance footer with performance, visual, and UX polish [batch 3 - step 31].
+Refactor and enhance footer with performance, visual, and UX polish [batch 3 - step 32].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
