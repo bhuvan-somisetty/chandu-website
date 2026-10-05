@@ -1,5 +1,5 @@
-ui(footer): add copyright timestamp dynamically set to current year
+feat(achievements): register pinata_breaker and cyber_speeder badges
 
-Refactor and enhance footer with performance, visual, and UX polish [batch 3 - step 32].
+Refactor and enhance achievements with performance, visual, and UX polish [batch 3 - step 33].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
