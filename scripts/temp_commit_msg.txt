@@ -1,5 +1,5 @@
-ui(theme): add velvet midnight sapphire color scheme
+ui(theme): add retro neon vaporwave color scheme
 
-Refactor and enhance theme with performance, visual, and UX polish [batch 3 - step 15].
+Refactor and enhance theme with performance, visual, and UX polish [batch 3 - step 16].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
