@@ -1,5 +1,5 @@
-feat(jukebox): add loop playback mode toggle
+style(scroll): add illuminated drop caps on initial parchment letters
 
-Enhance jukebox with performance, visual, and UX polish [extra step 4].
+Enhance scroll with performance, visual, and UX polish [extra step 5].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
