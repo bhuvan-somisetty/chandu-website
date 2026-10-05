@@ -1,5 +1,5 @@
-a11y(pinata): add keyboard spacebar trigger support for swinging bat
+a11y(racer): add high-contrast lane divider borders
 
-Refactor and enhance a11y with performance, visual, and UX polish [batch 3 - step 17].
+Refactor and enhance a11y with performance, visual, and UX polish [batch 3 - step 18].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
