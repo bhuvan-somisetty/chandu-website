@@ -1,0 +1,5 @@
+feat(games): implement Birthday PinataBash swinging arcade minigame
+
+Add interactive swinging pinata with dynamic candy particles, crack thresholds, and confetti explosion.
+
+Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
