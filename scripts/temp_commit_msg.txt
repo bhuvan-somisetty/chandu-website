@@ -1,5 +1,5 @@
-style(bingo): add triumphant sound jingle upon winning line completion
+feat(bingo): add customizable bingo card item builder
 
-Refactor and enhance bingo with performance, visual, and UX polish [batch 3 - step 65].
+Refactor and enhance bingo with performance, visual, and UX polish [batch 3 - step 66].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
