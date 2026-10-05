@@ -1,5 +1,5 @@
-perf(navbar): optimize scroll listener debounce intervals
+style(balloons): add soft natural breeze drift variations
 
-Enhance navbar with performance, visual, and UX polish [extra step 16].
+Enhance balloons with performance, visual, and UX polish [extra step 17].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
