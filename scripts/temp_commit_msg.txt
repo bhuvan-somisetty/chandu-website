@@ -1,5 +1,5 @@
-style(polaroids): add randomized tilt angles for organic wall display
+feat(polaroids): add handwritten caption editing support
 
-Refactor and enhance polaroids with performance, visual, and UX polish [batch 3 - step 59].
+Refactor and enhance polaroids with performance, visual, and UX polish [batch 3 - step 60].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
