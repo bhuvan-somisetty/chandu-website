@@ -1,5 +1,5 @@
-ui(skymap): add constellation search filter by astrological sign
+audio(synth): add low-pass resonance filter sweep for party synths
 
-Refactor and enhance skymap with performance, visual, and UX polish [batch 3 - step 122].
+Refactor and enhance synth with performance, visual, and UX polish [batch 3 - step 123].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
