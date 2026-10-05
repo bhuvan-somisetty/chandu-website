@@ -1,5 +1,5 @@
-gameplay(racer): introduce turbo boost gift box powerups
+style(racer): add neon motion trails behind sports car exhaust
 
-Refactor and enhance racer with performance, visual, and UX polish [batch 3 - step 3].
+Refactor and enhance racer with performance, visual, and UX polish [batch 3 - step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
