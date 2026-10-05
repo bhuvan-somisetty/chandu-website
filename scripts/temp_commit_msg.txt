@@ -1,5 +1,5 @@
-style(scroll): add ribbon bookmark with embroidered monogram
+feat(emoji): add gravity fall physics on idle emojis
 
-Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 120].
+Refactor and enhance emoji with performance, visual, and UX polish [batch 3 - step 121].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
