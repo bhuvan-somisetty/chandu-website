@@ -1,5 +1,5 @@
-ui(holocard): add custom silver holographic frame preset
+style(envelope): refine origami fold shadow gradient angles
 
-Refactor and enhance holocard with performance, visual, and UX polish [batch 3 - step 48].
+Refactor and enhance envelope with performance, visual, and UX polish [batch 3 - step 49].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
