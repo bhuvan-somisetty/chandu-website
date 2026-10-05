@@ -1,5 +1,5 @@
-feat(astronomy): create ConstellationSkyMap interactive stellar observatory
+feat(games): incorporate Pinata Bash and Cyber Highway Racer into GamesPage
 
-Build canvas-based night sky map displaying ancient star constellations and birthday lore.
+Expand arcade tab switcher to 19 interactive celebration mini-games.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
