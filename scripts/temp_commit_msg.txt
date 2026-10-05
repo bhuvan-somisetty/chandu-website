@@ -1,5 +1,5 @@
-refactor(pinata): add elastic pendulum swing damping curve
+style(pinata): add rainbow crepe paper texture highlights
 
-Refactor and enhance pinata with performance, visual, and UX polish [batch 3 - step 1].
+Refactor and enhance pinata with performance, visual, and UX polish [batch 3 - step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
