@@ -1,5 +1,5 @@
-feat(cosmic): build AuraEnergyScanner astrological bio-frequency visualizer
+feat(audio): build ChiptuneJukebox retro 8-bit synthesizer jukebox
 
-Add interactive energy sensor canvas with dynamic particle vortex, scan progress, and personalized aura results.
+Implement procedural square-wave chiptune melody player with classic game soundtracks and visualizer.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
