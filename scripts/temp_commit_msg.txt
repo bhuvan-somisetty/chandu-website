@@ -1,5 +1,5 @@
-chore(security): sanitize all dynamic text inputs across mini-games
+perf(bundle): split heavy activity canvases into asynchronous sub-modules
 
-Refactor and enhance security with performance, visual, and UX polish [batch 3 - step 125].
+Refactor and enhance bundle with performance, visual, and UX polish [batch 3 - step 126].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

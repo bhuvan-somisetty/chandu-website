@@ -926,3 +926,5 @@
 /* [Batch3 Step 124] style(effects): add golden confetti sparkle bursts on achievement unlock */
 
 /* [Batch3 Step 125] chore(security): sanitize all dynamic text inputs across mini-games */
+
+/* [Batch3 Step 126] perf(bundle): split heavy activity canvases into asynchronous sub-modules */
