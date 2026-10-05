@@ -1,5 +1,5 @@
-feat(vibe): build EmojiReactionMatrix interactive reaction pop canvas
+feat(astronomy): create ConstellationSkyMap interactive stellar observatory
 
-Implement floating emoji reaction matrix with sound synthesis and responsive burst physics.
+Build canvas-based night sky map displaying ancient star constellations and birthday lore.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
