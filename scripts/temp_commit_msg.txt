@@ -1,5 +1,5 @@
-ui(jukebox): add equalizer visualizer bars on active playback
+style(scroll): add ribbon bookmark with embroidered monogram
 
-Refactor and enhance jukebox with performance, visual, and UX polish [batch 3 - step 119].
+Refactor and enhance scroll with performance, visual, and UX polish [batch 3 - step 120].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
