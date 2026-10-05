@@ -1,5 +1,5 @@
-audio(synth): add low-frequency drone for atmospheric backdrop
+chore(build): calibrate asset inlining limits in Vite config
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 3 - step 101].
+Refactor and enhance build with performance, visual, and UX polish [batch 3 - step 102].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
