@@ -1,5 +1,5 @@
-style(emoji): add spring bounce physics on floor collision
+perf(skymap): use pre-rendered star coordinate caches
 
-Enhance emoji with performance, visual, and UX polish [extra step 6].
+Enhance skymap with performance, visual, and UX polish [extra step 7].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

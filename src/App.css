@@ -944,3 +944,5 @@
 /* [Batch3 Extra Step 5] style(scroll): add illuminated drop caps on initial parchment letters */
 
 /* [Batch3 Extra Step 6] style(emoji): add spring bounce physics on floor collision */
+
+/* [Batch3 Extra Step 7] perf(skymap): use pre-rendered star coordinate caches */
