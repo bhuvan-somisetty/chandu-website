@@ -1,5 +1,5 @@
-style(glass): refine backdrop blur fallback for older browsers
+feat(arcade): add global game over celebratory sound fanfare
 
-Enhance styles with performance, visual, and UX polish [extra step 13].
+Enhance games with performance, visual, and UX polish [extra step 14].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
