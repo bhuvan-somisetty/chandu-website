@@ -1,5 +1,5 @@
-style(zodiac): illuminate celestial constellation backdrop
+feat(zodiac): add daily cosmic birthday horoscope generator
 
-Refactor and enhance zodiac with performance, visual, and UX polish [batch 3 - step 63].
+Refactor and enhance zodiac with performance, visual, and UX polish [batch 3 - step 64].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
