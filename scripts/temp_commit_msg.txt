@@ -1,5 +1,5 @@
-audio(envelope): add crisp parchment unfolding sound sample
+ui(wishjar): add floating firefly particles inside glass jar
 
-Refactor and enhance envelope with performance, visual, and UX polish [batch 3 - step 50].
+Refactor and enhance wishjar with performance, visual, and UX polish [batch 3 - step 51].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
