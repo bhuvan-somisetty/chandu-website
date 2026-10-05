@@ -1,5 +1,5 @@
-style(dock): elevate glass dock z-index above game canvases
+ui(dock): add haptic vibration trigger on mobile dock taps
 
-Refactor and enhance dock with performance, visual, and UX polish [batch 3 - step 23].
+Refactor and enhance dock with performance, visual, and UX polish [batch 3 - step 24].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
