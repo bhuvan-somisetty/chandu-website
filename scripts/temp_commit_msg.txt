@@ -1,5 +1,5 @@
-style(racer): add asphalt texture reflections on road canvas
+ui(aura): add interactive aura color palette previews
 
-Enhance racer with performance, visual, and UX polish [extra step 2].
+Enhance aura with performance, visual, and UX polish [extra step 3].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
