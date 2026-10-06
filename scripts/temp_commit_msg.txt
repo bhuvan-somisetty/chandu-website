@@ -1,5 +1,5 @@
-a11y(crystal): refine module stability and polish styling parameters [sub-step 244]
+docs(sequencer): refine module stability and polish styling parameters [sub-step 245]
 
-Enhance crystal with performance, visual, and UX polish [batch 5 step 254 of 256].
+Enhance sequencer with performance, visual, and UX polish [batch 5 step 255 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
