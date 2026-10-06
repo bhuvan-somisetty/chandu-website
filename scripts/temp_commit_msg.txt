@@ -1,5 +1,5 @@
-style(darts): add bullseye target reticle on cursor hover
+style(tarot): add iridescent purple foil sheen on card backs
 
-Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 4].
+Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 5].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
