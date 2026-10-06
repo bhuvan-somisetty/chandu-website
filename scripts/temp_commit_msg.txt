@@ -1,5 +1,5 @@
-style(balloons): add soft translucent sheen on balloon surface
+style(cursor): add golden starlight cursor trail option
 
-Refactor and enhance balloons with performance, visual, and UX polish [batch 4 - step 26].
+Refactor and enhance cursor with performance, visual, and UX polish [batch 4 - step 27].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
