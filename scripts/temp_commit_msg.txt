@@ -1,5 +1,5 @@
-style(kalimba): add authentic wood grain texture to kalimba soundboard
+gameplay(stacker): add progressive pendulum swing speed acceleration
 
-Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 8].
+Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 9].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
