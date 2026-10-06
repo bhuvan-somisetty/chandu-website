@@ -1460,3 +1460,5 @@
 /* [Batch5 Step 100] a11y(focus): implement visible high-contrast focus rings for keyboard users */
 
 /* [Batch5 Step 101] a11y(motion): respect prefers-reduced-motion in canvas animation loops */
+
+/* [Batch5 Step 102] style(mobile): prevent horizontal rubber-banding on iOS Safari */

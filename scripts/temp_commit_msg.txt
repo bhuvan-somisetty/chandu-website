@@ -1,5 +1,5 @@
-a11y(motion): respect prefers-reduced-motion in canvas animation loops
+style(mobile): prevent horizontal rubber-banding on iOS Safari
 
-Enhance a11y with performance, visual, and UX polish [batch 5 step 101 of 256].
+Enhance mobile with performance, visual, and UX polish [batch 5 step 102 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
