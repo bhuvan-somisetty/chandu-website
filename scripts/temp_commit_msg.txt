@@ -1,5 +1,5 @@
-style(piano): highlight active octave keys on chord press
+perf(candles): optimize audio analyzer loop CPU efficiency
 
-Refactor and enhance piano with performance, visual, and UX polish [batch 4 - step 81].
+Refactor and enhance candles with performance, visual, and UX polish [batch 4 - step 82].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
