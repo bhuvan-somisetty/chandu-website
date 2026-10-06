@@ -1,5 +1,5 @@
-style(darts): add bullseye particle sparkle burst on high score
+ui(tarot): add deck shuffle sound effect on card draw
 
-Enhance darts with performance, visual, and UX polish [batch 4 extra step 2].
+Enhance tarot with performance, visual, and UX polish [batch 4 extra step 3].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
