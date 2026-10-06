@@ -1,5 +1,5 @@
-perf(canvas): throttle high-frequency touchmove listeners
+style(particles): add customizable confetti color palette picker
 
-Refactor and enhance canvas with performance, visual, and UX polish [batch 4 - step 132].
+Refactor and enhance effects with performance, visual, and UX polish [batch 4 - step 133].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
