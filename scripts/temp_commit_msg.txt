@@ -1,5 +1,5 @@
-perf(sparkler): pool particle objects to reduce garbage collection
+style(sparkler): increase golden ember dispersion trails
 
-Refactor and enhance sparkler with performance, visual, and UX polish [batch 4 - step 43].
+Refactor and enhance sparkler with performance, visual, and UX polish [batch 4 - step 44].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
