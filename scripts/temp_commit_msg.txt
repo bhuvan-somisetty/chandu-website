@@ -1,5 +1,5 @@
-ui(mysterybox): add hint button for rune dial alignment
+physics(hockey): adjust puck table edge friction coefficient
 
-Enhance ui(mysterybox) with performance, visual, and UX polish [batch 5 step 50 of 256].
+Enhance hockey with performance, visual, and UX polish [batch 5 step 51 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
