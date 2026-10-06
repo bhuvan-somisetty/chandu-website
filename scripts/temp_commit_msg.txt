@@ -1,5 +1,5 @@
-style(responsive): calibrate viewport padding on mobile devices
+ui(touch): disable unwanted double-tap zoom on arcade canvas
 
-Refactor and enhance viewport with performance, visual, and UX polish [batch 4 - step 114].
+Refactor and enhance touch with performance, visual, and UX polish [batch 4 - step 115].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
