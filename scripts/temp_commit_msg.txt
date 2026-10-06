@@ -1,5 +1,5 @@
-ui(meteors): add meteor speed slider control
+audio(synth): enhance stereo reverb depth for ambient night garden
 
-Enhance meteors with performance, visual, and UX polish [batch 4 extra step 7].
+Enhance synth with performance, visual, and UX polish [batch 4 extra step 8].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
