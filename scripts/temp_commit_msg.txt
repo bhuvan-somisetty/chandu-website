@@ -1,5 +1,5 @@
-style(stacker): add sprinkle glitter shower on milestone height tiers
+physics(stacker): add wobble torque simulation on misaligned tiers
 
-Enhance stacker with performance, visual, and UX polish [batch 5 step 59 of 256].
+Enhance physics(stacker) with performance, visual, and UX polish [batch 5 step 60 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
