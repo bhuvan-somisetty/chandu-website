@@ -1,5 +1,5 @@
-perf(cursor): debounced pointer coordinates tracking on mobile
+style(hero): modernize gradient text reflection on main headline
 
-Refactor and enhance cursor with performance, visual, and UX polish [batch 4 - step 28].
+Refactor and enhance hero with performance, visual, and UX polish [batch 4 - step 29].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
