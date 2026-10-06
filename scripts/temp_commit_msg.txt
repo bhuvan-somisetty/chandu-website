@@ -1,5 +1,5 @@
-feat(postcard): add handwritten calligraphy font option
+feat(meteors): add golden shooting star wish powerup
 
-Refactor and enhance postcard with performance, visual, and UX polish [batch 4 - step 128].
+Refactor and enhance meteors with performance, visual, and UX polish [batch 4 - step 129].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
