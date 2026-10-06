@@ -1018,3 +1018,5 @@
 /* [Batch4 Step 22] ui(navbar): add pulsing live counter for 22 games and 41 activities */
 
 /* [Batch4 Step 23] style(dock): smoothen touch spring animation on mobile dock */
+
+/* [Batch4 Step 24] perf(dock): memoize dock navigation active route checks */

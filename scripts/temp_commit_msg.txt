@@ -1,5 +1,5 @@
-style(dock): smoothen touch spring animation on mobile dock
+perf(dock): memoize dock navigation active route checks
 
-Refactor and enhance dock with performance, visual, and UX polish [batch 4 - step 23].
+Refactor and enhance dock with performance, visual, and UX polish [batch 4 - step 24].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
