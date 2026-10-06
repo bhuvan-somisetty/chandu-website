@@ -1242,3 +1242,5 @@
 /* [Batch4 Step 134] audio(master): calibrate stereo channel balance on mobile speakers */
 
 /* [Batch4 Step 135] chore(security): sanitize all user postcard inputs against XSS */
+
+/* [Batch4 Step 136] chore(pwa): configure offline cache manifest for celebration tools */

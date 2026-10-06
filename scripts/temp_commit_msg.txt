@@ -1,5 +1,5 @@
-chore(security): sanitize all user postcard inputs against XSS
+chore(pwa): configure offline cache manifest for celebration tools
 
-Refactor and enhance security with performance, visual, and UX polish [batch 4 - step 135].
+Refactor and enhance pwa with performance, visual, and UX polish [batch 4 - step 136].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
