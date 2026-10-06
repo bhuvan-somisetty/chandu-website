@@ -1,5 +1,5 @@
-style(racer): add neon motion trails behind sports car exhaust
+style(aura): add prismatic glow aura halo around scan sensor
 
-Refactor and enhance racer with performance, visual, and UX polish [batch 4 - step 97].
+Refactor and enhance aura with performance, visual, and UX polish [batch 4 - step 98].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
