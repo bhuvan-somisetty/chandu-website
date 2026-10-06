@@ -1,5 +1,5 @@
-gameplay(hockey): add difficulty mode selector (Easy, Normal, Pro)
+style(darts): add bullseye particle sparkle burst on high score
 
-Enhance hockey with performance, visual, and UX polish [batch 4 extra step 1].
+Enhance darts with performance, visual, and UX polish [batch 4 extra step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
