@@ -1,5 +1,5 @@
-ui(theme): add crystal amethyst color scheme
+ui(theme): add electric cyber sunset color scheme
 
-Refactor and enhance theme with performance, visual, and UX polish [batch 4 - step 15].
+Refactor and enhance theme with performance, visual, and UX polish [batch 4 - step 16].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
