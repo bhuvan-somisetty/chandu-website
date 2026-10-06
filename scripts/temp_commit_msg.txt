@@ -1,5 +1,5 @@
-style(theme): enhance sapphire crystal theme gradient saturation
+a11y(focus): add visible focus ring outlines for keyboard navigation
 
-Refactor and enhance theme with performance, visual, and UX polish [batch 4 - step 120].
+Refactor and enhance accessibility with performance, visual, and UX polish [batch 4 - step 121].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
