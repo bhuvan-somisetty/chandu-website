@@ -1,5 +1,5 @@
-style(airhockey): refine module stability and polish styling parameters [sub-step 149]
+ui(darts): refine module stability and polish styling parameters [sub-step 150]
 
-Enhance airhockey with performance, visual, and UX polish [batch 5 step 159 of 256].
+Enhance darts with performance, visual, and UX polish [batch 5 step 160 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
