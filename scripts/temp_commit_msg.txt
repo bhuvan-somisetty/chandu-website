@@ -1,5 +1,5 @@
-style(mysterybox): add mystical gold glow emanations upon box opening
+ui(mysterybox): add hint button for rune dial alignment
 
-Enhance style(mysterybox) with performance, visual, and UX polish [batch 5 step 49 of 256].
+Enhance ui(mysterybox) with performance, visual, and UX polish [batch 5 step 50 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
