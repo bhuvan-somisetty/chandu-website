@@ -1,5 +1,5 @@
-physics(darts): refine dart trajectory flight gravity drop
+style(darts): add balloon latex shine highlight reflection
 
-Enhance darts with performance, visual, and UX polish [batch 5 step 55 of 256].
+Enhance style(darts) with performance, visual, and UX polish [batch 5 step 56 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
