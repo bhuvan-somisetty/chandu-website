@@ -1,5 +1,5 @@
-feat(celestial): create MeteorShowerGarden night sky wish casting garden
+feat(games): incorporate Air Hockey, Dart Target, and Cupcake Stacker into GamesPage
 
-Build animated meteor shower canvas with starry background and interactive wish counters.
+Expand arcade suite to 22 full-featured interactive celebration mini-games.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
