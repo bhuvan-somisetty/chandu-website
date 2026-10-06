@@ -1,5 +1,5 @@
-perf(balloons): restrict animation loop when tab is hidden
+style(balloons): add soft translucent sheen on balloon surface
 
-Refactor and enhance balloons with performance, visual, and UX polish [batch 4 - step 25].
+Refactor and enhance balloons with performance, visual, and UX polish [batch 4 - step 26].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
