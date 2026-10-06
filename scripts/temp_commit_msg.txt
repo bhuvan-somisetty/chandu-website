@@ -1,5 +1,5 @@
-ui(photobooth): refine module stability and polish styling parameters [sub-step 157]
+audio(pixelart): refine module stability and polish styling parameters [sub-step 158]
 
-Enhance photobooth with performance, visual, and UX polish [batch 5 step 167 of 256].
+Enhance pixelart with performance, visual, and UX polish [batch 5 step 168 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
