@@ -1,5 +1,5 @@
-style(rhythm): add neon glow halo effect around perfect timing hits
+gameplay(rhythm): implement fever mode multiplier on 10x combo
 
-Enhance rhythm with performance, visual, and UX polish [batch 5 step 17 of 256].
+Enhance gameplay(rhythm) with performance, visual, and UX polish [batch 5 step 18 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
