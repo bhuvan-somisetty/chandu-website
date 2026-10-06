@@ -1,5 +1,5 @@
-style(giftbox): add unboxing ribbon untying physics
+style(piano): highlight active octave keys on chord press
 
-Refactor and enhance giftbox with performance, visual, and UX polish [batch 4 - step 80].
+Refactor and enhance piano with performance, visual, and UX polish [batch 4 - step 81].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
