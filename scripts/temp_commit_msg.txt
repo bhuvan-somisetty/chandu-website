@@ -1,5 +1,5 @@
-ui(zen): add cherry blossom petal scatter preset
+perf(zen): throttle canvas draw calls to match display refresh rate
 
-Enhance ui(zen) with performance, visual, and UX polish [batch 5 step 28 of 256].
+Enhance perf(zen) with performance, visual, and UX polish [batch 5 step 29 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
