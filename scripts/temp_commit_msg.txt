@@ -1,5 +1,5 @@
-refactor(hockey): smooth AI paddle tracking velocity curve
+style(hockey): add glowing neon trail behind fast-moving puck
 
-Refactor and enhance hockey with performance, visual, and UX polish [batch 4 - step 1].
+Refactor and enhance hockey with performance, visual, and UX polish [batch 4 - step 2].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
