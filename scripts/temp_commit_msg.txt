@@ -1,5 +1,5 @@
-style(navbar): enhance glassmorphic pill border luminance
+ui(navbar): add pulsing live counter for 22 games and 41 activities
 
-Refactor and enhance navbar with performance, visual, and UX polish [batch 4 - step 21].
+Refactor and enhance navbar with performance, visual, and UX polish [batch 4 - step 22].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
