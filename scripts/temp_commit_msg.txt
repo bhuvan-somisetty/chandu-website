@@ -1,5 +1,5 @@
-ui(darts): refine module stability and polish styling parameters [sub-step 206]
+audio(stacker): refine module stability and polish styling parameters [sub-step 207]
 
-Enhance darts with performance, visual, and UX polish [batch 5 step 216 of 256].
+Enhance stacker with performance, visual, and UX polish [batch 5 step 217 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
