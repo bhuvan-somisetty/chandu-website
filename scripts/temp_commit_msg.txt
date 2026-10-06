@@ -1,5 +1,5 @@
-perf(activitiespage): lazy-load heavier canvas activity components
+a11y(buttons): audit contrast ratio of neon badges to meet WCAG AAA
 
-Enhance activitiespage with performance, visual, and UX polish [batch 5 step 96 of 256].
+Enhance a11y with performance, visual, and UX polish [batch 5 step 97 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
