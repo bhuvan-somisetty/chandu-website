@@ -1,5 +1,5 @@
-style(message): add gold foil stamped signature calligraphy
+perf(routing): prefetch heavy game chunks on link hover
 
-Refactor and enhance message with performance, visual, and UX polish [batch 4 - step 105].
+Refactor and enhance app with performance, visual, and UX polish [batch 4 - step 106].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
