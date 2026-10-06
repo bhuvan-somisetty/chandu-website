@@ -1,5 +1,5 @@
-gameplay(ringtoss): refine module stability and polish styling parameters [sub-step 229]
+a11y(nebula): refine module stability and polish styling parameters [sub-step 230]
 
-Enhance ringtoss with performance, visual, and UX polish [batch 5 step 239 of 256].
+Enhance nebula with performance, visual, and UX polish [batch 5 step 240 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
