@@ -1,5 +1,5 @@
-feat(speech): support browser speech synthesis pitch selection
+ui(speech): add animated talking mouth avatar visualizer
 
-Refactor and enhance speech with performance, visual, and UX polish [batch 4 - step 55].
+Refactor and enhance speech with performance, visual, and UX polish [batch 4 - step 56].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
