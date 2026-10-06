@@ -1,5 +1,5 @@
-gameplay(froggy): add golden fly bonus collectable for extra score
+style(froggy): add lily pad goal finish line decoration
 
-Enhance gameplay(froggy) with performance, visual, and UX polish [batch 5 step 14 of 256].
+Enhance style(froggy) with performance, visual, and UX polish [batch 5 step 15 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
