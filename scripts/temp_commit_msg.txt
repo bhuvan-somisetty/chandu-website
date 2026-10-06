@@ -1,5 +1,5 @@
-ui(darts): display accuracy percentage stat on round finish
+style(stacker): add sprinkle glitter shower on milestone height tiers
 
-Enhance ui(darts) with performance, visual, and UX polish [batch 5 step 58 of 256].
+Enhance stacker with performance, visual, and UX polish [batch 5 step 59 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
