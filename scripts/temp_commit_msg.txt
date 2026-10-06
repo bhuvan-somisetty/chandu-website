@@ -1,5 +1,5 @@
-style(gamespage): enhance active game tab glow drop-shadow
+perf(gamespage): memoize game tab button renders
 
-Enhance gamespage with performance, visual, and UX polish [batch 5 step 92 of 256].
+Enhance gamespage with performance, visual, and UX polish [batch 5 step 93 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

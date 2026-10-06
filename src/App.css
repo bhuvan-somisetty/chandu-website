@@ -1442,3 +1442,5 @@
 /* [Batch5 Step 91] ui(gamespage): add active category filter chips (Action, Puzzle, Musical) */
 
 /* [Batch5 Step 92] style(gamespage): enhance active game tab glow drop-shadow */
+
+/* [Batch5 Step 93] perf(gamespage): memoize game tab button renders */
