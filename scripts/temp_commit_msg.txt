@@ -1,5 +1,5 @@
-ui(gamespage): add active category filter chips (Action, Puzzle, Musical)
+style(gamespage): enhance active game tab glow drop-shadow
 
-Enhance gamespage with performance, visual, and UX polish [batch 5 step 91 of 256].
+Enhance gamespage with performance, visual, and UX polish [batch 5 step 92 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
