@@ -1,5 +1,5 @@
-style(party): add kaleidoscopic rainbow strobe filter in disco mode
+audio(party): synchronize airhorn blast with disco ball drop
 
-Refactor and enhance party with performance, visual, and UX polish [batch 4 - step 35].
+Refactor and enhance party with performance, visual, and UX polish [batch 4 - step 36].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
