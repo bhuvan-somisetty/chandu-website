@@ -1,5 +1,5 @@
-style(laser): add glowing pulse laser beam core particle shader
+audio(laser): add crystal resonance chime upon laser alignment
 
-Enhance laser with performance, visual, and UX polish [batch 5 step 21 of 256].
+Enhance laser with performance, visual, and UX polish [batch 5 step 22 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
