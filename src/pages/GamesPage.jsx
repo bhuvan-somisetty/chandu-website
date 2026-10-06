@@ -21,12 +21,22 @@ import CyberHighwayRacer from '../components/games/CyberHighwayRacer';
 import BirthdayAirHockey from '../components/games/BirthdayAirHockey';
 import DartBalloonTarget from '../components/games/DartBalloonTarget';
 import CupcakeTowerStacker from '../components/games/CupcakeTowerStacker';
+import FroggyCakeHop from '../components/games/FroggyCakeHop';
+import RhythmHeroDDR from '../components/games/RhythmHeroDDR';
+import LaserMirrorPuzzle from '../components/games/LaserMirrorPuzzle';
+import CarnivalRingToss from '../components/games/CarnivalRingToss';
+import EscapeMysteryBox from '../components/games/EscapeMysteryBox';
 import { playPop } from '../utils/audioSynth';
 
 export default function GamesPage() {
-  const [activeTab, setActiveTab] = useState('airhockey');
+  const [activeTab, setActiveTab] = useState('froggy');
 
   const tabs = [
+    { id: 'froggy', label: 'Froggy Hop 🐸', component: FroggyCakeHop },
+    { id: 'rhythm', label: 'Rhythm Hero 🎵', component: RhythmHeroDDR },
+    { id: 'lasermirror', label: 'Laser Mirror 🪞', component: LaserMirrorPuzzle },
+    { id: 'ringtoss', label: 'Ring Toss 🎯', component: CarnivalRingToss },
+    { id: 'mysterybox', label: 'Mystery Box 🔐', component: EscapeMysteryBox },
     { id: 'airhockey', label: 'Air Hockey 🏓', component: BirthdayAirHockey },
     { id: 'darts', label: 'Dart Target 🎯', component: DartBalloonTarget },
     { id: 'stacker', label: 'Cupcake Stacker 🧁', component: CupcakeTowerStacker },
@@ -51,13 +61,13 @@ export default function GamesPage() {
     { id: 'piano', label: 'Chime Piano 🎹', component: ChimePiano }
   ];
 
-  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || BirthdayAirHockey;
+  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || FroggyCakeHop;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
-        <p className="text-sm text-white/70">Play 22 interactive arcade mini-games, earn points, and unlock achievements!</p>
+        <p className="text-sm text-white/70">Play 27 interactive arcade mini-games, earn points, and unlock achievements!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
@@ -68,7 +78,7 @@ export default function GamesPage() {
             className={`px-4 py-2 rounded-2xl text-xs font-bold transition-all ${
               activeTab === t.id
                 ? 'bg-gradient-to-r from-amber-400 to-pink-500 text-slate-950 shadow-lg scale-105'
-                : 'bg-white/10 text-white/80 hover:bg-white/20'
+                : 'bg-white/10 text-white/70 hover:bg-white/20'
             }`}
           >
             {t.label}
@@ -76,7 +86,7 @@ export default function GamesPage() {
         ))}
       </div>
 
-      <div className="mt-4">
+      <div className="transition-all duration-300">
         <CurrentGame />
       </div>
     </div>
