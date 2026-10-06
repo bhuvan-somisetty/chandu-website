@@ -1,5 +1,5 @@
-ui(tarot): add deck shuffle sound effect on card draw
+style(kalimba): add hand-carved celestial moon soundhole motif
 
-Enhance tarot with performance, visual, and UX polish [batch 4 extra step 3].
+Enhance kalimba with performance, visual, and UX polish [batch 4 extra step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
