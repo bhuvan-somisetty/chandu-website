@@ -1,5 +1,5 @@
-feat(baker): add rainbow frosting and confetti sprinkle toppings
+feat(quiz): add explanation cards for correct answer reveals
 
-Refactor and enhance baker with performance, visual, and UX polish [batch 4 - step 77].
+Refactor and enhance quiz with performance, visual, and UX polish [batch 4 - step 78].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
