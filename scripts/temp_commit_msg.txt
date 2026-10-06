@@ -1,5 +1,5 @@
-style(fireworks): refine module stability and polish styling parameters [sub-step 128]
+ui(photobooth): refine module stability and polish styling parameters [sub-step 129]
 
-Enhance fireworks with performance, visual, and UX polish [batch 5 step 138 of 256].
+Enhance photobooth with performance, visual, and UX polish [batch 5 step 139 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
