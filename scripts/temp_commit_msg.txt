@@ -1,5 +1,5 @@
-ui(touch): disable unwanted double-tap zoom on arcade canvas
+refactor(code): streamline component prop types and default values
 
-Refactor and enhance touch with performance, visual, and UX polish [batch 4 - step 115].
+Refactor and enhance cleanup with performance, visual, and UX polish [batch 4 - step 116].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
