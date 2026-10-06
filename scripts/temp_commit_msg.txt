@@ -1,5 +1,5 @@
-refactor(pinata): add elastic pendulum swing damping curve
+style(racer): add neon motion trails behind sports car exhaust
 
-Refactor and enhance pinata with performance, visual, and UX polish [batch 4 - step 96].
+Refactor and enhance racer with performance, visual, and UX polish [batch 4 - step 97].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
