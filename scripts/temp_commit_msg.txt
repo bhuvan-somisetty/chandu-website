@@ -1,5 +1,5 @@
-perf(gamespage): memoize game tab button renders
+ui(activitiespage): add category sections (Creative, Audio, Keepsake)
 
-Enhance gamespage with performance, visual, and UX polish [batch 5 step 93 of 256].
+Enhance activitiespage with performance, visual, and UX polish [batch 5 step 94 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
