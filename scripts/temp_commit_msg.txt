@@ -1,5 +1,5 @@
-ui(postcard): add instant print stylesheet for postcard format
+perf(meteors): pool canvas meteor particle objects
 
-Refactor and enhance postcard with performance, visual, and UX polish [batch 4 - step 12].
+Refactor and enhance meteors with performance, visual, and UX polish [batch 4 - step 13].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
