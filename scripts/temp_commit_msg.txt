@@ -1,5 +1,5 @@
-style(kalimba): add hand-carved celestial moon soundhole motif
+gameplay(stacker): add cherry topping on top tier cupcake
 
-Enhance kalimba with performance, visual, and UX polish [batch 4 extra step 4].
+Enhance stacker with performance, visual, and UX polish [batch 4 extra step 5].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
