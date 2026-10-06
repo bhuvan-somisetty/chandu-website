@@ -1,5 +1,5 @@
-chore(build): calibrate asset inlining limits in Vite config
+chore(seo): add OpenGraph celebration preview metadata tags
 
-Refactor and enhance build with performance, visual, and UX polish [batch 4 - step 109].
+Refactor and enhance seo with performance, visual, and UX polish [batch 4 - step 110].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
