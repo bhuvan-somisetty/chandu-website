@@ -1448,3 +1448,5 @@
 /* [Batch5 Step 94] ui(activitiespage): add category sections (Creative, Audio, Keepsake) */
 
 /* [Batch5 Step 95] style(activitiespage): add smooth cross-fade transition between tabs */
+
+/* [Batch5 Step 96] perf(activitiespage): lazy-load heavier canvas activity components */
