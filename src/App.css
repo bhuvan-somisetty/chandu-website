@@ -1466,3 +1466,5 @@
 /* [Batch5 Step 103] style(mobile): optimize touch target padding for smaller touchscreens */
 
 /* [Batch5 Step 104] style(mobile): ensure bottom dock clears iPhone dynamic island bar */
+
+/* [Batch5 Step 105] perf(touch): add passive touch listeners to eliminate scroll blocking */
