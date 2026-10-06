@@ -1,5 +1,5 @@
-ui(ringtoss): add trajectory path dashed arc preview guide
+gameplay(ringtoss): award golden ring on triple bottle streak
 
-Enhance ui(ringtoss) with performance, visual, and UX polish [batch 5 step 34 of 256].
+Enhance gameplay(ringtoss) with performance, visual, and UX polish [batch 5 step 35 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
