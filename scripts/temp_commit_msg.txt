@@ -1,5 +1,5 @@
-style(skymap): add twinkling magnitude variations to star canvas
+style(home): add countdown pulse effect on zero seconds reach
 
-Refactor and enhance skymap with performance, visual, and UX polish [batch 4 - step 102].
+Refactor and enhance home with performance, visual, and UX polish [batch 4 - step 103].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
