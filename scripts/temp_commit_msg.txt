@@ -1,5 +1,5 @@
-chore(pwa): configure offline cache manifest for celebration tools
+style(layout): ensure zero layout shift during dynamic game switching
 
-Refactor and enhance pwa with performance, visual, and UX polish [batch 4 - step 136].
+Refactor and enhance polish with performance, visual, and UX polish [batch 4 - step 137].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
