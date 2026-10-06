@@ -1,5 +1,5 @@
-style(nebula): add cosmic dust dispersion particle density slider
+perf(nebula): optimize radial gradient caching on starfield canvas
 
-Enhance nebula with performance, visual, and UX polish [batch 5 step 36 of 256].
+Enhance perf(nebula) with performance, visual, and UX polish [batch 5 step 37 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
