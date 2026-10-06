@@ -1,5 +1,5 @@
-feat(games): create CupcakeTowerStacker physics tower stacking mini-game
+feat(keepsake): build PostcardStudio vintage celebration postcard workshop
 
-Build swinging cupcake drop physics with overlap detection and milestone tower height records.
+Add customizable retro birthday postcard with stamps, air mail cancellation marks, and print export.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
