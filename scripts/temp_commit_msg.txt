@@ -1,5 +1,5 @@
-feat(fireworks): add willow cascade gold fireworks preset
+style(fireworks): add ambient launch crackle sound effects
 
-Refactor and enhance fireworks with performance, visual, and UX polish [batch 4 - step 41].
+Refactor and enhance fireworks with performance, visual, and UX polish [batch 4 - step 42].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
