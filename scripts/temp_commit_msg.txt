@@ -1,5 +1,5 @@
-audio(darts): add snappy rubber pop sound variation
+ui(darts): display accuracy percentage stat on round finish
 
-Enhance audio(darts) with performance, visual, and UX polish [batch 5 step 57 of 256].
+Enhance ui(darts) with performance, visual, and UX polish [batch 5 step 58 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
