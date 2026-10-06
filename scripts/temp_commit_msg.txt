@@ -1,5 +1,5 @@
-ui(dock): add subtle haptic vibration trigger on tab switch
+style(dock): elevate bottom nav floating z-index layer
 
-Enhance dock with performance, visual, and UX polish [batch 5 step 87 of 256].
+Enhance dock with performance, visual, and UX polish [batch 5 step 88 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
