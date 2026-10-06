@@ -1026,3 +1026,5 @@
 /* [Batch4 Step 26] style(balloons): add soft translucent sheen on balloon surface */
 
 /* [Batch4 Step 27] style(cursor): add golden starlight cursor trail option */
+
+/* [Batch4 Step 28] perf(cursor): debounced pointer coordinates tracking on mobile */
