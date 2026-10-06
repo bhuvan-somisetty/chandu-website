@@ -1,5 +1,5 @@
-feat(oracle): build CosmicTarotReader interactive celestial card deck
+feat(audio): build KalimbaPlayer acoustic thumb piano with resonant steel tines
 
-Add 3D flipping astral tarot cards with personalized celebration prophecies and aura readings.
+Implement interactive wooden kalimba with authentic Web Audio steel tine harmonics.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
