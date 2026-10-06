@@ -1,5 +1,5 @@
-audio(stacker): add cheerful rising chime sequence on stack
+ui(stacker): add height gauge measuring in cupcake units
 
-Enhance audio(stacker) with performance, visual, and UX polish [batch 5 step 61 of 256].
+Enhance ui(stacker) with performance, visual, and UX polish [batch 5 step 62 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
