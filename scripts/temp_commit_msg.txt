@@ -1,5 +1,5 @@
-style(tarot): add gold gilded edges on astrological tarot deck
+ui(tarot): add celestial aura constellation particle aura on card hover
 
-Enhance tarot with performance, visual, and UX polish [batch 5 step 63 of 256].
+Enhance ui(tarot) with performance, visual, and UX polish [batch 5 step 64 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
