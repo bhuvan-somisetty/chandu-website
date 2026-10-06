@@ -1,5 +1,5 @@
-style(animations): add smooth ease-in-out transitions across views
+style(mobile): optimize safe-area insets for notched mobile displays
 
-Enhance style with performance, visual, and UX polish [batch 4 extra step 12].
+Enhance mobile with performance, visual, and UX polish [batch 4 extra step 13].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
