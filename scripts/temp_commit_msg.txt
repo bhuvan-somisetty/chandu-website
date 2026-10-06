@@ -1,5 +1,5 @@
-style(mobile): optimize safe-area insets for notched mobile displays
+docs(readme): update arcade catalog to 22 games and 41 activities
 
-Enhance mobile with performance, visual, and UX polish [batch 4 extra step 13].
+Enhance docs with performance, visual, and UX polish [batch 4 extra step 14].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
