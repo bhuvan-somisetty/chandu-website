@@ -1,5 +1,5 @@
-style(holocard): calibrate gyroscope tilt responsiveness on tablets
+ui(holocard): add custom silver holographic frame preset
 
-Refactor and enhance holocard with performance, visual, and UX polish [batch 4 - step 47].
+Refactor and enhance holocard with performance, visual, and UX polish [batch 4 - step 48].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
