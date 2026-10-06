@@ -1,5 +1,5 @@
-style(hockey): add glowing neon trail behind fast-moving puck
+gameplay(darts): introduce golden bonus balloons with double score
 
-Refactor and enhance hockey with performance, visual, and UX polish [batch 4 - step 2].
+Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 3].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
