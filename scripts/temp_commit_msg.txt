@@ -1,5 +1,5 @@
-gameplay(tarot): refine module stability and polish styling parameters [sub-step 208]
+a11y(kalimba): refine module stability and polish styling parameters [sub-step 209]
 
-Enhance tarot with performance, visual, and UX polish [batch 5 step 218 of 256].
+Enhance kalimba with performance, visual, and UX polish [batch 5 step 219 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
