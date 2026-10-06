@@ -1,0 +1,5 @@
+refactor(froggy): adjust log float drift velocity for smoother hopping
+
+Enhance froggy with performance, visual, and UX polish [batch 5 step 11 of 256].
+
+Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
