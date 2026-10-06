@@ -1,5 +1,5 @@
-a11y(games): add keyboard navigation shortcuts across all arcade tabs
+a11y(screenreader): add live aria announcements for score updates
 
-Enhance a11y with performance, visual, and UX polish [batch 5 step 98 of 256].
+Enhance a11y with performance, visual, and UX polish [batch 5 step 99 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
