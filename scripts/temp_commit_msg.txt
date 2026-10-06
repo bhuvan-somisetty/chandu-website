@@ -1,5 +1,5 @@
-refactor(sketcher): improve brush stroke interpolation on high-DPI screens
+ui(vault): add golden lock icon toggle on memory unsealing
 
-Refactor and enhance sketcher with performance, visual, and UX polish [batch 4 - step 89].
+Refactor and enhance vault with performance, visual, and UX polish [batch 4 - step 90].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
