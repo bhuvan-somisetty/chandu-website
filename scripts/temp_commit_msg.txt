@@ -1,5 +1,5 @@
-style(scroll): add gilded gold leaf border engravings
+style(emoji): add playful squash and stretch animation on emoji click
 
-Refactor and enhance scroll with performance, visual, and UX polish [batch 4 - step 100].
+Refactor and enhance emoji with performance, visual, and UX polish [batch 4 - step 101].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
