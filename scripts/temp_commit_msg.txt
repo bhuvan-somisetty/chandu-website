@@ -1,5 +1,5 @@
-gameplay(stacker): add progressive pendulum swing speed acceleration
+style(stacker): add rainbow frosting sprinkle particle drops
 
-Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 9].
+Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 10].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
