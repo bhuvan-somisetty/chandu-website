@@ -1,5 +1,5 @@
-ui(meteors): add wish counter tally counter widget
+audio(meteors): add celestial sweep chime when wish is cast
 
-Enhance ui(meteors) with performance, visual, and UX polish [batch 5 step 74 of 256].
+Enhance audio(meteors) with performance, visual, and UX polish [batch 5 step 75 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
