@@ -1,5 +1,5 @@
-style(aura): add prismatic glow aura halo around scan sensor
+audio(jukebox): calibrate 8-bit square wave duty cycle modulation
 
-Refactor and enhance aura with performance, visual, and UX polish [batch 4 - step 98].
+Refactor and enhance jukebox with performance, visual, and UX polish [batch 4 - step 99].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
