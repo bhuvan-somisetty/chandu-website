@@ -1,5 +1,5 @@
-ui(ukulele): add Hawaiian song play-along tab selector
+audio(ukulele): fine-tune nylon string pluck attack transients
 
-Enhance ui(ukulele) with performance, visual, and UX polish [batch 5 step 43 of 256].
+Enhance audio(ukulele) with performance, visual, and UX polish [batch 5 step 44 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
