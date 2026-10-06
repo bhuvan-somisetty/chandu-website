@@ -1,5 +1,5 @@
-style(particles): add customizable confetti color palette picker
+audio(master): calibrate stereo channel balance on mobile speakers
 
-Refactor and enhance effects with performance, visual, and UX polish [batch 4 - step 133].
+Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 134].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
