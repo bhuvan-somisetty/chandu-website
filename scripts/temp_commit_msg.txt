@@ -1,5 +1,5 @@
-a11y(nebula): refine module stability and polish styling parameters [sub-step 202]
+docs(ukulele): refine module stability and polish styling parameters [sub-step 203]
 
-Enhance nebula with performance, visual, and UX polish [batch 5 step 212 of 256].
+Enhance ukulele with performance, visual, and UX polish [batch 5 step 213 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
