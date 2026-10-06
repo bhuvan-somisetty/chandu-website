@@ -1,5 +1,5 @@
-audio(laser): add crystal resonance chime upon laser alignment
+gameplay(laser): add optical prism beam splitting tile
 
-Enhance laser with performance, visual, and UX polish [batch 5 step 22 of 256].
+Enhance gameplay(laser) with performance, visual, and UX polish [batch 5 step 23 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
