@@ -1,5 +1,5 @@
-style(postcard): add vintage deckle-edge torn paper border effect
+feat(postcard): add wax seal stamp stamp customization
 
-Enhance postcard with performance, visual, and UX polish [batch 5 step 70 of 256].
+Enhance feat(postcard) with performance, visual, and UX polish [batch 5 step 71 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
