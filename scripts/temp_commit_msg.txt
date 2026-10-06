@@ -1,5 +1,5 @@
-audio(froggy): add playful cartoon croak on successful hop
+gameplay(froggy): add golden fly bonus collectable for extra score
 
-Enhance froggy with performance, visual, and UX polish [batch 5 step 13 of 256].
+Enhance gameplay(froggy) with performance, visual, and UX polish [batch 5 step 14 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
