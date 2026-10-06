@@ -1,5 +1,5 @@
-ui(tarot): add smooth 3D perspective flip on card reveal
+audio(kalimba): fine-tune steel tine acoustic overtone damping
 
-Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 6].
+Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 7].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
