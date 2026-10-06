@@ -1,5 +1,5 @@
-audio(darts): add bullseye fanfare tune upon 100+ points
+feat(tarot): add daily lucky number generator on card reveal
 
-Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 124].
+Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 125].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
