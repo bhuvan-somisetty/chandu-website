@@ -1,5 +1,5 @@
-feat(keepsake): build PostcardStudio vintage celebration postcard workshop
+feat(celestial): create MeteorShowerGarden night sky wish casting garden
 
-Add customizable retro birthday postcard with stamps, air mail cancellation marks, and print export.
+Build animated meteor shower canvas with starry background and interactive wish counters.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
