@@ -1,5 +1,5 @@
-ui(kalimba): add visual sound wave ripple on tine pluck
+ui(stacker): add celebratory height milestone badge popup
 
-Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 126].
+Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 127].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
