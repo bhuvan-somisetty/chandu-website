@@ -1,5 +1,5 @@
-style(dock): smoothen active tab pill spring physics
+ui(dock): add subtle haptic vibration trigger on tab switch
 
-Enhance dock with performance, visual, and UX polish [batch 5 step 86 of 256].
+Enhance dock with performance, visual, and UX polish [batch 5 step 87 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
