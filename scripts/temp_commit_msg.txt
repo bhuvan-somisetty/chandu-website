@@ -1,0 +1,5 @@
+feat(games): implement BirthdayAirHockey 2D neon arcade sports minigame
+
+Add interactive air hockey rink with physics, puck collisions, AI paddle tracking, and goal detectors.
+
+Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

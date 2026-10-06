@@ -18,12 +18,18 @@ import BirthdayBreakout from '../components/games/BirthdayBreakout';
 import StarWishCatcher from '../components/games/StarWishCatcher';
 import PinataBash from '../components/games/PinataBash';
 import CyberHighwayRacer from '../components/games/CyberHighwayRacer';
+import BirthdayAirHockey from '../components/games/BirthdayAirHockey';
+import DartBalloonTarget from '../components/games/DartBalloonTarget';
+import CupcakeTowerStacker from '../components/games/CupcakeTowerStacker';
 import { playPop } from '../utils/audioSynth';
 
 export default function GamesPage() {
-  const [activeTab, setActiveTab] = useState('pinata');
+  const [activeTab, setActiveTab] = useState('airhockey');
 
   const tabs = [
+    { id: 'airhockey', label: 'Air Hockey 🏓', component: BirthdayAirHockey },
+    { id: 'darts', label: 'Dart Target 🎯', component: DartBalloonTarget },
+    { id: 'stacker', label: 'Cupcake Stacker 🧁', component: CupcakeTowerStacker },
     { id: 'pinata', label: 'Pinata Bash 🪅', component: PinataBash },
     { id: 'cyberracer', label: 'Highway Racer 🏎️', component: CyberHighwayRacer },
     { id: 'breakout', label: 'Brick Breakout 🏓', component: BirthdayBreakout },
@@ -45,13 +51,13 @@ export default function GamesPage() {
     { id: 'piano', label: 'Chime Piano 🎹', component: ChimePiano }
   ];
 
-  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || PinataBash;
+  const CurrentGame = tabs.find(t => t.id === activeTab)?.component || BirthdayAirHockey;
 
   return (
     <div className="pt-24 pb-20 px-4 max-w-5xl mx-auto">
       <div className="text-center mb-8">
         <h1 className="text-4xl font-extrabold text-white mb-2">Birthday Games Arcade 🎮</h1>
-        <p className="text-sm text-white/70">Play 19 interactive arcade mini-games, earn points, and unlock achievements!</p>
+        <p className="text-sm text-white/70">Play 22 interactive arcade mini-games, earn points, and unlock achievements!</p>
       </div>
 
       <div className="flex justify-center gap-2 mb-8 flex-wrap">
