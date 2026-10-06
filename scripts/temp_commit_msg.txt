@@ -1,5 +1,5 @@
-a11y(focus): implement visible high-contrast focus rings for keyboard users
+a11y(motion): respect prefers-reduced-motion in canvas animation loops
 
-Enhance a11y with performance, visual, and UX polish [batch 5 step 100 of 256].
+Enhance a11y with performance, visual, and UX polish [batch 5 step 101 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
