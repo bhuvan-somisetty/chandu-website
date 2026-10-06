@@ -1,5 +1,5 @@
-audio(ringtoss): add festive bell dings upon high-value bottle ring
+ui(ringtoss): add trajectory path dashed arc preview guide
 
-Enhance audio(ringtoss) with performance, visual, and UX polish [batch 5 step 33 of 256].
+Enhance ui(ringtoss) with performance, visual, and UX polish [batch 5 step 34 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
