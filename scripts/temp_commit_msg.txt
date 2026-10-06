@@ -1,5 +1,5 @@
-audio(synth): enhance stereo panner node support for surround sound effects
+audio(synth): add low-pass biquad filter for cozy lofi warmth
 
-Enhance audio with performance, visual, and UX polish [batch 5 step 107 of 256].
+Enhance audio with performance, visual, and UX polish [batch 5 step 108 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
