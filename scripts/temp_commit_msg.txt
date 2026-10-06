@@ -1,5 +1,5 @@
-a11y(kalimba): refine module stability and polish styling parameters [sub-step 153]
+docs(postcard): refine module stability and polish styling parameters [sub-step 154]
 
-Enhance kalimba with performance, visual, and UX polish [batch 5 step 163 of 256].
+Enhance postcard with performance, visual, and UX polish [batch 5 step 164 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
