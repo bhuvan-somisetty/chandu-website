@@ -1,5 +1,5 @@
-feat(tarot): add daily lucky number generator on card reveal
+ui(kalimba): add visual sound wave ripple on tine pluck
 
-Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 125].
+Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 126].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
