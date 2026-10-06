@@ -1,5 +1,5 @@
-ui(envelope): refine module stability and polish styling parameters [sub-step 136]
+audio(wishjar): refine module stability and polish styling parameters [sub-step 137]
 
-Enhance envelope with performance, visual, and UX polish [batch 5 step 146 of 256].
+Enhance wishjar with performance, visual, and UX polish [batch 5 step 147 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
