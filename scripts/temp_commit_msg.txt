@@ -1,5 +1,5 @@
-audio(harp): add reverb space acoustic simulation
+feat(lasers): add multi-colored strobe laser fan preset
 
-Refactor and enhance harp with performance, visual, and UX polish [batch 4 - step 84].
+Refactor and enhance lasers with performance, visual, and UX polish [batch 4 - step 85].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
