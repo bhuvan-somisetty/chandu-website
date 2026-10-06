@@ -1,5 +1,5 @@
-audio(hockey): add goal celebration cheer sound effect
+audio(darts): add bullseye fanfare tune upon 100+ points
 
-Refactor and enhance hockey with performance, visual, and UX polish [batch 4 - step 123].
+Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 124].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
