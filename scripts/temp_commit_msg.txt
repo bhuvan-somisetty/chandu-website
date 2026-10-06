@@ -1,5 +1,5 @@
-audio(rhythm): calibrate sync latency offset for audio beat cues
+style(rhythm): add neon glow halo effect around perfect timing hits
 
-Enhance rhythm with performance, visual, and UX polish [batch 5 step 16 of 256].
+Enhance rhythm with performance, visual, and UX polish [batch 5 step 17 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
