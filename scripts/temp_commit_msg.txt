@@ -1,5 +1,5 @@
-style(meteors): add glowing incandescent ionization trails
+ui(meteors): add wish counter tally counter widget
 
-Enhance meteors with performance, visual, and UX polish [batch 5 step 73 of 256].
+Enhance ui(meteors) with performance, visual, and UX polish [batch 5 step 74 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
