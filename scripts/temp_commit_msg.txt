@@ -1,5 +1,5 @@
-audio(zen): refine module stability and polish styling parameters [sub-step 200]
+gameplay(ringtoss): refine module stability and polish styling parameters [sub-step 201]
 
-Enhance zen with performance, visual, and UX polish [batch 5 step 210 of 256].
+Enhance ringtoss with performance, visual, and UX polish [batch 5 step 211 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
