@@ -1,5 +1,5 @@
-style(photobooth): enhance snapshot shutter flash animation
+feat(fireworks): add willow cascade gold fireworks preset
 
-Refactor and enhance photobooth with performance, visual, and UX polish [batch 4 - step 40].
+Refactor and enhance fireworks with performance, visual, and UX polish [batch 4 - step 41].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
