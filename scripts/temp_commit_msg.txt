@@ -1,5 +1,5 @@
-feat(audio): build KalimbaPlayer acoustic thumb piano with resonant steel tines
+feat(games): create CupcakeTowerStacker physics tower stacking mini-game
 
-Implement interactive wooden kalimba with authentic Web Audio steel tine harmonics.
+Build swinging cupcake drop physics with overlap detection and milestone tower height records.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
