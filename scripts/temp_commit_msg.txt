@@ -1,5 +1,5 @@
-perf(touch): add passive touch listeners to eliminate scroll blocking
+style(mobile): tune responsive font sizes on compact viewports
 
-Enhance mobile with performance, visual, and UX polish [batch 5 step 105 of 256].
+Enhance mobile with performance, visual, and UX polish [batch 5 step 106 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
