@@ -1,5 +1,5 @@
-a11y(navbar): add aria-current attribute for active route links
+style(dock): smoothen active tab pill spring physics
 
-Enhance navbar with performance, visual, and UX polish [batch 5 step 85 of 256].
+Enhance dock with performance, visual, and UX polish [batch 5 step 86 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
