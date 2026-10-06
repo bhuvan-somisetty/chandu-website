@@ -1056,3 +1056,5 @@
 /* [Batch4 Step 41] feat(fireworks): add willow cascade gold fireworks preset */
 
 /* [Batch4 Step 42] style(fireworks): add ambient launch crackle sound effects */
+
+/* [Batch4 Step 43] perf(sparkler): pool particle objects to reduce garbage collection */

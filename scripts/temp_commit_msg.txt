@@ -1,5 +1,5 @@
-style(fireworks): add ambient launch crackle sound effects
+perf(sparkler): pool particle objects to reduce garbage collection
 
-Refactor and enhance fireworks with performance, visual, and UX polish [batch 4 - step 42].
+Refactor and enhance sparkler with performance, visual, and UX polish [batch 4 - step 43].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
