@@ -1,5 +1,5 @@
-perf(meteors): refine module stability and polish styling parameters [sub-step 239]
+style(fireworks): refine module stability and polish styling parameters [sub-step 240]
 
-Enhance meteors with performance, visual, and UX polish [batch 5 step 249 of 256].
+Enhance fireworks with performance, visual, and UX polish [batch 5 step 250 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
