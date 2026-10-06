@@ -1,5 +1,5 @@
-gameplay(ringtoss): award golden ring on triple bottle streak
+style(nebula): add cosmic dust dispersion particle density slider
 
-Enhance gameplay(ringtoss) with performance, visual, and UX polish [batch 5 step 35 of 256].
+Enhance nebula with performance, visual, and UX polish [batch 5 step 36 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
