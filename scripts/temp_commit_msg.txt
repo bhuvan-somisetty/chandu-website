@@ -1,5 +1,5 @@
-style(mobile): prevent horizontal rubber-banding on iOS Safari
+style(mobile): optimize touch target padding for smaller touchscreens
 
-Enhance mobile with performance, visual, and UX polish [batch 5 step 102 of 256].
+Enhance mobile with performance, visual, and UX polish [batch 5 step 103 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>

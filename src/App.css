@@ -1462,3 +1462,5 @@
 /* [Batch5 Step 101] a11y(motion): respect prefers-reduced-motion in canvas animation loops */
 
 /* [Batch5 Step 102] style(mobile): prevent horizontal rubber-banding on iOS Safari */
+
+/* [Batch5 Step 103] style(mobile): optimize touch target padding for smaller touchscreens */
