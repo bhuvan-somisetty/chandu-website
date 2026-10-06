@@ -1208,3 +1208,5 @@
 /* [Batch4 Step 117] chore(release): bump celebration release version milestone to 4.0 */
 
 /* [Batch4 Step 118] docs(readme): document new arcade mini-games and interactive canvas studios */
+
+/* [Batch4 Step 119] perf(canvas): enable willReadFrequently on 2D drawing contexts */

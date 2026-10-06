@@ -1,5 +1,5 @@
-docs(readme): document new arcade mini-games and interactive canvas studios
+perf(canvas): enable willReadFrequently on 2D drawing contexts
 
-Refactor and enhance docs with performance, visual, and UX polish [batch 4 - step 118].
+Refactor and enhance performance with performance, visual, and UX polish [batch 4 - step 119].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
