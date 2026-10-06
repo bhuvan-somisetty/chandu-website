@@ -1,5 +1,5 @@
-feat(postcard): add wax seal stamp stamp customization
+ui(postcard): add airmail red-blue diagonal border trim
 
-Enhance feat(postcard) with performance, visual, and UX polish [batch 5 step 71 of 256].
+Enhance ui(postcard) with performance, visual, and UX polish [batch 5 step 72 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
