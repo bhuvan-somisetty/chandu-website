@@ -1,5 +1,5 @@
-ui(laser): refine module stability and polish styling parameters [sub-step 171]
+audio(zen): refine module stability and polish styling parameters [sub-step 172]
 
-Enhance laser with performance, visual, and UX polish [batch 5 step 181 of 256].
+Enhance zen with performance, visual, and UX polish [batch 5 step 182 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
