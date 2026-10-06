@@ -1,5 +1,5 @@
-perf(rhythm): pool note elements to eliminate micro-stutter
+style(laser): add glowing pulse laser beam core particle shader
 
-Enhance perf(rhythm) with performance, visual, and UX polish [batch 5 step 20 of 256].
+Enhance laser with performance, visual, and UX polish [batch 5 step 21 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
