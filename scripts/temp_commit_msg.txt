@@ -1,5 +1,5 @@
-gameplay(starfield): refine module stability and polish styling parameters [sub-step 243]
+a11y(crystal): refine module stability and polish styling parameters [sub-step 244]
 
-Enhance starfield with performance, visual, and UX polish [batch 5 step 253 of 256].
+Enhance crystal with performance, visual, and UX polish [batch 5 step 254 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
