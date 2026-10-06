@@ -1,5 +1,5 @@
-style(darts): add balloon latex shine highlight reflection
+audio(darts): add snappy rubber pop sound variation
 
-Enhance style(darts) with performance, visual, and UX polish [batch 5 step 56 of 256].
+Enhance audio(darts) with performance, visual, and UX polish [batch 5 step 57 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
