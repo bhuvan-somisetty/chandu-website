@@ -1,5 +1,5 @@
-feat(starcatcher): add rare golden comet spawning chance (+50 pts)
+style(certificate): add vintage parchment border ornament
 
-Refactor and enhance starcatcher with performance, visual, and UX polish [batch 4 - step 93].
+Refactor and enhance certificate with performance, visual, and UX polish [batch 4 - step 94].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
