@@ -1,5 +1,5 @@
-ui(activitiespage): add category sections (Creative, Audio, Keepsake)
+style(activitiespage): add smooth cross-fade transition between tabs
 
-Enhance activitiespage with performance, visual, and UX polish [batch 5 step 94 of 256].
+Enhance activitiespage with performance, visual, and UX polish [batch 5 step 95 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
