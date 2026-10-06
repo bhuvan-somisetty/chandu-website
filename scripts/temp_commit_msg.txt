@@ -1,5 +1,5 @@
-ui(navbar): add pulsing live counter for 22 games and 41 activities
+style(dock): smoothen touch spring animation on mobile dock
 
-Refactor and enhance navbar with performance, visual, and UX polish [batch 4 - step 22].
+Refactor and enhance dock with performance, visual, and UX polish [batch 4 - step 23].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
