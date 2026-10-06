@@ -1,5 +1,5 @@
-gameplay(mysterybox): introduce secret ancient rune clue parchment
+style(mysterybox): add mystical gold glow emanations upon box opening
 
-Enhance gameplay(mysterybox) with performance, visual, and UX polish [batch 5 step 48 of 256].
+Enhance style(mysterybox) with performance, visual, and UX polish [batch 5 step 49 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
