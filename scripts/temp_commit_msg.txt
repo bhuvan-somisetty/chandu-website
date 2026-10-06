@@ -1,5 +1,5 @@
-style(hockey): add glowing neon rink corner bumpers
+gameplay(hockey): add sudden death overtime mode on tie
 
-Enhance style(hockey) with performance, visual, and UX polish [batch 5 step 53 of 256].
+Enhance gameplay(hockey) with performance, visual, and UX polish [batch 5 step 54 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
