@@ -1,5 +1,5 @@
-physics(hockey): adjust puck table edge friction coefficient
+audio(hockey): add crisp acrylic mallet puck strike sample
 
-Enhance hockey with performance, visual, and UX polish [batch 5 step 51 of 256].
+Enhance audio(hockey) with performance, visual, and UX polish [batch 5 step 52 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
