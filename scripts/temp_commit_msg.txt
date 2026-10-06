@@ -1,5 +1,5 @@
-gameplay(breakout): add dynamic ball speed acceleration per brick hit
+audio(drumkit): calibrate stereo panning on hi-hat and cymbal pads
 
-Refactor and enhance breakout with performance, visual, and UX polish [batch 4 - step 91].
+Refactor and enhance drumkit with performance, visual, and UX polish [batch 4 - step 92].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
