@@ -1,5 +1,5 @@
-ui(stacker): add celebratory height milestone badge popup
+feat(postcard): add handwritten calligraphy font option
 
-Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 127].
+Refactor and enhance postcard with performance, visual, and UX polish [batch 4 - step 128].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
