@@ -1,5 +1,5 @@
-gameplay(hockey): add sudden death overtime mode on tie
+physics(darts): refine dart trajectory flight gravity drop
 
-Enhance gameplay(hockey) with performance, visual, and UX polish [batch 5 step 54 of 256].
+Enhance darts with performance, visual, and UX polish [batch 5 step 55 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
