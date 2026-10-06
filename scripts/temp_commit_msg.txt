@@ -1,5 +1,5 @@
-ui(theme): add electric cyber sunset color scheme
+a11y(hockey): add screen-reader live region for score updates
 
-Refactor and enhance theme with performance, visual, and UX polish [batch 4 - step 16].
+Refactor and enhance a11y with performance, visual, and UX polish [batch 4 - step 17].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
