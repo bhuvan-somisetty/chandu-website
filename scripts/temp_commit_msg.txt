@@ -1,5 +1,5 @@
-feat(games): incorporate Air Hockey, Dart Target, and Cupcake Stacker into GamesPage
+feat(activities): incorporate Tarot, Kalimba, Postcard Studio, and Meteor Garden into ActivitiesPage
 
-Expand arcade suite to 22 full-featured interactive celebration mini-games.
+Expand creative celebration suite to 41 interactive studios and activities.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
