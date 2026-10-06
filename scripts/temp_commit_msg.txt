@@ -1,5 +1,5 @@
-a11y(darts): ensure target buttons have high-contrast focus rings
+perf(synth): optimize oscillator garbage collection timing
 
-Refactor and enhance a11y with performance, visual, and UX polish [batch 4 - step 18].
+Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 19].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
