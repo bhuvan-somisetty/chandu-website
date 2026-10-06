@@ -1476,3 +1476,5 @@
 /* [Batch5 Step 108] audio(synth): add low-pass biquad filter for cozy lofi warmth */
 
 /* [Batch5 Step 109] audio(synth): implement exponential volume fader for click-free stops */
+
+/* [Batch5 Step 110] audio(synth): add global mute toggle persistence in local storage */

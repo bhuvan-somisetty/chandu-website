@@ -1,5 +1,5 @@
-audio(synth): implement exponential volume fader for click-free stops
+audio(synth): add global mute toggle persistence in local storage
 
-Enhance audio with performance, visual, and UX polish [batch 5 step 109 of 256].
+Enhance audio with performance, visual, and UX polish [batch 5 step 110 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
