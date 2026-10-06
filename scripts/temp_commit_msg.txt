@@ -1,5 +1,5 @@
-perf(nebula): optimize radial gradient caching on starfield canvas
+ui(nebula): add constellation overlay connecting bright stars
 
-Enhance perf(nebula) with performance, visual, and UX polish [batch 5 step 37 of 256].
+Enhance ui(nebula) with performance, visual, and UX polish [batch 5 step 38 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
