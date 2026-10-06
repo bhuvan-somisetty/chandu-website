@@ -1,5 +1,5 @@
-style(sparkler): refine module stability and polish styling parameters [sub-step 135]
+ui(envelope): refine module stability and polish styling parameters [sub-step 136]
 
-Enhance sparkler with performance, visual, and UX polish [batch 5 step 145 of 256].
+Enhance envelope with performance, visual, and UX polish [batch 5 step 146 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
