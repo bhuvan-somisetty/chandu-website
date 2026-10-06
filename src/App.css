@@ -1234,3 +1234,5 @@
 /* [Batch4 Step 130] perf(chunks): configure manualChunks for three-tier game splitting */
 
 /* [Batch4 Step 131] style(typography): optimize webfont loading strategy with swap display */
+
+/* [Batch4 Step 132] perf(canvas): throttle high-frequency touchmove listeners */

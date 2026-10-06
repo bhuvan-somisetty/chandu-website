@@ -1,5 +1,5 @@
-style(typography): optimize webfont loading strategy with swap display
+perf(canvas): throttle high-frequency touchmove listeners
 
-Refactor and enhance fonts with performance, visual, and UX polish [batch 4 - step 131].
+Refactor and enhance canvas with performance, visual, and UX polish [batch 4 - step 132].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
