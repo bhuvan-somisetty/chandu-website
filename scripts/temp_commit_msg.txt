@@ -1,5 +1,5 @@
-ui(hero): add quick launch CTA to latest arcade additions
+style(footer): enhance glassmorphic footer card border gradient
 
-Refactor and enhance hero with performance, visual, and UX polish [batch 4 - step 30].
+Refactor and enhance footer with performance, visual, and UX polish [batch 4 - step 31].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
