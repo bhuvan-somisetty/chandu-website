@@ -1,5 +1,5 @@
-style(ukulele): add pearloid rosette inlay around ukulele soundhole
+ui(ukulele): add Hawaiian song play-along tab selector
 
-Enhance style(ukulele) with performance, visual, and UX polish [batch 5 step 42 of 256].
+Enhance ui(ukulele) with performance, visual, and UX polish [batch 5 step 43 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
