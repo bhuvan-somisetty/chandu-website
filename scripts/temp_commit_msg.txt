@@ -1,5 +1,5 @@
-feat(meteors): add golden shooting star wish powerup
+perf(chunks): configure manualChunks for three-tier game splitting
 
-Refactor and enhance meteors with performance, visual, and UX polish [batch 4 - step 129].
+Refactor and enhance bundle with performance, visual, and UX polish [batch 4 - step 130].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
