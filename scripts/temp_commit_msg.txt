@@ -1,5 +1,5 @@
-ui(navbar): update arcade game counter badge to 27
+ui(navbar): update activities counter badge to 44
 
-Enhance navbar with performance, visual, and UX polish [batch 5 step 83 of 256].
+Enhance navbar with performance, visual, and UX polish [batch 5 step 84 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
