@@ -1,5 +1,5 @@
-style(css): add custom glassmorphic utility classes
+audio(synth): add low-frequency drone for atmospheric backdrop
 
-Refactor and enhance css with performance, visual, and UX polish [batch 4 - step 107].
+Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 108].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
