@@ -1,5 +1,5 @@
-style(theme): add royal emerald celebration color accent
+style(theme): add cyber neon magenta glow utility classes
 
-Enhance theme with performance, visual, and UX polish [batch 5 step 80 of 256].
+Enhance theme with performance, visual, and UX polish [batch 5 step 81 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
