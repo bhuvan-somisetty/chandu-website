@@ -1,5 +1,5 @@
-a11y(zodiac): refine module stability and polish styling parameters [sub-step 223]
+docs(bingo): refine module stability and polish styling parameters [sub-step 224]
 
-Enhance zodiac with performance, visual, and UX polish [batch 5 step 233 of 256].
+Enhance bingo with performance, visual, and UX polish [batch 5 step 234 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
