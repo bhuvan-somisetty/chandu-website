@@ -1,5 +1,5 @@
-style(froggy): add lily pad goal finish line decoration
+audio(rhythm): calibrate sync latency offset for audio beat cues
 
-Enhance style(froggy) with performance, visual, and UX polish [batch 5 step 15 of 256].
+Enhance rhythm with performance, visual, and UX polish [batch 5 step 16 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
