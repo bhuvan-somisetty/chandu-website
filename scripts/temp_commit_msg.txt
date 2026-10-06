@@ -1,5 +1,5 @@
-audio(drumkit): calibrate stereo panning on hi-hat and cymbal pads
+feat(starcatcher): add rare golden comet spawning chance (+50 pts)
 
-Refactor and enhance drumkit with performance, visual, and UX polish [batch 4 - step 92].
+Refactor and enhance starcatcher with performance, visual, and UX polish [batch 4 - step 93].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
