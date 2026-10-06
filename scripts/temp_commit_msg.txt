@@ -1,5 +1,5 @@
-a11y(hockey): add screen-reader live region for score updates
+a11y(darts): ensure target buttons have high-contrast focus rings
 
-Refactor and enhance a11y with performance, visual, and UX polish [batch 4 - step 17].
+Refactor and enhance a11y with performance, visual, and UX polish [batch 4 - step 18].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
