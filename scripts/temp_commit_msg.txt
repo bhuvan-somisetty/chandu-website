@@ -1,5 +1,5 @@
-gameplay(space): add shield bubble powerup item
+style(leaderboard): add animated rank progress indicator
 
-Refactor and enhance space with performance, visual, and UX polish [batch 4 - step 87].
+Refactor and enhance leaderboard with performance, visual, and UX polish [batch 4 - step 88].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
