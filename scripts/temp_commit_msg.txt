@@ -1,5 +1,5 @@
-feat(nebula): preserve transparent alpha background option on export
+audio(ukulele): add koa wood acoustic body soundbox resonance filter
 
-Enhance export(nebula) with performance, visual, and UX polish [batch 5 step 40 of 256].
+Enhance ukulele with performance, visual, and UX polish [batch 5 step 41 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
