@@ -1,5 +1,5 @@
-audio(ukulele): fine-tune nylon string pluck attack transients
+style(ukulele): add brass fret marker dots along the fingerboard
 
-Enhance audio(ukulele) with performance, visual, and UX polish [batch 5 step 44 of 256].
+Enhance style(ukulele) with performance, visual, and UX polish [batch 5 step 45 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
