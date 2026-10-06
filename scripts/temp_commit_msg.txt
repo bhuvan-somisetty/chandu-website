@@ -1,5 +1,5 @@
-style(animations): add shimmer-slide keyframe for gold foil cards
+style(animations): add float-gentle keyframe for celebratory balloons
 
-Enhance anim with performance, visual, and UX polish [batch 5 step 112 of 256].
+Enhance anim with performance, visual, and UX polish [batch 5 step 113 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
