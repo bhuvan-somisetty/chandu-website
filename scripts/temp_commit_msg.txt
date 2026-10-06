@@ -1,5 +1,5 @@
-feat(activities): incorporate Tarot, Kalimba, Postcard Studio, and Meteor Garden into ActivitiesPage
+refactor(hockey): smooth AI paddle tracking velocity curve
 
-Expand creative celebration suite to 41 interactive studios and activities.
+Refactor and enhance hockey with performance, visual, and UX polish [batch 4 - step 1].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
