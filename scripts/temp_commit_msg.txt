@@ -1,5 +1,5 @@
-audio(synth): add global mute toggle persistence in local storage
+audio(synth): calibrate master limiter to prevent digital clipping
 
-Enhance audio with performance, visual, and UX polish [batch 5 step 110 of 256].
+Enhance audio with performance, visual, and UX polish [batch 5 step 111 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
