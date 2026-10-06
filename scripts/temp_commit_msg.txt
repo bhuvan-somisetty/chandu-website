@@ -1,5 +1,5 @@
-perf(chunks): configure manualChunks for three-tier game splitting
+style(typography): optimize webfont loading strategy with swap display
 
-Refactor and enhance bundle with performance, visual, and UX polish [batch 4 - step 130].
+Refactor and enhance fonts with performance, visual, and UX polish [batch 4 - step 131].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
