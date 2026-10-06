@@ -1,5 +1,5 @@
-audio(master): calibrate stereo channel balance on mobile speakers
+chore(security): sanitize all user postcard inputs against XSS
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 134].
+Refactor and enhance security with performance, visual, and UX polish [batch 4 - step 135].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
