@@ -1,5 +1,5 @@
-gameplay(darts): introduce golden bonus balloons with double score
+style(darts): add bullseye target reticle on cursor hover
 
-Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 3].
+Refactor and enhance darts with performance, visual, and UX polish [batch 4 - step 4].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
