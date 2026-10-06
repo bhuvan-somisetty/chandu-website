@@ -1,5 +1,5 @@
-ui(tarot): add celestial aura constellation particle aura on card hover
+audio(tarot): add mystical bell resonance on card flip reveal
 
-Enhance ui(tarot) with performance, visual, and UX polish [batch 5 step 64 of 256].
+Enhance audio(tarot) with performance, visual, and UX polish [batch 5 step 65 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
