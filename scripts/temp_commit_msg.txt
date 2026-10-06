@@ -1,5 +1,5 @@
-style(animations): add pulse-glow keyframe for victory badges
+style(animations): add ripple-spread keyframe for pond and sand raker
 
-Enhance anim with performance, visual, and UX polish [batch 5 step 114 of 256].
+Enhance anim with performance, visual, and UX polish [batch 5 step 115 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
