@@ -1,5 +1,0 @@
-chore(release): finalize celebrate 2026 fourth edition milestone
-
-Enhance release with performance, visual, and UX polish [batch 4 extra step 15].
-
-Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
