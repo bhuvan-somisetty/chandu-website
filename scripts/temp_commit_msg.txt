@@ -1,5 +1,5 @@
-style(nebula): introduce Supernova Rose multi-spectral color blend
+feat(nebula): preserve transparent alpha background option on export
 
-Enhance style(nebula) with performance, visual, and UX polish [batch 5 step 39 of 256].
+Enhance export(nebula) with performance, visual, and UX polish [batch 5 step 40 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
