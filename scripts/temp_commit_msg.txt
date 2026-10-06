@@ -1,5 +1,5 @@
-audio(kalimba): fine-tune steel tine acoustic overtone damping
+style(kalimba): add authentic wood grain texture to kalimba soundboard
 
-Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 7].
+Refactor and enhance kalimba with performance, visual, and UX polish [batch 4 - step 8].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
