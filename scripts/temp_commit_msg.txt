@@ -1,5 +1,5 @@
-feat(polaroids): add handwritten caption editing support
+feat(cardcreator): add instant PNG download via HTML5 canvas export
 
-Refactor and enhance polaroids with performance, visual, and UX polish [batch 4 - step 60].
+Refactor and enhance cardcreator with performance, visual, and UX polish [batch 4 - step 61].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
