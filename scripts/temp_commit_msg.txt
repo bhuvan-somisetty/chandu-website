@@ -1,5 +1,5 @@
-style(froggy): add water ripple animations under floating cake rafts
+audio(froggy): add playful cartoon croak on successful hop
 
-Enhance froggy with performance, visual, and UX polish [batch 5 step 12 of 256].
+Enhance froggy with performance, visual, and UX polish [batch 5 step 13 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
