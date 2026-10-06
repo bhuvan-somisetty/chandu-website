@@ -1,5 +1,5 @@
-chore(complete): finalize 4th batch celebration milestone suite
+gameplay(hockey): add difficulty mode selector (Easy, Normal, Pro)
 
-Refactor and enhance finish with performance, visual, and UX polish [batch 4 - step 138].
+Enhance hockey with performance, visual, and UX polish [batch 4 extra step 1].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
