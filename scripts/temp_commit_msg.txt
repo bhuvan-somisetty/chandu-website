@@ -1,5 +1,5 @@
-style(wheel): smoothen rotational deceleration physics
+gameplay(catcher): add golden cupcake bonus multipliers
 
-Refactor and enhance wheel with performance, visual, and UX polish [batch 4 - step 71].
+Refactor and enhance catcher with performance, visual, and UX polish [batch 4 - step 72].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
