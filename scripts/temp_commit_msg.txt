@@ -1,5 +1,5 @@
-style(tarot): add iridescent purple foil sheen on card backs
+ui(tarot): add smooth 3D perspective flip on card reveal
 
-Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 5].
+Refactor and enhance tarot with performance, visual, and UX polish [batch 4 - step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
