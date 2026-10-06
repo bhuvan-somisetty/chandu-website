@@ -1,5 +1,5 @@
-audio(ukulele): add koa wood acoustic body soundbox resonance filter
+style(ukulele): add pearloid rosette inlay around ukulele soundhole
 
-Enhance ukulele with performance, visual, and UX polish [batch 5 step 41 of 256].
+Enhance style(ukulele) with performance, visual, and UX polish [batch 5 step 42 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
