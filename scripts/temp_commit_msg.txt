@@ -1,5 +1,5 @@
-gameplay(stacker): add cherry topping on top tier cupcake
+style(postcard): add realistic aged paper texture filter
 
-Enhance stacker with performance, visual, and UX polish [batch 4 extra step 5].
+Enhance postcard with performance, visual, and UX polish [batch 4 extra step 6].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
