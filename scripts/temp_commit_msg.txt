@@ -1,5 +1,5 @@
-perf(meteors): pool canvas meteor particle objects
+style(meteors): add glowing tail fade gradient on falling stars
 
-Refactor and enhance meteors with performance, visual, and UX polish [batch 4 - step 13].
+Refactor and enhance meteors with performance, visual, and UX polish [batch 4 - step 14].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
