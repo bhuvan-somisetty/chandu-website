@@ -1,5 +1,5 @@
-perf(canvas): enable willReadFrequently on 2D drawing contexts
+style(theme): enhance sapphire crystal theme gradient saturation
 
-Refactor and enhance performance with performance, visual, and UX polish [batch 4 - step 119].
+Refactor and enhance theme with performance, visual, and UX polish [batch 4 - step 120].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
