@@ -1,5 +1,5 @@
-style(leaderboard): add animated rank progress indicator
+refactor(sketcher): improve brush stroke interpolation on high-DPI screens
 
-Refactor and enhance leaderboard with performance, visual, and UX polish [batch 4 - step 88].
+Refactor and enhance sketcher with performance, visual, and UX polish [batch 4 - step 89].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
