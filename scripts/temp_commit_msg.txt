@@ -1,5 +1,5 @@
-style(constellation): glow connecting lines on star hover
+feat(constellation): add zodiac constellation mythology tooltips
 
-Refactor and enhance constellation with performance, visual, and UX polish [batch 4 - step 57].
+Refactor and enhance constellation with performance, visual, and UX polish [batch 4 - step 58].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
