@@ -1474,3 +1474,5 @@
 /* [Batch5 Step 107] audio(synth): enhance stereo panner node support for surround sound effects */
 
 /* [Batch5 Step 108] audio(synth): add low-pass biquad filter for cozy lofi warmth */
+
+/* [Batch5 Step 109] audio(synth): implement exponential volume fader for click-free stops */

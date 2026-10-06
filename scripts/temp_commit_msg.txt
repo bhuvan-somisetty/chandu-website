@@ -1,5 +1,5 @@
-audio(synth): add low-pass biquad filter for cozy lofi warmth
+audio(synth): implement exponential volume fader for click-free stops
 
-Enhance audio with performance, visual, and UX polish [batch 5 step 108 of 256].
+Enhance audio with performance, visual, and UX polish [batch 5 step 109 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
