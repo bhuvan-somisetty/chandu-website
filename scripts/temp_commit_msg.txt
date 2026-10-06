@@ -1,5 +1,5 @@
-style(stacker): add rainbow frosting sprinkle particle drops
+style(postcard): add vintage postal cancellation stamp seal
 
-Refactor and enhance stacker with performance, visual, and UX polish [batch 4 - step 10].
+Refactor and enhance postcard with performance, visual, and UX polish [batch 4 - step 11].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
