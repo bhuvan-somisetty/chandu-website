@@ -1,5 +1,5 @@
-ui(speech): add animated talking mouth avatar visualizer
+style(constellation): glow connecting lines on star hover
 
-Refactor and enhance speech with performance, visual, and UX polish [batch 4 - step 56].
+Refactor and enhance constellation with performance, visual, and UX polish [batch 4 - step 57].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
