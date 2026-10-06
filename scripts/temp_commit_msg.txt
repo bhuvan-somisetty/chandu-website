@@ -1,5 +1,5 @@
-feat(games): build DartBalloonTarget carnival target shooting game
+feat(oracle): build CosmicTarotReader interactive celestial card deck
 
-Implement balloon shooting gallery with floating targets, dart projectile physics, and combo multipliers.
+Add 3D flipping astral tarot cards with personalized celebration prophecies and aura readings.
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
