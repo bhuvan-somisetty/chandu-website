@@ -1,5 +1,5 @@
-ui(orbit): add Saturn ring tilt rendering
+refactor(pinata): add elastic pendulum swing damping curve
 
-Refactor and enhance orbit with performance, visual, and UX polish [batch 4 - step 95].
+Refactor and enhance pinata with performance, visual, and UX polish [batch 4 - step 96].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
