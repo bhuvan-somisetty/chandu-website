@@ -1,5 +1,5 @@
-physics(ringtoss): refine bottle lip rim bounce physics
+style(ringtoss): add carnival fairground striped tent banner
 
-Enhance ringtoss with performance, visual, and UX polish [batch 5 step 31 of 256].
+Enhance style(ringtoss) with performance, visual, and UX polish [batch 5 step 32 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
