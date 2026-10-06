@@ -1,5 +1,5 @@
-audio(zen): synthesize soothing bamboo water fountain (shishi-odoshi)
+ui(zen): add cherry blossom petal scatter preset
 
-Enhance audio(zen) with performance, visual, and UX polish [batch 5 step 27 of 256].
+Enhance ui(zen) with performance, visual, and UX polish [batch 5 step 28 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
