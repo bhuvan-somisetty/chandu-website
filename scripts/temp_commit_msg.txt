@@ -1,5 +1,5 @@
-style(sparkler): increase golden ember dispersion trails
+style(timemachine): enhance warp speed time vortex particle tunnel
 
-Refactor and enhance sparkler with performance, visual, and UX polish [batch 4 - step 44].
+Refactor and enhance timemachine with performance, visual, and UX polish [batch 4 - step 45].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
