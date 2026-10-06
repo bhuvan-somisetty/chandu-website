@@ -1,5 +1,5 @@
-perf(lofi): refine module stability and polish styling parameters [sub-step 162]
+style(sparkler): refine module stability and polish styling parameters [sub-step 163]
 
-Enhance lofi with performance, visual, and UX polish [batch 5 step 172 of 256].
+Enhance sparkler with performance, visual, and UX polish [batch 5 step 173 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
