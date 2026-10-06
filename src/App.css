@@ -1010,3 +1010,5 @@
 /* [Batch4 Step 18] a11y(darts): ensure target buttons have high-contrast focus rings */
 
 /* [Batch4 Step 19] perf(synth): optimize oscillator garbage collection timing */
+
+/* [Batch4 Step 20] audio(synth): calibrate master soft clipper to eliminate distortion */

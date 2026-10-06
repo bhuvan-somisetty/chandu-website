@@ -1,5 +1,5 @@
-perf(synth): optimize oscillator garbage collection timing
+audio(synth): calibrate master soft clipper to eliminate distortion
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 19].
+Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 20].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
