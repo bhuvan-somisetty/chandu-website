@@ -1,5 +1,5 @@
-audio(synth): calibrate master soft clipper to eliminate distortion
+style(navbar): enhance glassmorphic pill border luminance
 
-Refactor and enhance audio with performance, visual, and UX polish [batch 4 - step 20].
+Refactor and enhance navbar with performance, visual, and UX polish [batch 4 - step 21].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
