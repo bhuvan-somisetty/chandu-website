@@ -1,5 +1,5 @@
-docs(sequencer): refine module stability and polish styling parameters [sub-step 133]
+perf(lofi): refine module stability and polish styling parameters [sub-step 134]
 
-Enhance sequencer with performance, visual, and UX polish [batch 5 step 143 of 256].
+Enhance lofi with performance, visual, and UX polish [batch 5 step 144 of 256].
 
 Signed-off-by: bhuvan-somisetty <somisettybhuvan5@gmail.com>
